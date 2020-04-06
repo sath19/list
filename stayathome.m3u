@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:-1, StayAtHomeTV
 mms://freetime.ignorelist.com:55660
+#EXTINF:0,BBC One (HD)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a06e
+#EXTINF:0,BBC Two (HD)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a069
+#EXTINF:0,Clubland TV
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a042
+#EXTINF:0,BBC America
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/11650
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/12880
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/11695
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
