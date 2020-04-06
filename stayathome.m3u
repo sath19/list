@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, StayAtHomeTV
-mms://freetime.ignorelist.com:55660
+mms://135.23.163.44:55660
 #EXTINF:0,BBC One (HD)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
