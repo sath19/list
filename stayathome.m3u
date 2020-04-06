@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0,StayAtHome TV
 mms://135.23.163.44:55660
-#EXTINF:0,BBC One (Broken)
-http://78.110.169.226:8000/play/a06e
 #EXTINF:0,BBC Two (Broken)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a069
