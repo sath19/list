@@ -2,13 +2,11 @@
 #EXTINF:-1,StayAtHome TV
 mms://135.23.163.44:55660
 #EXTINF:0,BBC One (Broken)
-#EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
 #EXTINF:0,BBC Two (Broken)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a069
 #EXTINF:0,Clubland TV
-#EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a042
 #EXTINF:0,BBC America (Broken)
 #EXTVLCOPT:network-caching=1000
