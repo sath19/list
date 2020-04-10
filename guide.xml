@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="TV" generator-info-url="https://who.sprinklr.com/">
   <channel id="StayAtHome TV">
     <display-name lang="en">StayAtHome TV</display-name>
-    <url>http://www.canada.com</url>
+    <url>https://www.worldometers.info/coronavirus/</url>
   </channel>
   <programme start="20200410140000 -0400" stop="20200410143000 -0400" channel="StayAtHome TV">
     <title lang="en">Offline - Trailers</title>
