@@ -3,12 +3,12 @@
     <display-name lang="en">StayAtHome TV</display-name>
     <url></url>
   </channel>
-  <programme start="20200410040000 -0400" stop="20200410053000 -0400" channel="StayAtHome TV">
-    <title lang="en">Dredd (2012)</title>
-    <desc lang="en">In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.</desc>
-    <category lang="en">Movie</category>
-    <rating system="IMDB">
-      <value>R</value>
+ <programme start="20200410140000 -0400" stop="20200410143000 -0400" channel="StayAtHome TV">
+  <title lang="en">Offline - Trailers</title>
+  <desc lang="en">2020 movie trailers</desc>
+  <category lang="en">Misc</category>
+  <rating system="IMDB">
+   <value>NR</value>
     </rating>
   </programme>
   <programme start="20200410053300 -0400" stop="20200410074000 -0400" channel="StayAtHome TV">
