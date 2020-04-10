@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
+mms://freetime.ignorelist.com:55660
+#EXTINF:0,Channel 7
+#EXTVLCOPT:network-caching=1000
+http://radio.7chan.org:8000/CH7
+#EXTINF:0,BBC One (HD)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a06e
+#EXTINF:0,BBC Two (HD)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a069
+#EXTINF:0,Clubland TV
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a042
+#EXTINF:0,BBC America
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/11650
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/12880
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://p4.giffy.be:8080/Testing1/Testing1/11695
+#EXTINF:0,CGTN (Opt-1) (CN)
+#EXTVLCOPT:network-caching=1000
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,CGTN (Opt-2) (CN)
+#EXTVLCOPT:network-caching=1000
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0,Sky News (UK)
+#EXTVLCOPT:network-caching=1000
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:0,TeleSUR (VE)
+#EXTVLCOPT:network-caching=1000
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Bloomberg Television (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,CBS (WFOR) (EST)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+
