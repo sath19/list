@@ -136,17 +136,6 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200410133000 -0400" stop="20200410140000 -0400" channel="StayAtHome TV">
-    <title lang="en">First Dates Canada 
- :
- Matty and Jeff</title>
-    <desc lang="en">Now that 29-year-old Matty has decided he's solely into men, it's time to see if Jeff will be his Prince Charming.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  
   <programme start="20200410190000 -0400" stop="20200410193000 -0400" channel="StayAtHome TV">
     <title lang="en">Blind Date 
  :</title>
