@@ -146,66 +146,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200410140000 -0400" stop="20200410150000 -0400" channel="StayAtHome TV">
-    <title lang="en">Love It or List It 
- :
- The Renton Family</title>
-    <desc lang="en">Mike and Teresa live in a 90-year-old charming home by the lake that is lovely on the outside, but lacking on the inside. Mike does not want to cut the ties to his East Coast-flavoured home, but Teresa is fed up with its problems.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200410150000 -0400" stop="20200410160000 -0400" channel="StayAtHome TV">
-    <title lang="en">Love It or List It 
- :
- Mark and Alana</title>
-    <desc lang="en">When a young couple invites a parent to join them in their fixer-upper, they need Hilary and David to work their magic immediately. This is the ultimate race against time to create a residential renaissance that can please the entire family.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200410160000 -0400" stop="20200410170000 -0400" channel="StayAtHome TV">
-    <title lang="en">Love It or List It 
- :
- The Olmstead Family</title>
-    <desc lang="en">The Olmsteads live in the second floor apartment of their century fixer upper but plans to reform this residence went astray when their baby arrived. Hilary and David aim to bring this couple together in a house that's right for the whole family.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200410170000 -0400" stop="20200410180000 -0400" channel="StayAtHome TV">
-    <title lang="en">Love It or List It 
- :
- Kasia and Patrick</title>
-    <desc lang="en">With their first child on the way, two young artists decide their frozen second floor has got to go. With huge hopes but tiny budgets, Hilary and David duke it out to find this family some long sought-after peace of mind.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200410180000 -0400" stop="20200410183000 -0400" channel="StayAtHome TV">
-    <title lang="en">Say Yes to the Dress: Canada 
- :
- More Is More</title>
-    <desc lang="en">Eleni's on the hunt for two dresses for her wedding. Cherie wants a big ball gown for her king and queen themed wedding inside a castle.(n)</desc>
-    <category lang="en">Fashion</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200410183000 -0400" stop="20200410190000 -0400" channel="StayAtHome TV">
-    <title lang="en">Say Yes to the Dress: Canada 
- :
- Generations Expectations</title>
-    <desc lang="en">When three generations weigh in on finding the perfect dress, it means triple the opinions and triple the challenge! Marcie, with the help of her daughter and mom, is on the hunt for the perfect $10,000 ball gown.(n)</desc>
-    <category lang="en">Fashion</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
-  </programme>
+  
   <programme start="20200410190000 -0400" stop="20200410193000 -0400" channel="StayAtHome TV">
     <title lang="en">Blind Date 
  :</title>
@@ -225,9 +166,7 @@
     </rating>
   </programme>
   <programme start="20200410200000 -0400" stop="20200410223000 -0400" channel="StayAtHome TV">
-    <title lang="en">Movie 
- :
- The Twilight Saga: Eclipse</title>
+    <title lang="en">Movie  : The Twilight Saga: Eclipse</title>
     <desc lang="en">With her high school graduation coming up, a teenage girl must choose between her vampire boyfriend and her werewolf friend.(n)</desc>
     <credits>
       <director>David Slade</director>
