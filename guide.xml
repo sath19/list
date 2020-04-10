@@ -20,15 +20,15 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200410074300 -0400" stop="20200410092900 -0400" channel="StayAtHome TV">
-    <title lang="en">Wreck-It Ralph (2012)</title>
-    <desc lang="en">A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.</desc>
-    <category lang="en">Comedy</category>
+  <programme start="20200410161501 -0400" stop="20200410180300 -0400" channel="StayAtHome TV">
+    <title lang="en">Deadpool (2016)</title>
+    <desc lang="en">A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks</desc>
+    <category lang="en">Action, Comedy</category>
     <rating system="IMDB">
-      <value>PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20200410093000 -0400" stop="20200410112000 -0400" channel="StayAtHome TV">
+  <programme start="20200410160301 -0400" stop="20200410180000 -0400" channel="StayAtHome TV">
     <title lang="en">Judgment Night (1993)</title>
     <desc lang="en">Four friends on their way to a boxing match get caught in heavy traffic, so they take a shortcut in order to get there faster, unfortunately it leads to them witnessing a murder which leaves them running for their lives. </desc>
     <category lang="en">Movie</category>
