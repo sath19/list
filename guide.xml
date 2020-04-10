@@ -12,12 +12,12 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20200410143001 -0400" stop="20200410160000 -0400" channel="StayAtHome TV">
-    <title lang="en">Spaceballs (1987)</title>
-    <desc lang="en">A star pilot and his sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs. </desc>
-    <category lang="en">Comedy</category>
+  <programme start="20200410143001 -0400" stop="20200410161500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Fast and the Furious: Tokyo Drift (2006)</title>
+    <desc lang="en">A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America</desc>
+    <category lang="en">Action,Thriller</category>
     <rating system="IMDB">
-      <value>PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
   <programme start="20200410074300 -0400" stop="20200410092900 -0400" channel="StayAtHome TV">
