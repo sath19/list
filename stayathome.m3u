@@ -4,36 +4,63 @@ mms://freetime.ignorelist.com:55660
 #EXTINF:0,Channel 7
 #EXTVLCOPT:network-caching=1000
 http://radio.7chan.org:8000/CH7
-#EXTINF:0,BBC One (HD)
+#EXTINF:0,CP 24 (CA)
 #EXTVLCOPT:network-caching=1000
-http://78.110.169.226:8000/play/a06e
-#EXTINF:0,BBC Two (HD)
-#EXTVLCOPT:network-caching=1000
-http://78.110.169.226:8000/play/a069
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41559.m3u8
 #EXTINF:0,Clubland TV
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a042
-#EXTINF:0,BBC America
+#EXTINF:0,BBC Canada (CA)
 #EXTVLCOPT:network-caching=1000
-http://p4.giffy.be:8080/Testing1/Testing1/11650
-#EXTINF:0,A&E
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22138.m3u8
+#EXTINF:0,Showcase (CA)
 #EXTVLCOPT:network-caching=1000
-http://p4.giffy.be:8080/Testing1/Testing1/12880
-#EXTINF:0,FX
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38529.m3u8
+#EXTINF:0,Comedy (CA)
 #EXTVLCOPT:network-caching=1000
-http://p4.giffy.be:8080/Testing1/Testing1/11695
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22207.m3u8
+#EXTINF:0,FXX (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22297.m3u8
+#EXTINF:0,Much Music (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22349.m3u8
+#EXTINF:0,Showcase (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22283.m3u8
+#EXTINF:0,Space (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17422.m3u8
+#EXTINF:0,TMN 2 (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22156.m3u8
+#EXTINF:0,TMN 3 (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22155.m3u8
+#EXTINF:0,Silver Screen Classics (CA)
+#EXTVLCOPT:network-caching=1000
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38533.m3u8
+#EXTINF:0,BBC One (UK)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a06e
+#EXTINF:0,BBC Two (UK)
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a069
+#EXTINF:0,BBC 3 (UK)
+#EXTVLCOPT:network-caching=1000
+http://51.52.156.22:8888/http/003
+#EXTINF:0, History 2 (US)
+#EXTVLCOPT:network-caching=1000
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0, Nat Geo Wild (US)
+#EXTVLCOPT:network-caching=1000
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,CGTN (Opt-2) (CN)
-#EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:0,Sky News (UK)
 #EXTVLCOPT:network-caching=1000
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:0,TeleSUR (VE)
-#EXTVLCOPT:network-caching=1000
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,Bloomberg Television (Opt-1)
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
