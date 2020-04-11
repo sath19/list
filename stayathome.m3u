@@ -4,42 +4,9 @@ mms://freetime.ignorelist.com:55660
 #EXTINF:0,Channel 7
 #EXTVLCOPT:network-caching=1000
 http://radio.7chan.org:8000/CH7
-#EXTINF:0,CP 24 (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41559.m3u8
 #EXTINF:0,Clubland TV
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a042
-#EXTINF:0,BBC Canada (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22138.m3u8
-#EXTINF:0,Showcase (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38529.m3u8
-#EXTINF:0,Comedy (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22207.m3u8
-#EXTINF:0,FXX (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22297.m3u8
-#EXTINF:0,Much Music (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22349.m3u8
-#EXTINF:0,Showcase (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22283.m3u8
-#EXTINF:0,Space (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17422.m3u8
-#EXTINF:0,TMN 2 (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22156.m3u8
-#EXTINF:0,TMN 3 (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22155.m3u8
-#EXTINF:0,Silver Screen Classics (CA)
-#EXTVLCOPT:network-caching=1000
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38533.m3u8
 #EXTINF:0,BBC One (UK)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
@@ -61,11 +28,15 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,Sky News (UK)
 #EXTVLCOPT:network-caching=1000
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:0,Bloomberg Television (Opt-1)
+#EXTINF:0,Bloomberg Television (US)
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0,CBS (WFOR) (EST)
+#EXTINF:0,CBS (WFOR) (US)
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-
+#EXTINF:0,Canal Sony (UK)
+#EXTVLCOPT:network-caching=1000
+http://srv.tvprodigital.net:25461/Malu123/Malu123/4395
+#EXTINF:0, Disney Channel (US)
+#EXTVLCOPT:network-caching=1000
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
