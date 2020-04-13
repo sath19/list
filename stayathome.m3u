@@ -9,6 +9,8 @@ http://radio.7chan.org:8000/CH7
 #EXTINF:0,Clubland TV
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a042
+#EXTINF:0, itv2 (UK)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0,BBC One (UK)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
