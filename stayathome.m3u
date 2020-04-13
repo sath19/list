@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
-rtmp://freetime.ignorelist.com/live/test
+rtmp://freetime.ignorelist.com/sath
 #EXTINF:0 tvg-name="StayAtHome TV-Backup" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-Backup
 mms://freetime.ignorelist.com:55660
 #EXTINF:0,Channel 7
