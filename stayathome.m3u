@@ -6,8 +6,10 @@ mms://freetime.ignorelist.com:55660
 #EXTINF:0 tvg-name="7Chan" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",7Chan
 http://radio.7chan.org:8000/CH7
 #EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
+#EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
+#EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a04v
 #EXTINF:0, itv2 (UK)
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
