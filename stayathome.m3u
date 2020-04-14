@@ -4,53 +4,55 @@ rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="StayAtHome TV-Backup(down)" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-Backup
 mms://freetime.ignorelist.com:55660
 #EXTINF:0 tvg-name="---Working---
-#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" grou-title="",BBC One HD (UK)
+#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg"
 http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
-
+#EXTINF:0 tvg-name="BBC_News_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg"
+http://145.239.207.21:6999/pool_902/live/uk/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="BBC_Two_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_two_uk.jpg"
+http://145.239.207.21:6999/pool_902/live/uk/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="BBC_Four_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg"
+http://145.239.207.21:6999/pool_902/live/uk/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="CBBC_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbbc.jpg"
+http://145.239.207.21:6999/pool_902/live/uk/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg"
+http://145.239.207.21:6999/pool_902/live/uk/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="", itv2
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
-
 #EXTINF:0 tvg-name="7Chan" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",7Chan
 http://radio.7chan.org:8000/CH7
-
-#--Working--
-
-#EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
-#EXTVLCOPT:network-caching=2000
-http://78.110.169.226:8000/play/a042
-#EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
-#EXTVLCOPT:network-caching=2000
-http://78.110.169.226:8000/play/a04v
-#EXTINF:0 tvg-name="BBC News World (UK)" tvg-logo="https://i2.wp.com/techpoint.ng/wp-content/uploads/2015/06/bbc-world-news.png" group-title"",BBC News World
-#EXTVLCOPT:network-caching=1000
-rtmp://dNAe1.smoothstreams.tv:3635/viewstvn?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDU6MjM6MTUgQU0maGFzaF92YWx1ZT1IVUNjNktJa0l4R3R1QWVQZGZ2Z1NBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD12aWV3c3R2bi0yOTcx/ch90q1.stream
-#EXTINF:0 tvg-name="BBC One(UK)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-one-01-logo-png-transparent.png" group-title"",BBC One (UK)
-#EXTVLCOPT:network-caching=1000
-http://78.110.169.226:8000/play/a06e
-#EXTINF:0 tvg-name="BBC Ceebiest(UK)" tvg-logo="https://img.favpng.com/19/13/17/cbeebies-television-show-logo-cbbc-bbc-television-png-favpng-QbbGhEXJNJncwhm92J92WjETA.jpg" group-title="",BBC Ceebies
-#EXTVLCOPT:network-caching=1000
-http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-name="History 2 (US)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="", History 2 (US)
 #EXTVLCOPT:network-caching=1000
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:0 tvg-name="Nat Geo Wild (US)" tvg-logo="https://www.pngfind.com/pngs/m/228-2286262_nat-geo-wild-live-stream-without-cable-free.png" group-title="", Nat Geo Wild (US)
 #EXTVLCOPT:network-caching=1000
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:0,CGTN (Opt-1) (CN)
+#EXTINF:0, Disney Channel (US)
 #EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/500/prog_index.m3u8
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,CBS (WFOR) (US)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0,Canal Sony (BR)
+#EXTVLCOPT:network-caching=1000
+http://srv.tvprodigital.net:25461/Malu123/Malu123/4395
 #EXTINF:0,Sky News (UK)
 #EXTVLCOPT:network-caching=1000
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:0,Bloomberg Television (US)
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0,CBS (WFOR) (US)
+#EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
+#EXTVLCOPT:network-caching=2000
+http://78.110.169.226:8000/play/a042
+#EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
+#EXTVLCOPT:network-caching=2000
+http://78.110.169.226:8000/play/a04v
+#EXTINF:0 tvg-name="BBC One(UK)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-one-01-logo-png-transparent.png" group-title"",BBC One (UK)
 #EXTVLCOPT:network-caching=1000
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0,Canal Sony (UK)
+http://78.110.169.226:8000/play/a06e
+#EXTINF:0 tvg-name="BBC Ceebiest(UK)" tvg-logo="https://img.favpng.com/19/13/17/cbeebies-television-show-logo-cbbc-bbc-television-png-favpng-QbbGhEXJNJncwhm92J92WjETA.jpg" group-title="",BBC Ceebies
 #EXTVLCOPT:network-caching=1000
-http://srv.tvprodigital.net:25461/Malu123/Malu123/4395
-#EXTINF:0, Disney Channel (US)
+http://51.52.156.22:8888/http/003
+#EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+http://live.cgtn.com/500/prog_index.m3u8
