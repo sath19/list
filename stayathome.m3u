@@ -16,9 +16,9 @@ http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0,BBC One (UK)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
-#EXTINF:0,BBC Two (UK)
+#EXTINF:0,BBC News World
 #EXTVLCOPT:network-caching=1000
-http://78.110.169.226:8000/play/a069
+rtmp://dNAe1.smoothstreams.tv:3635/viewstvn?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDU6MjM6MTUgQU0maGFzaF92YWx1ZT1IVUNjNktJa0l4R3R1QWVQZGZ2Z1NBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD12aWV3c3R2bi0yOTcx/ch90q1.stream
 #EXTINF:0,BBC 3 (UK)
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/003
