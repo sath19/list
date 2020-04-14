@@ -5,7 +5,7 @@ rtmp://freetime.ignorelist.com/live/sath
 mms://freetime.ignorelist.com:55660
 #EXTINF:0 tvg-name="7Chan" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",7Chan
 http://radio.7chan.org:8000/CH7
-#EXTINF:0 tvg-name="ClublandTV" tvg-logo="https://en.wikipedia.org/wiki/Clubland_TV#/media/File:Clubland_tv.png" group-title="",Clubland TV
+#EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Clubland_tv.png" group-title="",Clubland TV
 http://78.110.169.226:8000/play/a042
 #EXTINF:0, itv2 (UK)
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
