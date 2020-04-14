@@ -1,18 +1,30 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
-#EXTINF:0 tvg-name="StayAtHome TV-Backup" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-Backup
+#EXTINF:0 tvg-name="StayAtHome TV-Backup(down)" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-Backup
 mms://freetime.ignorelist.com:55660
+#EXTINF:---Working----
+#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="", itv2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
+------------
+
+
 #EXTINF:0 tvg-name="7Chan" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",7Chan
 http://radio.7chan.org:8000/CH7
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a04v
-#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="", itv2
-http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0 tvg-name="BBC News World (UK)" tvg-logo="https://i2.wp.com/techpoint.ng/wp-content/uploads/2015/06/bbc-world-news.png" group-title"",BBC News World
 #EXTVLCOPT:network-caching=1000
 rtmp://dNAe1.smoothstreams.tv:3635/viewstvn?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDU6MjM6MTUgQU0maGFzaF92YWx1ZT1IVUNjNktJa0l4R3R1QWVQZGZ2Z1NBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD12aWV3c3R2bi0yOTcx/ch90q1.stream
