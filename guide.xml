@@ -35,17 +35,13 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/180.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <channel id="H2 (H2)">
-    <display-name lang="en">H2 (H2)</display-name>
-    <url>http://www.tv.com</url>
+  <channel id="National Geographic Wild">
+    <display-name lang="en">National Geographic Wild</display-name>
+    <url>http://www.tvtv.us</url>
   </channel>
-  <channel id="NatGeo WILD (NGWILD)">
-    <display-name lang="en">NatGeo WILD (NGWILD)</display-name>
-    <url>http://www.tv.com</url>
-  </channel>
-  <channel id="The Disney Channel HDTV (East) (DISHD)">
-    <display-name lang="en">The Disney Channel HDTV (East) (DISHD)</display-name>
-    <url>http://www.tv.com</url>
+  <channel id="Disney - Eastern Feed">
+    <display-name lang="en">Disney - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
   </channel>
   <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
@@ -349,6 +345,651 @@
       <value>4.9/10</value>
     </star-rating>
   </programme>
+  <programme start="20200416002500 +0100" stop="20200416003000 +0100" channel="BBC1 HD">
+    <title lang="en">Weather for the Week Ahead</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416003000 +0100" stop="20200416060000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/07a56dbc-91de-5f67-aaa3-1833676ced9d.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416060000 +0100" stop="20200416090000 +0100" channel="BBC1 HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Charlie Stayt and Naga Munchetty present a round-up of national and international news, plus current affairs, arts and entertainment, and weather.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416090000 +0100" stop="20200416100000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at 9</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/07a56dbc-91de-5f67-aaa3-1833676ced9d.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416100000 +0100" stop="20200416104500 +0100" channel="BBC1 HD">
+    <title lang="en">Daily Kitchen Live</title>
+    <desc lang="en">Matt Tebbutt and Jack Monroe are joined by a range of culinary talent from across the country by live link as they cook up another selection of dishes to inspire viewers.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/52885813-63bc-5a31-9055-b9c771412a46.jpg" />
+    <episode-num system="xmltv_ns">0.3/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416104500 +0100" stop="20200416114500 +0100" channel="BBC1 HD">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">The presenters follow the development of terraced houses in Walthamstow in London and Dover in Kent, and a three-bedroom semi in the Essex town of Epping.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2bd8bf68-940b-51b8-99bc-61961f65d23f.jpg" />
+    <episode-num system="xmltv_ns">23.3/30.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416114500 +0100" stop="20200416121500 +0100" channel="BBC1 HD">
+    <title lang="en">Night Force</title>
+    <desc lang="en">The volunteers from Northumbria Blood Bikes who transfer life-saving supplies between hospitals, and the Northern Powergrid team tackling power cuts through the night.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/893b4dbd-df11-5dc0-824d-32787fca0710.jpg" />
+    <episode-num system="xmltv_ns">0.8/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416121500 +0100" stop="20200416130000 +0100" channel="BBC1 HD">
+    <title lang="en">Bargain Hunt</title>
+    <sub-title lang="en">Newark 22</sub-title>
+    <desc lang="en">Experts Kate Bliss and Ben Cooper help two teams search for items at the Newark Runway Antiques and Collectors fair in Nottinghamshire. Presented by Charlie Ross.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8beff0c1-c2cd-5bb2-bad3-a36c53ae0dd1.jpg" />
+    <episode-num system="xmltv_ns">50.24/32.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416130000 +0100" stop="20200416133000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200416133000 +0100" stop="20200416134500 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416134500 +0100" stop="20200416141500 +0100" channel="BBC1 HD">
+    <title lang="en">Doctors</title>
+    <sub-title lang="en">Things Fall Apart</sub-title>
+    <desc lang="en">Ruhma struggles to cope at home and turns to the one person who cannot judge her. Emma meets a demanding pregnant patient, and the soap dispenser mystery is finally solved.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ea98a00a-253d-5dae-9495-1f06ca569b14.jpg" />
+    <episode-num system="xmltv_ns">20.103/196.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416141500 +0100" stop="20200416150000 +0100" channel="BBC1 HD">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Mayor and the Magician</sub-title>
+    <desc lang="en">The mayor is electrocuted while speaking at the Kembleford village fete, and Father Brown suspects he was the victim of a deliberate act. Meanwhile, Mrs McCarthy's past comes back to haunt her. Mystery, starring Mark Williams and Sorcha Cusack.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c341886a-15ce-57ec-aa81-a51a93e70810.jpg" />
+    <episode-num system="xmltv_ns">0.8/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416150000 +0100" stop="20200416154500 +0100" channel="BBC1 HD">
+    <title lang="en">Escape to the Country</title>
+    <sub-title lang="en">Anglesey</sub-title>
+    <desc lang="en">Alistair Appleton looks for property on Anglesey for a couple who have a Â£475,000 budget, and also learns about the importance of preserving the island's ancient woodland.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f7428c9a-075c-5e7e-a419-300fe77cd3b9.jpg" />
+    <episode-num system="xmltv_ns">18.59/70.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416154500 +0100" stop="20200416163000 +0100" channel="BBC1 HD">
+    <title lang="en">Money for Nothing</title>
+    <desc lang="en">Sarah Moore scours the recycling centre in Witley, Surrey, for items that can be reclaimed and given a new life, including an old aluminium trough.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7554a187-5e46-550f-9100-e3d0afa51d46.jpg" />
+    <episode-num system="xmltv_ns">4.17/20.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416163000 +0100" stop="20200416171500 +0100" channel="BBC1 HD">
+    <title lang="en">Antiques Road Trip</title>
+    <desc lang="en">Catherine Southon and Tim Medhurst's trip takes in the Shires, where Tim shares some interesting sandwich recipes and uncovers an old coffin, while Catherine finds some medals.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f0c84628-cb92-522e-97d1-c3da4b3365d0.jpg" />
+    <episode-num system="xmltv_ns">18.8/25.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416171500 +0100" stop="20200416180000 +0100" channel="BBC1 HD">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e8b9e82d-cba4-5299-82ac-ca44cb7139f2.jpg" />
+    <episode-num system="xmltv_ns">22.7/55.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416180000 +0100" stop="20200416183000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200416183000 +0100" stop="20200416190000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416190000 +0100" stop="20200416193000 +0100" channel="BBC1 HD">
+    <title lang="en">The One Show</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Live magazine show featuring a mixture of celebrity chat and stories of interest. Presented by Alex Jones.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b6266c2c-2fee-5315-bb10-201d2a2099a8.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416193000 +0100" stop="20200416200000 +0100" channel="BBC1 HD">
+    <title lang="en">For Love or Money</title>
+    <desc lang="en">Kym Marsh and Ashley John-Baptiste investigate a scam that saw its unwitting victim conned out of his life savings and dragged into a money-laundering ring.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1387663a-dd7b-56ec-8558-2c98d32d5b62.jpg" />
+    <episode-num system="xmltv_ns">0.1/5.</episode-num>
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20200416200000 +0100" stop="20200416210000 +0100" channel="BBC1 HD">
+    <title lang="en">Question Time</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Fiona Bruce presents the topical debate, inviting a panel of politicians and other guests to answer questions from viewers at home on subjects that have made the headlines over the past week.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e89ed7a5-a1c8-55e1-a9ef-821c6a59b7af.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416210000 +0100" stop="20200416220000 +0100" channel="BBC1 HD">
+    <title lang="en">MasterChef</title>
+    <desc lang="en">The penultimate show sees the four amateurs being mentored by Albert Adria, one of the world's greatest pastry chefs. He welcomes the finalists into his Cakes and Bubbles restaurant in London's CafÃ© Royal, where he demonstrates two of his dishes, which they have to recreate for a table of world-class pastry experts. After this, the contestants have one final chance to impress, creating one exceptional dish for John Torode and Gregg Wallace that will showcase their growing cooking talent - knowing only three of them will make it through to the final show.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/21859318-1794-51ea-b734-319687b7cd09.jpg" />
+    <episode-num system="xmltv_ns">15.22/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416220000 +0100" stop="20200416223000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416223000 +0100" stop="20200416224000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416224000 +0100" stop="20200416224500 +0100" channel="BBC1 HD">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416224500 +0100" stop="20200416234500 +0100" channel="BBC1 HD">
+    <title lang="en">New Tricks</title>
+    <sub-title lang="en">Prodigal Sons</sub-title>
+    <desc lang="en">With Sasha back on fighting form, UCOS investigates the death of a talented cricket prodigy, who was the apple of his father's eye, yet loathed by his on-field team-mates. The death was recorded as misadventure but with new evidence pointing to infighting, over-zealous autograph hunters and extra marital affairs, UCOS are soon bowled over by the list of potential murder suspects. Meanwhile, wise to Steve's monetary problems, Danny appoints himself as his personal financial adviser. Detective drama, starring Larry Lamb.(n)</desc>
+    <category lang="en">Detective</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c4b65bfc-e0de-5a77-b41d-ba25c84cb948.jpg" />
+    <episode-num system="xmltv_ns">11.4/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416234500 +0100" stop="20200417001500 +0100" channel="BBC1 HD">
+    <title lang="en">Newscast</title>
+    <sub-title lang="en">The Coronavirus Newscast</sub-title>
+    <desc lang="en">Laura Kuenssberg, Adam Fleming and Fergus Walsh present the latest on the coronavirus pandemic.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ee936f3f-0c48-585a-ab92-a86b86c81ded.jpg" />
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20200417001500 +0100" stop="20200417002000 +0100" channel="BBC1 HD">
+    <title lang="en">Weather for the Week Ahead</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417002000 +0100" stop="20200417060000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/07a56dbc-91de-5f67-aaa3-1833676ced9d.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417060000 +0100" stop="20200417090000 +0100" channel="BBC1 HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">Charlie Stayt and Naga Munchetty present a round-up of national and international news, plus current affairs, arts and entertainment, and weather.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417090000 +0100" stop="20200417100000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at 9</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/07a56dbc-91de-5f67-aaa3-1833676ced9d.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417100000 +0100" stop="20200417104500 +0100" channel="BBC1 HD">
+    <title lang="en">Daily Kitchen Live</title>
+    <desc lang="en">Matt Tebbutt is joined by food writer and journalist Jack Monroe in the studio, as well as a range of culinary talent from across the country by live link. Together they cook up a range of dishes to inspire viewers at home.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/52885813-63bc-5a31-9055-b9c771412a46.jpg" />
+    <episode-num system="xmltv_ns">0.4/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417104500 +0100" stop="20200417114500 +0100" channel="BBC1 HD">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Martel Maxwell is in her native Scotland looking round a flat in Dumfries, as well as visiting a plot of land in Birmingham, and Martin Roberts is at a house in Abergavenny.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2bd8bf68-940b-51b8-99bc-61961f65d23f.jpg" />
+    <episode-num system="xmltv_ns">21.56/80.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417114500 +0100" stop="20200417121500 +0100" channel="BBC1 HD">
+    <title lang="en">Night Force</title>
+    <desc lang="en">Documentary following the lives of the army of night workers. Here, the team at one of the country's biggest shopping malls installs a three-metre tall reindeer for Christmas shoppers. In Tynemouth the biggest fish catch of the year is landed with only hours to process the catch, while refuse collectors work hard to get Newcastle's streets clean and waste recycled before dawn breaks.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dce1a3cf-a9e6-5e58-a9c9-555cf7f9fd8e.jpg" />
+    <episode-num system="xmltv_ns">0.9/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417121500 +0100" stop="20200417130000 +0100" channel="BBC1 HD">
+    <title lang="en">Bargain Hunt</title>
+    <sub-title lang="en">Detling 12</sub-title>
+    <desc lang="en">Natasha Raskin Sharp invites two teams to tour Detling Antique and Vintage Fair in Kent in search of items to take to auction in the hope of making the greater profit. They are helped on their endeavours by experts Caroline Hawley and Raj Bisram. Away from the contest, Natasha has a mystery item up her sleeve.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/11c978a3-e8bf-516e-a659-a7a3f00f3c20.jpg" />
+    <episode-num system="xmltv_ns">54.27/32.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417130000 +0100" stop="20200417133000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200417133000 +0100" stop="20200417134500 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417134500 +0100" stop="20200417141000 +0100" channel="BBC1 HD">
+    <title lang="en">Doctors</title>
+    <sub-title lang="en">Together Time</sub-title>
+    <desc lang="en">Rob and Karen's day off does not go to plan when a surprise visitor turns into an unwelcome guest. Shak is left reeling by Ruhma's confession, while Daniel berates Bear's lack of 'hands on' research.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1da96a3c-ddf6-504c-9953-79bc659ff578.jpg" />
+    <episode-num system="xmltv_ns">20.104/196.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417141000 +0100" stop="20200417150000 +0100" channel="BBC1 HD">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Blue Cross</sub-title>
+    <desc lang="en">The priest's priceless Blue Cross is targeted by infamous criminal Flambeau, so taking matters into his own hands Father Brown sets out to try to save the thief's soul, but risks falling into a trap. Mystery, starring Mark Williams.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/30364b8c-885d-585d-b6cf-eeec0cbd2482.jpg" />
+    <episode-num system="xmltv_ns">0.9/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417150000 +0100" stop="20200417154500 +0100" channel="BBC1 HD">
+    <title lang="en">Escape to the Country</title>
+    <sub-title lang="en">North Wales</sub-title>
+    <desc lang="en">Jonnie Irwin embarks on a house-hunting expedition in north Wales with a couple who have a Â£300,000 budget and a wish list including a craft room and community close by. Away from his quest, Jonnie cannot resist trying out Snowdonia's latest outdoor activity, catching a wave at the world's first artificial surf lagoon.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f7428c9a-075c-5e7e-a419-300fe77cd3b9.jpg" />
+    <episode-num system="xmltv_ns">18.60/70.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417154500 +0100" stop="20200417163000 +0100" channel="BBC1 HD">
+    <title lang="en">Money for Nothing</title>
+    <desc lang="en">Junk rejuvenator Sarah Moore rummages through the rubbish at Dunbar Recycling Centre in Scotland, where she's on the lookout for three unwanted items that she can save from the skip. Sarah calls on carpenter Bruce Faulseit to add a modern twist to a collection of bathroom bits, while blacksmith Kev Paxton tries to find a creative new use for a galvanised metal sheet. For Sarah's own project she has three dining chairs to update.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/bed4a88e-747a-55fc-bdf9-e28b0f5a9fef.jpg" />
+    <episode-num system="xmltv_ns">4.19/20.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417163000 +0100" stop="20200417171500 +0100" channel="BBC1 HD">
+    <title lang="en">Antiques Road Trip</title>
+    <desc lang="en">Catherine Southon and Tim Medhurst explore the rolling Cotswold Hills in their 1970s off-roader. There are ancient artefacts, dry stone walls and lots and lots of sheep - but who will win out at the final auction in Devizes, Wiltshire?(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1f1f509a-627e-5fa1-9d56-8bf7d66a941b.jpg" />
+    <episode-num system="xmltv_ns">18.9/25.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417171500 +0100" stop="20200417180000 +0100" channel="BBC1 HD">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e8b9e82d-cba4-5299-82ac-ca44cb7139f2.jpg" />
+    <episode-num system="xmltv_ns">22.8/55.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417180000 +0100" stop="20200417183000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200417183000 +0100" stop="20200417190000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417190000 +0100" stop="20200417193000 +0100" channel="BBC1 HD">
+    <title lang="en">The One Show</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">Alex Jones brings the working week to a close with the usual mix of celebrity guests and stories about people in extraordinary circumstances.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b6266c2c-2fee-5315-bb10-201d2a2099a8.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417193000 +0100" stop="20200417203000 +0100" channel="BBC1 HD">
+    <title lang="en">MasterChef</title>
+    <sub-title lang="en">Final</sub-title>
+    <desc lang="en">After an arduous eight-week journey, the search for the country's best amateur cook reaches its climax as the final three contenders push themselves to the limit for one last time before judges John Torode and Gregg Wallace. This is their very last chance to pull out all the stops, show everything they've learned along the way and demonstrate the kind of cook they have become. They must produce the best three dishes of their lives, push their culinary boundaries and deliver jaw-droppingly good food as they vie to lift the trophy and become the 16th MasterChef champion.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/21859318-1794-51ea-b734-319687b7cd09.jpg" />
+    <episode-num system="xmltv_ns">15.23/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417203000 +0100" stop="20200417210000 +0100" channel="BBC1 HD">
+    <title lang="en">Have I Got News for You</title>
+    <desc lang="en">Victoria Coren Mitchell hosts the satirical current affairs quiz, with entrepreneur Deborah Meaden and comedian Phil Wang joining regular team captains Ian Hislop and Paul Merton.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/af3b199e-fbff-5a8b-8678-3009aff86244.jpg" />
+    <episode-num system="xmltv_ns">58.2/9.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417210000 +0100" stop="20200417213000 +0100" channel="BBC1 HD">
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="en">The Bafta-award-winning host is back to review trending news stories before welcoming another group of Hollywood A-listers and British TV big shots to chat about what they've been up to recently - or whatever else takes their fancy. Plus, the notorious Red Chair, now relocated to the comfort of a viewer's own armchair at home.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0ee0ace8-e9ff-504e-916d-61c57b2bbbab.jpg" />
+    <episode-num system="xmltv_ns">26.1/9.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417213000 +0100" stop="20200417220000 +0100" channel="BBC1 HD">
+    <title lang="en">Peter Kay's Comedy Shuffle</title>
+    <desc lang="en">The comedian, actor, writer and director looks back over his eventful career in showbusiness, joined by rock legend Noddy Holder.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e09a72cf-02b1-5ed6-b17c-3977724823f1.jpg" />
+    <episode-num system="xmltv_ns">3.3/5.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417220000 +0100" stop="20200417223000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417223000 +0100" stop="20200417224000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417224000 +0100" stop="20200417224500 +0100" channel="BBC1 HD">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417224500 +0100" stop="20200417232500 +0100" channel="BBC1 HD">
+    <title lang="en">Goodness Gracious Me - 20 Years Innit</title>
+    <desc lang="en">To celebrate its 20th anniversary, this programme looks back at some the funniest and most-loved moments from the award-winning comedy sketch show, including the 10 most memorable sketches - featuring the likes of The Kupers/Coopers, Mr Everything Comes from India, Chunky Lafunga, Cheque Please and Competitive Mums - voted for by comedy fans. The programme also features a series of exclusive interviews with stars of the show, its creators and fellow comedians who are fans of the series.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1a8754e2-2dc7-5100-815e-2af1f35499ad.jpg" />
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417232500 +0100" stop="20200417235500 +0100" channel="BBC1 HD">
+    <title lang="en">Goodness Gracious Me</title>
+    <desc lang="en">The first-ever episode of the Asian sketch show, first aired in 1998, starring Meera Syal, Sanjeev Bhaskar, Nina Wadia and Kulvinder Ghir. Highlights include life with the Coopers, nightclubbing with the Bhangramuffins, and why brown is the new black.(n)</desc>
+    <category lang="en">Sketches</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fe246605-6712-5e49-a8fa-0404568f4f78.jpg" />
+    <episode-num system="xmltv_ns">0.0/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417235500 +0100" stop="20200418013500 +0100" channel="BBC1 HD">
+    <title lang="en">The Sapphires</title>
+    <desc lang="en">An Irish music manager discovers four Aboriginal Australian singers in a remote mission in the 1960s, and plans to turn them into their country's answer to the Supremes. The naive girls face a challenging journey to stardom when they are sent to entertain American troops in the Vietnam War. Drama, starring Deborah Mailman and Chris O'Dowd.(n)</desc>
+    <date>2012</date>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ae920740-818a-5d6c-8559-3ea590950e32.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
   <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC News HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">15/04/2020</sub-title>
@@ -518,6 +1159,589 @@
       <value>2.6/10</value>
     </star-rating>
   </programme>
+  <programme start="20200416000000 +0100" stop="20200416003000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416003000 +0100" stop="20200416010000 +0100" channel="BBC News HD">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b40da153-1d85-58b5-8641-aceb4c3de3ce.jpg" />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416010000 +0100" stop="20200416013000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416013000 +0100" stop="20200416020000 +0100" channel="BBC News HD">
+    <title lang="en">Our World</title>
+    <sub-title lang="en">North Korea's Celebrity Defectors</sub-title>
+    <desc lang="en">Our World follows two North Koreans as they gain fame in front of the camera capitalising on their defector status, yet struggle to move on from their past. (12+).(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political</category>
+    <category lang="en">Economics</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/acdd0342-dc00-510c-9c5f-0d5eb493feb7.jpg" />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416020000 +0100" stop="20200416023000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416023000 +0100" stop="20200416030000 +0100" channel="BBC News HD">
+    <title lang="en">Free Will: Who Is Really In Charge Of Our Minds</title>
+    <desc lang="en">In this fascinating journey, Melissa Hogenboom considers whether or not we are in charge of our own decisions; from neuroscience to physics to how our understanding of free will impacts on our morality and the choices we make.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a8dd2729-7bf4-54ce-bd5c-027a76d6a6a0.jpg" />
+  </programme>
+  <programme start="20200416030000 +0100" stop="20200416033000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416033000 +0100" stop="20200416040000 +0100" channel="BBC News HD">
+    <title lang="en">Click</title>
+    <sub-title lang="en">10/04/2020</sub-title>
+    <desc lang="en">A guide to the latest gadgets, websites, games and computer industry news.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/47d139b4-ffc1-500b-ab1b-6d1c948b9ef4.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <star-rating system="GB">
+      <value>3.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416040000 +0100" stop="20200416043000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416043000 +0100" stop="20200416050000 +0100" channel="BBC News HD">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b40da153-1d85-58b5-8641-aceb4c3de3ce.jpg" />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416050000 +0100" stop="20200416060000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416060000 +0100" stop="20200416090000 +0100" channel="BBC News HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Charlie Stayt and Naga Munchetty present a round-up of national and international news, plus current affairs, arts and entertainment, and weather.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416090000 +0100" stop="20200416110000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416110000 +0100" stop="20200416130000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416130000 +0100" stop="20200416133000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+  </programme>
+  <programme start="20200416133000 +0100" stop="20200416140000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416140000 +0100" stop="20200416170000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416170000 +0100" stop="20200416180000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416180000 +0100" stop="20200416183000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200416183000 +0100" stop="20200416190000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416190000 +0100" stop="20200416200000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416200000 +0100" stop="20200416210000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416210000 +0100" stop="20200416213000 +0100" channel="BBC News HD">
+    <title lang="en">Outside Source</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0d221910-b0f1-5304-ab31-5708b7d695fe.jpg" />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416213000 +0100" stop="20200416220000 +0100" channel="BBC News HD">
+    <title lang="en">Newscast</title>
+    <sub-title lang="en">The Coronavirus Newscast</sub-title>
+    <desc lang="en">Laura Kuenssberg, Adam Fleming and Fergus Walsh present the latest on the coronavirus pandemic.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ee936f3f-0c48-585a-ab92-a86b86c81ded.jpg" />
+  </programme>
+  <programme start="20200416220000 +0100" stop="20200416223000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416223000 +0100" stop="20200416224500 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416224500 +0100" stop="20200416230000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">16/04/2020 - 1</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416230000 +0100" stop="20200416233000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416233000 +0100" stop="20200417000000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">16/04/2020 - 2</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417000000 +0100" stop="20200417003000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417003000 +0100" stop="20200417010000 +0100" channel="BBC News HD">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b40da153-1d85-58b5-8641-aceb4c3de3ce.jpg" />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417010000 +0100" stop="20200417013000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417013000 +0100" stop="20200417020000 +0100" channel="BBC News HD">
+    <title lang="en">Click</title>
+    <sub-title lang="en">10/04/2020</sub-title>
+    <desc lang="en">A guide to the latest gadgets, websites, games and computer industry news.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/47d139b4-ffc1-500b-ab1b-6d1c948b9ef4.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <star-rating system="GB">
+      <value>3.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417020000 +0100" stop="20200417023000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417023000 +0100" stop="20200417030000 +0100" channel="BBC News HD">
+    <title lang="en">The Travel Show</title>
+    <sub-title lang="en">11/04/2020</sub-title>
+    <desc lang="en">Join the team on their journey of discovery as they explore new destinations around the globe and uncover hidden sides to some of the world's favourite holiday hotspots.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b026e125-08e0-5904-8e11-3b276617ead3.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <star-rating system="GB">
+      <value>4.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417030000 +0100" stop="20200417033000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417033000 +0100" stop="20200417040000 +0100" channel="BBC News HD">
+    <title lang="en">The Secret World of Japanese Bicycle Racing: With Sir Chris Hoy</title>
+    <desc lang="en">Olympic icon Sir Chris Hoy heads to Japan, host of next year's Tokyo Games, to explore the Japanese phenomenon of the keirin, the most extreme and exciting event in track cycling.(n)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ca974758-21a2-584e-b19c-1aac44880f49.jpg" />
+  </programme>
+  <programme start="20200417040000 +0100" stop="20200417043000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417043000 +0100" stop="20200417050000 +0100" channel="BBC News HD">
+    <title lang="en">HARDtalk</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Interviews with newsmakers and personalities from across the globe.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b40da153-1d85-58b5-8641-aceb4c3de3ce.jpg" />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417050000 +0100" stop="20200417060000 +0100" channel="BBC News HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">The latest international headlines.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/33e46bae-1e38-5b08-94d1-622365140e2e.jpg" />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417060000 +0100" stop="20200417090000 +0100" channel="BBC News HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">Charlie Stayt and Naga Munchetty present a round-up of national and international news, plus current affairs, arts and entertainment, and weather.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417090000 +0100" stop="20200417100000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417100000 +0100" stop="20200417130000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417130000 +0100" stop="20200417133000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+  </programme>
+  <programme start="20200417133000 +0100" stop="20200417140000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417140000 +0100" stop="20200417170000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417170000 +0100" stop="20200417180000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417180000 +0100" stop="20200417183000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+  </programme>
+  <programme start="20200417183000 +0100" stop="20200417190000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417190000 +0100" stop="20200417200000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417200000 +0100" stop="20200417210000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417210000 +0100" stop="20200417213000 +0100" channel="BBC News HD">
+    <title lang="en">World News Today</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">The day's leading stories.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3cb4b855-7b59-5f49-8f3a-9e80c2abf246.jpg" />
+    <star-rating system="GB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417213000 +0100" stop="20200417214500 +0100" channel="BBC News HD">
+    <title lang="en">Coronavirus: What You Need to Know</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">The latest information and health advice on Coronavirus, including what the symptoms are, and how to self-isolate. Presented by Victoria Derbyshire.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/4fb66142-d9fc-58c1-a5b5-92f1ad8e789b.jpg" />
+  </programme>
+  <programme start="20200417214500 +0100" stop="20200417220000 +0100" channel="BBC News HD">
+    <title lang="en">The Film Review</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">Mark Kermode gives his unique take on the best and worst of the week's film and DVD releases.(n)</desc>
+    <category lang="en">Arts</category>
+    <category lang="en">Culture (without music)</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/acfa3281-fc4c-5bb8-a4ba-c7c0a7a57262.jpg" />
+    <star-rating system="GB">
+      <value>3.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417220000 +0100" stop="20200417224500 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417224500 +0100" stop="20200417230000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">17/04/2020 - 1</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417230000 +0100" stop="20200417233000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417233000 +0100" stop="20200418000000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">17/04/2020 - 2</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
   <programme start="20200415023000 +0100" stop="20200415064500 +0100" channel="BBC2 HD">
     <title lang="en">This Is BBC Two</title>
     <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
@@ -647,22 +1871,20 @@
     </star-rating>
   </programme>
   <programme start="20200415152000 +0100" stop="20200415171500 +0100" channel="BBC2 HD">
-    <title lang="en">The Vikings</title>
+    <title lang="en">The Vikings (?)</title>
     <desc lang="en">A Norse warrior becomes embroiled in a feud with a former slave over the succession to the Northumbrian throne, unaware his arch-enemy is really his half-brother. Matters come to a head when they both set their sights on a Welsh princess, leading to a confrontation - but the situation is further complicated by the interference of England's sadistic king. Adventure, with Kirk Douglas, Tony Curtis, Janet Leigh, Ernest Borgnine and James Donald.(n)</desc>
     <date>1958</date>
     <category lang="en">Film</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/5aaad575-3d68-5e5f-9952-d624511926f9.jpg" />
     <subtitles />
     <star-rating system="GB">
       <value>9.1/10</value>
     </star-rating>
   </programme>
   <programme start="20200415171500 +0100" stop="20200415180000 +0100" channel="BBC2 HD">
-    <title lang="en">Flog It</title>
+    <title lang="en">Flog It (?)</title>
     <desc lang="en">Five experts assess items brought to the Blickling estate in Norfolk, with David Harper excited by an early device for watching films, while David Fletcher and James Lewis reminisce about Rupert the Bear books and Dinky toys. Paul Martin enjoys a ride in a tank on historic former military camp.(n)</desc>
     <category lang="en">Leisure</category>
     <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/1fb10594-4331-5446-9df0-fe2bd1d43bd1.jpg" />
     <episode-num system="xmltv_ns">16.38/40.</episode-num>
     <subtitles />
     <star-rating system="GB">
@@ -670,10 +1892,9 @@
     </star-rating>
   </programme>
   <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC2 HD">
-    <title lang="en">Richard Osman's House of Games</title>
+    <title lang="en">Richard Osman's House of Games (?)</title>
     <desc lang="en">Mathematician Rachel Riley, singer JB Gill, newscaster Katie Derham and comedian Richard Herring take part in a variety of entertaining trivia-based games.(n)</desc>
     <category lang="en">General</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/642e008a-0005-5353-a2c8-f9f580db9895.jpg" />
     <episode-num system="xmltv_ns">1.27/50.</episode-num>
     <previously-shown />
     <subtitles />
@@ -682,12 +1903,11 @@
     </star-rating>
   </programme>
   <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC2 HD">
-    <title lang="en">Animal Park</title>
+    <title lang="en">Animal Park (?)</title>
     <desc lang="en">Excitement is mounting as the Park keepers hope that rare Amur tiger Yana may be pregnant. Meanwhile, a rare little Hyrax is in trouble.(n)</desc>
     <category lang="en">Education</category>
     <category lang="en">Science</category>
     <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/990164b8-449c-532a-9b06-fe1e4150b826.jpg" />
     <episode-num system="xmltv_ns">2018.12/15.</episode-num>
     <subtitles />
     <star-rating system="GB">
@@ -695,12 +1915,11 @@
     </star-rating>
   </programme>
   <programme start="20200415190000 +0100" stop="20200415200000 +0100" channel="BBC2 HD">
-    <title lang="en">The Hairy Bikers' Mediterranean Adventure</title>
+    <title lang="en">The Hairy Bikers' Mediterranean Adventure (?)</title>
     <sub-title lang="en">Balearics</sub-title>
     <desc lang="en">The bikers ride across the Balearic islands Menorca and Majorca, sampling great produce and finding out about the British influence in the Mediterranean from the 17th century to the present day. They reveal how mayonnaise was invented in Menorca's capital of Mahon, sample Menorcan gin, and meet British chef Mark Fosh, who has lived in Majorca for more than 20 years. Recipes include cuttlefish stew and squid salad with mayonnaise, fish and chips in gin and tonic batter, and sea bass a la mallorquina and saffron potato puree.(n)</desc>
     <category lang="en">Leisure</category>
     <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/b21adf6b-cbdd-5749-ad2e-3ca18fdf25ae.jpg" />
     <episode-num system="xmltv_ns">0.4/6.</episode-num>
     <previously-shown />
     <subtitles />
@@ -709,12 +1928,11 @@
     </star-rating>
   </programme>
   <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC2 HD">
-    <title lang="en">Great British Menu</title>
+    <title lang="en">Great British Menu (?)</title>
     <sub-title lang="en">North West - Starter &amp; Fish Courses</sub-title>
     <desc lang="en">As the competition continues, chefs Tom Barnes, Sam Buckley, Hrishikesh Desai and George Farrugia compete in the heats for the North West. Each chef prepares a starter and fish course celebrating iconic food from children's literature, specifically tasked with honouring the theme of action and adventure. Presented by Susan Calman.(n)</desc>
     <category lang="en">Leisure</category>
     <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/a7bc451d-4f6f-5097-9b87-54dbbe27b248.jpg" />
     <episode-num system="xmltv_ns">14.12/29.</episode-num>
     <subtitles />
     <star-rating system="GB">
@@ -722,27 +1940,24 @@
     </star-rating>
   </programme>
   <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC2 HD">
-    <title lang="en">Devs</title>
+    <title lang="en">Devs (?)</title>
     <desc lang="en">Lily and her boyfriend both work as programmers at the vast campus of quantum computer company Amaya, near San Francisco. When Sergei comes to the CEO's attention, he is recruited to a secretive division of the company - but when he fails to return home, an alarmed Lily begins to investigate his disappearance. Mystery thriller created by Alex Garland (Ex Machina, Annihilation), starring Sonoya Mizuno, Nick Offerman, Zach Grenier and Alison Pill.(n)</desc>
     <category lang="en">Thriller</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/5f8842c7-d9b6-5078-a118-945f3aa142b7.jpg" />
     <episode-num system="xmltv_ns">0.0/8.</episode-num>
     <subtitles />
   </programme>
   <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC2 HD">
-    <title lang="en">Mister Winner</title>
+    <title lang="en">Mister Winner (?)</title>
     <sub-title lang="en">The Package</sub-title>
     <desc lang="en">Jemma asks Leslie to wait in for a parcel for her while she goes to a business trip, but Leslie has other ideas and plans to go to a Dr Who convention with his best friend Cooper. Feeling guilty about letting her down, Leslie decides to cancel his day out with Cooper and stays at home to wait in for the package, which is a gift for his father-in-law. However, things do not go to plan when Leslie manages to get himself locked out of the flat, before almost burning the place down. Comedy, starring Spencer Jones and Lucy Pearman.(n)</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/b4163a98-8b7a-5203-a327-c7cd15e13e7b.jpg" />
     <episode-num system="xmltv_ns">0.3/6.</episode-num>
     <subtitles />
   </programme>
   <programme start="20200415223000 +0100" stop="20200415224500 +0100" channel="BBC2 HD">
-    <title lang="en">Mandy</title>
+    <title lang="en">Mandy (?)</title>
     <desc lang="en">Comedy short, written by and starring Diane Morgan (Philomena Cunk). A woman becomes obsessed with a sofa she has seen in a shop window. Unable to think of anything else, she goes to desperate lengths to possess the furniture of her dreams.(n)</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/d5f01c57-cbfd-5da1-b300-811f2196788f.jpg" />
     <previously-shown />
     <subtitles />
     <star-rating system="GB">
@@ -750,40 +1965,612 @@
     </star-rating>
   </programme>
   <programme start="20200415224500 +0100" stop="20200415232500 +0100" channel="BBC2 HD">
-    <title lang="en">Newsnight</title>
+    <title lang="en">Newsnight (?)</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <desc lang="en">Analysis of the day's events. Presented by Emma Barnett.(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/14c5ad97-630f-575f-ba8e-ec7939dce584.jpg" />
     <subtitles />
     <star-rating system="GB">
       <value>4.2/10</value>
     </star-rating>
   </programme>
   <programme start="20200415232500 +0100" stop="20200415233000 +0100" channel="BBC2 HD">
-    <title lang="en">Weather</title>
+    <title lang="en">Weather (?)</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
     <subtitles />
     <star-rating system="GB">
       <value>8.8/10</value>
     </star-rating>
   </programme>
   <programme start="20200415233000 +0100" stop="20200416003000 +0100" channel="BBC2 HD">
-    <title lang="en">Dragons' Den</title>
+    <title lang="en">Dragons' Den (?)</title>
     <desc lang="en">Entrepreneurs pitch more money-making ideas to panellists Sara Davies, Touker Suleyman, Deborah Meaden, Tej Lalvani and Peter Jones. Two Syrian refugees share their alternative to Cypriot halloumi, a couple showcase some virus filtration gadgets, and a charitable entrepreneur has a plan for second-hand clothes. Presented by Evan Davis.(n)</desc>
     <category lang="en">Education</category>
     <category lang="en">Science</category>
     <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/418f0037-50ce-5802-bc62-818b9e63e8b6.jpg" />
     <episode-num system="xmltv_ns">16.13/14.</episode-num>
     <previously-shown />
     <subtitles />
     <star-rating system="GB">
       <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416003000 +0100" stop="20200416013000 +0100" channel="BBC2 HD">
+    <title lang="en">Race Across the World (?)</title>
+    <desc lang="en">The teams venture through Peru's high altitudes as the race reaches the halfway mark - but the first hurdle they face is bypassing the ongoing state of emergency in Ecuador, and drastic measures are required to ensure the competitors' safety. Emon and Jamiul are in the lead but massively over budget, so try to get work with some local fishermen, while Dom and Lizzie discover a connection to their grandmother in Peru's capital.(n)</desc>
+    <category lang="en">Adventure</category>
+    <episode-num system="xmltv_ns">1.3/9.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416013000 +0100" stop="20200416023000 +0100" channel="BBC2 HD">
+    <title lang="en">Hospital (?)</title>
+    <desc lang="en">The documentary looks at Alder Hey Children's Hospital's craniofacial department - one of only four in the UK that treats life-threatening congenital skull and facial abnormalities. With a rise in referrals, the department is over-subscribed and neurosurgeon Chris Parks, who leads the craniofacial surgical team, faces a non-stop workload. Chris always works hand in glove with Ben Robertson, one of three paediatric maxillofacial surgeons in the UK. But this partnership is about to be broken up, as Ben is leaving to return to his native Australia. It takes 23 years' training to become a maxillofacial Consultant specialising in cranio-surgery, and there is currently nobody experienced enough to replace Ben, putting extra pressure on the waiting lists.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">4.6/8.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416023000 +0100" stop="20200416030000 +0100" channel="BBC2 HD">
+    <title lang="en">Saved on Camera (?)</title>
+    <desc lang="en">A badly injured climber is dangling off a cliff and needs to be saved by the Mountain Rescue team. In Wales, a young boy's missing dog is found by a dog rescuer with a drone. Narrated by Kevin Duala.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.4/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20200416030000 +0100" stop="20200416064500 +0100" channel="BBC2 HD">
+    <title lang="en">This Is BBC Two (?)</title>
+    <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
+    <category lang="en">General</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416064500 +0100" stop="20200416071500 +0100" channel="BBC2 HD">
+    <title lang="en">Night Force (?)</title>
+    <desc lang="en">Documentary following the lives of the army of night workers who toil through the small hours to get the world ready for when the rest of the population awakes.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.7/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416071500 +0100" stop="20200416080000 +0100" channel="BBC2 HD">
+    <title lang="en">Pointless (?)</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">22.6/55.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416080000 +0100" stop="20200416090000 +0100" channel="BBC2 HD">
+    <title lang="en">Antiques Roadshow (?)</title>
+    <sub-title lang="en">Morden Hall Park 2</sub-title>
+    <desc lang="en">Fiona Bruce and the team return for a second visit to Morden Hall Park in South London, where items include letters written by Mother Teresa and a bronze by South African sculptor Anton Van Wouw. There is also a colourful collage by celebrated British artist and illustrator John Minton, and a huge collection of intricately designed silver vinaigrette boxes.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">41.13.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416090000 +0100" stop="20200416100000 +0100" channel="BBC2 HD">
+    <title lang="en">Lambing Live (?)</title>
+    <sub-title lang="en">Lambing Live: As It Happened</sub-title>
+    <desc lang="en">Kate Humble meets a very different kind of sheepdog, while Adam Henson learns there is much more to grass than meets the eye. Plus, a chance to catch up with all the lambs born today at the Dykes' family farm in the Scottish Borders.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">2.3/5.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416100000 +0100" stop="20200416130000 +0100" channel="BBC2 HD">
+    <title lang="en">BBC News (?)</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416130000 +0100" stop="20200416134500 +0100" channel="BBC2 HD">
+    <title lang="en">Curiosity (?)</title>
+    <desc lang="en">Sir Duke and Jeremy from the West Midlands are among the contestants taking part in the antiques game show to curate the most valuable collection, with Â£1,000 going to the winners.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">0.7/15.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416134500 +0100" stop="20200416141500 +0100" channel="BBC2 HD">
+    <title lang="en">Eggheads (?)</title>
+    <desc lang="en">Jeremy Vine hosts the quiz in which the winners of famous game shows work as a team to tackle a new set of challengers hoping to win a cash prize.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">19.56/95.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416141500 +0100" stop="20200416150500 +0100" channel="BBC2 HD">
+    <title lang="en">My Life on a Plate (?)</title>
+    <sub-title lang="en">Mary Berry</sub-title>
+    <desc lang="en">Chef Brian Turner takes guests back to their youths by visiting locations important to them and then cooking dishes inspired by their childhoods. In the first edition he is joined by cookery writer and former Great British Bake Off judge Mary Berry.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">0.0/15.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416150500 +0100" stop="20200416171500 +0100" channel="BBC2 HD">
+    <title lang="en">Those Magnificent Men in Their Flying Machines (?)</title>
+    <desc lang="en">A publisher offers to sponsor the first London-to-Paris air race in a bid to boost the sales of his newspaper. Among the motley assortment of characters who sign up for the challenge is a scheming nobleman bent on sabotaging the efforts of the other entrants. Period comedy, starring Terry-Thomas, Sarah Miles, James Fox, Robert Morley, Benny Hill, Tony Hancock, Eric Sykes and Gert Frobe.(n)</desc>
+    <date>1965</date>
+    <category lang="en">Film</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416171500 +0100" stop="20200416180000 +0100" channel="BBC2 HD">
+    <title lang="en">Flog It (?)</title>
+    <sub-title lang="en">Boconnoc House</sub-title>
+    <desc lang="en">Catherine Southon and Nick Hall assess items brought to Boconnoc House in Cornwall, while presenter Paul martin participates in a traditional Cornish gig race.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">15.43/60.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416180000 +0100" stop="20200416183000 +0100" channel="BBC2 HD">
+    <title lang="en">Richard Osman's House of Games (?)</title>
+    <desc lang="en">Countdown mathematician Rachel Riley, singer JB Gill, newscaster Katie Derham and comedian Richard Herring compete to see who can master the tasks set by Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">1.28/50.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416183000 +0100" stop="20200416190000 +0100" channel="BBC2 HD">
+    <title lang="en">Animal Park (?)</title>
+    <desc lang="en">The vets operate on Violet the koala to investigate her breathing problems, and the keepers wonder which will come off worst when a tree porcupine comes face to face with a skunk.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">2018.13/15.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416190000 +0100" stop="20200416193000 +0100" channel="BBC2 HD">
+    <title lang="en">The Lakes with Paul Rose (?)</title>
+    <sub-title lang="en">Windermere</sub-title>
+    <desc lang="en">The explorer digs out his rucksack and heads for Windermere in the Lake District. The National Park attracts 18 million visitors each year, and is now a World Heritage site. Here, Paul finds out why the early tourists thought the Lakes was one of the most dangerous spots in the country. He also plunges into the world of long-distance swimming and helps the staff who run the boats on the lake and meets a Holocaust survivor who was airlifted to Windermere in 1945 as part of a mercy mission involving 300 orphans after the Second World War.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.0/4.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416193000 +0100" stop="20200416200000 +0100" channel="BBC2 HD">
+    <title lang="en">Grand Tours of Scotland's Lochs (?)</title>
+    <sub-title lang="en">Lost in a Landscape</sub-title>
+    <desc lang="en">Paul Murton travels from the shores of Loch Hope to the lonely expanse of Sandwood Bay in the far north-west. Along the way he discovers wartime secrets in Loch Eriboll, crosses a subterranean loch and learns the art of drystone dyking from a master craftsman in Kinlochbervie.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">2.5/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416200000 +0100" stop="20200416210000 +0100" channel="BBC2 HD">
+    <title lang="en">Great British Menu (?)</title>
+    <sub-title lang="en">North West - Main &amp; Dessert Courses</sub-title>
+    <desc lang="en">The chefs from the North West cook mains and desserts celebrating children's literature, and while one takes inspiration from JM Barrie and his own imaginary feast, the other two choose Beatrix Potter, leaving judge Michael O'Hare to decide which lamb dish is better.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">14.13/29.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416210000 +0100" stop="20200416220000 +0100" channel="BBC2 HD">
+    <title lang="en">Devs (?)</title>
+    <desc lang="en">Lily's investigation leads her to the man who knows Sergei's secrets, and stirs suspicion about her employer, Forest. But when he tries to throw her off the scent, she becomes more driven to find answers, and turns again to Jamie - although he is concerned how she will act upon whatever he finds. Mystery thriller, starring Sonoya Mizuno, Nick Offerman, Zach Grenier and Alison Pill.(n)</desc>
+    <category lang="en">Thriller</category>
+    <episode-num system="xmltv_ns">0.1/8.</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20200416220000 +0100" stop="20200416224500 +0100" channel="BBC2 HD">
+    <title lang="en">Live at the Apollo (?)</title>
+    <desc lang="en">Sindhu Vee hosts this episode of the comedy showcase recorded before a packed house at London's Hammersmith Apollo, featuring stand-up performances by New York-based Edinburgh comedy award winner Alex Edelman, and at the Edinburgh Festival Fringe Comedians' Choice Award winner Lou Sanders.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">14.1/7.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416224500 +0100" stop="20200416232500 +0100" channel="BBC2 HD">
+    <title lang="en">Newsnight (?)</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <desc lang="en">Analysis of the day's events, presented by Kirsty Wark.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416232500 +0100" stop="20200416233000 +0100" channel="BBC2 HD">
+    <title lang="en">Weather (?)</title>
+    <sub-title lang="en">16/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200416233000 +0100" stop="20200417000000 +0100" channel="BBC2 HD">
+    <title lang="en">Front Row Late (?)</title>
+    <desc lang="en">Host Mary Beard gets to grips with the latest broadcast technology as she aims to present the latest series of the arts review show from her study each week. And with cultural institutions around the country closed, the programme aims to bring content alive through interviews, discussions and exclusive performances from leading writers, artists, actors and musicians. The first show features an exclusive puppet production based on a short story by Edgar Allan Poe, created in confinement in Canada by leading author Margaret Atwood and her sister Ruth.(n)</desc>
+    <category lang="en">Arts</category>
+    <category lang="en">Culture (without music)</category>
+    <episode-num system="xmltv_ns">6.0.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>0.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417000000 +0100" stop="20200417003000 +0100" channel="BBC2 HD">
+    <title lang="en">Villages by the Sea (?)</title>
+    <sub-title lang="en">Sunderland Point</sub-title>
+    <desc lang="en">Archaeologist Ben Robinson examines the history of the Lancashire village Sunderland Point, which is cut off twice a day by the tide and has become a haven for wildlife. He reveals it was once a busy port that was instrumental in the slave trade, and at the forefront of the luxury goods business that transformed 18th-century Britain..(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20200417003000 +0100" stop="20200417010000 +0100" channel="BBC2 HD">
+    <title lang="en">MasterChef (?)</title>
+    <sub-title lang="en">Quarter-final</sub-title>
+    <desc lang="en">Six heat winners return for the quarter-final, fighting for a place in Knockout Week. Facing the Critic's Test, the week's best-performing amateurs take on an intimidating task - cooking to a brief set by food writer Jimi Famurewa, who asks for a dish inspired by flavours of the sweet shop. Presented by John Torode and Gregg Wallace.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">15.14/24.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417010000 +0100" stop="20200417020000 +0100" channel="BBC2 HD">
+    <title lang="en">The Hairy Bikers' Mediterranean Adventure (?)</title>
+    <sub-title lang="en">Sardinia</sub-title>
+    <desc lang="en">Si King and Dave Myers explore the culinary delights of Sardinia, starting out in Cagliari, where everyone is in high spirits for the feast of St Efisio. The bikers join in by cooking a local speciality, almond and orange cakes. They also meet the tuna fishermen of Carloforte and a chef who has a special way of serving up platters of the fish, are shown how to make sheep's black pudding by a group of shepherds and are served a stew by the 'King of Sardinia'.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">0.1/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417020000 +0100" stop="20200417064500 +0100" channel="BBC2 HD">
+    <title lang="en">This Is BBC Two (?)</title>
+    <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
+    <category lang="en">General</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417064500 +0100" stop="20200417071500 +0100" channel="BBC2 HD">
+    <title lang="en">Night Force (?)</title>
+    <desc lang="en">Documentary following the lives of the army of night workers who toil through the small hours to get the world ready for when the rest of the population awakes.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.8/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417071500 +0100" stop="20200417080000 +0100" channel="BBC2 HD">
+    <title lang="en">Pointless (?)</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">22.7/55.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417080000 +0100" stop="20200417090000 +0100" channel="BBC2 HD">
+    <title lang="en">Back in Time for.. (?)</title>
+    <sub-title lang="en">Back in Time for the Corner Shop</sub-title>
+    <desc lang="en">The Arderns reflect on the lessons learned through the series, and how corner shops can continue to thrive in the changing world of 21st-century business. The programme examines how shops have reinvented themselves to compete with mini-supermarkets, the rise of zero-waste shops, and how other businesses, like cafes, coffee shops and micro pubs, are filling the role of community hub.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">7.5/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417090000 +0100" stop="20200417100000 +0100" channel="BBC2 HD">
+    <title lang="en">Lambing Live (?)</title>
+    <sub-title lang="en">Lambing Live: As It Happened</sub-title>
+    <desc lang="en">As the week of broadcasts from the Dykes' family farm in the Scottish Borders draws to a close, Kate Humble learns about the dedication and attention to detail it takes to raise lambs for their meat. Adam Henson looks at the future of breeding as he encounters some test-tube sheep, and there is a last update about the new arrivals in the lambing sheds.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">2.4/5.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417100000 +0100" stop="20200417130000 +0100" channel="BBC2 HD">
+    <title lang="en">BBC News (?)</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417130000 +0100" stop="20200417134500 +0100" channel="BBC2 HD">
+    <title lang="en">Curiosity (?)</title>
+    <desc lang="en">Paul and Lin from Dorset take on Anne-Marie and Morgan from Nottingham in an antiques challenge to curate the most valuable collection. Presented by Paul Martin.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">0.8/15.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417134500 +0100" stop="20200417141500 +0100" channel="BBC2 HD">
+    <title lang="en">Eggheads (?)</title>
+    <desc lang="en">Jeremy Vine hosts the quiz in which the winners of famous game shows work as a team to tackle a new set of challengers hoping to win a cash prize.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">19.57/95.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417141500 +0100" stop="20200417144500 +0100" channel="BBC2 HD">
+    <title lang="en">The Best Dishes Ever (?)</title>
+    <sub-title lang="en">Party Time</sub-title>
+    <desc lang="en">Ainsley Harriott introduces a selection of recipes from the BBC archives for party food, including Lorraine Pascale's white chocolate lollipops, seafood dishes by James Martin and Rachel Khoo's coq-au-vin on a stick.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">0.10/20.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417144500 +0100" stop="20200417154500 +0100" channel="BBC2 HD">
+    <title lang="en">Natural World (?)</title>
+    <sub-title lang="en">Natural World: A Highland Haven</sub-title>
+    <desc lang="en">The wildlife of the Highlands, seen through the eyes of naturalist Fergus Beeley, who spent a year at Loch Maree and the surrounding hills. He follows the fortunes of rare black-throated divers and white-tailed sea eagles, and films the red deer and salmon whose lives revolve around the loch.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">27.5/14.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417154500 +0100" stop="20200417171500 +0100" channel="BBC2 HD">
+    <title lang="en">Swallows and Amazons (?)</title>
+    <desc lang="en">Four youngsters go boating while on holiday in the Lake District where they encounter two more children with a boat of their own, and a rivalry develops over a series of escapades. Family adventure, based on Arthur Ransome's classic novel, starring Virginia McKenna, Ronald Fraser, Sophie Neville and Simon West.(n)</desc>
+    <date>1974</date>
+    <category lang="en">Film</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417171500 +0100" stop="20200417180000 +0100" channel="BBC2 HD">
+    <title lang="en">Flog It (?)</title>
+    <sub-title lang="en">Norfolk</sub-title>
+    <desc lang="en">At Oxburgh Hall in Norfolk, David Harper is excited by a Polynesian war club, while Philip Serrell falls for a sewing machine dating back to 1875. Presenter Paul Martin uncovers the history of the Bedingfeld family, whose members have called Oxburgh home for 500 years - and managed to keep their heads on their shoulders.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">16.37/40.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417180000 +0100" stop="20200417183000 +0100" channel="BBC2 HD">
+    <title lang="en">Richard Osman's House of Games (?)</title>
+    <desc lang="en">Mathematician Rachel Riley, singer and farmer JB Gill, radio presenter Katie Derham and comedian Richard Herring test their general knowledge skills, with an overall champion being crowned for the week.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">1.29/50.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417183000 +0100" stop="20200417190000 +0100" channel="BBC2 HD">
+    <title lang="en">Animal Park (?)</title>
+    <desc lang="en">After weeks of speculation, Kate Humble and Ben Fogle reveal that the signs are that rare Amur tiger Yana is definitely pregnant. Anxious not to miss the historic birth of cubs - the first at the Park for nearly 20 years - keepers install special cameras in the Tiger House, which will also enable them to closely monitor Yana's heath at a safe distance. Plus, Jean Johansson discovers why coconuts are just the job for the dental health of Cape Porcupines.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">2018.14/15.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417190000 +0100" stop="20200417200000 +0100" channel="BBC2 HD">
+    <title lang="en">Rick Stein's Secret France (?)</title>
+    <desc lang="en">The chef concludes his tour with trips to the Languedoc and Provence. In the border town of Uzes, Rick samples salt cod and marvels at a colourful array of French patisserie - selecting a seasonal fig tart to have with his morning coffee. He moves on to the harbour town of Cassis to try North African lamb chorba cooked by a local fisherman, while back in his country kitchen, he prepares a confit tomato and aubergine tarte tatin.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">0.5/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20200417200000 +0100" stop="20200417203000 +0100" channel="BBC2 HD">
+    <title lang="en">Gardeners' World (?)</title>
+    <desc lang="en">The green-fingered team guides team enthusiasts through seasonal highlights from across the country visiting stunning gardens, meeting the gardeners and finding out their secrets of success. Monty Don and faithful hounds Nigel and Nellie are at Longmeadow to bring inspiration as well as outline all the essential gardening jobs for this weekend. Co-presented by Joe Swift.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">52.4/32.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417203000 +0100" stop="20200417210000 +0100" channel="BBC2 HD">
+    <title lang="en">Great British Menu (?)</title>
+    <sub-title lang="en">North West - Judging</sub-title>
+    <desc lang="en">The two highest scoring chefs from the North West go head to head to cook their six-course menus again. Not only do they need to impress food writer Matthew Fort, restaurateur Oliver Peyton and broadcaster and cook Andi Oliver, but also bestselling children's author and Laureate between 2011 and 2013 Julia Donaldson, who has sold over 65 million books worldwide and been translated into over 75 languages. Presented by Susan Calman.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <episode-num system="xmltv_ns">14.14/29.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417210000 +0100" stop="20200417220000 +0100" channel="BBC2 HD">
+    <title lang="en">Natural World (?)</title>
+    <sub-title lang="en">Pangolins - The World's Most Wanted Animal</sub-title>
+    <desc lang="en">Documentary examining attempts to save the most illegally trafficked animals in the world - a little-known scaly mammal called the pangolin. Based in Namibia, conservationist Maria Diekmann rescues and rehabilitates these local creatures. Cameras follow her to Vietnam, Thailand and China - into the heart of the crisis, where demand for pangolin products is greatest.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">36.4.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417220000 +0100" stop="20200417223000 +0100" channel="BBC2 HD">
+    <title lang="en">The Mash Report (?)</title>
+    <desc lang="en">A self-isolated Nish Kumar hosts Britain's most uncompromising topical satire, tackling all the troubling news from a world that's put its faith in Boris Johnson and Donald Trump. His similarly quarantined correspondents, include Ellie Taylor and Steve N Allen.(n)</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">3.2/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417223000 +0100" stop="20200417224500 +0100" channel="BBC2 HD">
+    <title lang="en">The Mini Mash Report (?)</title>
+    <desc lang="en">Nish Kumar and comedy correspondents Rachel Parris, Ellie Taylor and Steve N Allen present the satirical and surreal take on everything that happened in the week the programme first aired in May 2019.(n)</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.3/9.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417224500 +0100" stop="20200417231500 +0100" channel="BBC2 HD">
+    <title lang="en">Newsnight (?)</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <desc lang="en">Analysis of the day's events, with Kirsty Wark.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417231500 +0100" stop="20200417232000 +0100" channel="BBC2 HD">
+    <title lang="en">Weather (?)</title>
+    <sub-title lang="en">17/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200417232000 +0100" stop="20200418010500 +0100" channel="BBC2 HD">
+    <title lang="en">Cold in July (?)</title>
+    <desc lang="en">A small-town man is hailed as a hero after he shoots dead a burglar who had broken into his home. He begins to fear for his life when the thief's father turns up seeking revenge, which is only the first in a series of events that plunge his simple life into chaos. Crime thriller based on Joe R Lansdale's novel, starring Michael C Hall, Sam Shepard and Don Johnson.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Film</category>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
     </star-rating>
   </programme>
   <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="BBC4 HD">
