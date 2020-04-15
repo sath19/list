@@ -76,6 +76,13 @@
     <category lang="en">Drama, Horror</category>
     <icon src="https://i.etsystatic.com/10683147/r/il/547071/1508231227/il_570xN.1508231227_1ahy.jpg" />
   </programme>
+  <programme start="20200415185500 -0400" stop="20200415203300 -0400" channel="StayAtHome TV">
+    <title lang="en">The Mask (1994)</title>
+    <desc lang="en">Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/4/4b/The_Mask_%28film%29_poster.jpg" />
+  </programme>  
   <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">15/04/2020</sub-title>
