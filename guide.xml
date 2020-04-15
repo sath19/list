@@ -1,172 +1,2349 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="TV" generator-info-url="https://who.sprinklr.com/">
-  <channel id="StayAtHome TV">
-    <display-name lang="en">StayAtHome TV</display-name>
-    <url>https://www.worldometers.info/coronavirus/</url>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BBC1 HD">
+    <display-name lang="en">BBC1 HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/683.png" />
+    <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200412153000 -0400" stop="20200412171000 -0400" channel="StayAtHome TV">
-    <title lang="en">Blade Runner 2049 (2017)</title>
-    <desc lang="en">Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years</desc>
-    <category lang="en">Misc</category>
-    <rating system="IMDB">
-      <value>R</value>
-    </rating>
+  <channel id="BBC News HD">
+    <display-name lang="en">BBC News HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/894.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC2 HD">
+    <display-name lang="en">BBC2 HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/387.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BBC4 HD">
+    <display-name lang="en">BBC4 HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/893.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBBC HD">
+    <display-name lang="en">CBBC HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/895.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="CBeebies HD">
+    <display-name lang="en">CBeebies HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/896.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="ITV2">
+    <display-name lang="en">ITV2</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/180.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC1 HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather. Presented by Dan Walker and Louise Minchin.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200412171500 -0400" stop="20200412192300 -0400" channel="StayAtHome TV">
-    <title lang="en">Cool Runnings (1993)</title>
-    <desc lang="en">When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team</desc>
+  <programme start="20200415090000 +0100" stop="20200415100000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at 9</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b333e731-294b-5d53-bebf-889163b681b4.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415100000 +0100" stop="20200415104500 +0100" channel="BBC1 HD">
+    <title lang="en">Daily Kitchen Live</title>
+    <desc lang="en">Matt Tebbutt is joined in the studio by food writer and journalist Jack Monroe, and the pair cook up a range of dishes to inspire viewers at home.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/52885813-63bc-5a31-9055-b9c771412a46.jpg" />
+    <episode-num system="xmltv_ns">0.2/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415104500 +0100" stop="20200415114500 +0100" channel="BBC1 HD">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Martel Maxwell visits a detached house in Colchester and a one-bedroom flat in Bellshill, North Lanarkshire, and Dion Dublin looks at a mid-terrace property in Croydon.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2bd8bf68-940b-51b8-99bc-61961f65d23f.jpg" />
+    <episode-num system="xmltv_ns">21.55/80.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415114500 +0100" stop="20200415121500 +0100" channel="BBC1 HD">
+    <title lang="en">Night Force</title>
+    <desc lang="en">A farmer works the night shift as two of his cows are expecting. Meanwhile, a locksmith and a plumber are called out after dark to two very different late night emergencies.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dce1a3cf-a9e6-5e58-a9c9-555cf7f9fd8e.jpg" />
+    <episode-num system="xmltv_ns">0.7/10.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415121500 +0100" stop="20200415130000 +0100" channel="BBC1 HD">
+    <title lang="en">Bargain Hunt</title>
+    <sub-title lang="en">Anglesey 14</sub-title>
+    <desc lang="en">Eric Knowles presents as two more teams search for antiques in Anglesey, assisted by experts Thomas Plant and Caroline Hawley.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8dcacd1f-e4b5-5ec5-9d9a-37cf2d0feb56.jpg" />
+    <episode-num system="xmltv_ns">47.11/32.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415130000 +0100" stop="20200415133000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200415133000 +0100" stop="20200415134500 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415134500 +0100" stop="20200415141500 +0100" channel="BBC1 HD">
+    <title lang="en">Doctors</title>
+    <sub-title lang="en">Zero Hours</sub-title>
+    <desc lang="en">The soap dispenser mystery continues to baffle Al and Bear. Meanwhile, Zara gets a shock when she discovers the cause of a young boy's stomach pains.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fa6d819d-1521-57a7-8e1e-74c869b2deaa.jpg" />
+    <episode-num system="xmltv_ns">20.102/196.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415141500 +0100" stop="20200415150000 +0100" channel="BBC1 HD">
+    <title lang="en">Father Brown</title>
+    <sub-title lang="en">The Face of Death</sub-title>
+    <desc lang="en">The priest investigates a murder at the Kembleford charity treasure hunt. General suspicion falls on a bereaved man who wants revenge, but Father Brown is determined to prove he is innocent. Mystery, starring Mark Williams.(n)</desc>
+    <category lang="en">Mystery</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fb1fb699-fd22-587b-968e-5aabad68da65.jpg" />
+    <episode-num system="xmltv_ns">0.7/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415150000 +0100" stop="20200415154500 +0100" channel="BBC1 HD">
+    <title lang="en">Escape to the Country</title>
+    <sub-title lang="en">North Wessex Downs</sub-title>
+    <desc lang="en">Jules Hudson helps a couple find a characterful country house in the North Wessex Downs on a budget of Â£775,000, and also pays a visit to Highclere Castle in Wiltshire.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f7428c9a-075c-5e7e-a419-300fe77cd3b9.jpg" />
+    <episode-num system="xmltv_ns">19.14/25.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415154500 +0100" stop="20200415163000 +0100" channel="BBC1 HD">
+    <title lang="en">Money for Nothing</title>
+    <desc lang="en">Upcycling expert EJ Osborne is at Woking Recycling Centre searching for three items that he can rescue and revamp, including an old bedroom cabinet and a box of wooden blocks.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/31e7ba81-3ad3-5373-a9e6-bb0df0568c45.jpg" />
+    <episode-num system="xmltv_ns">4.16/20.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415163000 +0100" stop="20200415171500 +0100" channel="BBC1 HD">
+    <title lang="en">Antiques Road Trip</title>
+    <desc lang="en">With their car boot full of antiques, Catherine Southon and Tim Medhurst head to an auction in Hertfordshire, hoping to make a profit on some old biscuit tins.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a46674d9-c251-5408-9a7d-4f0642d96c12.jpg" />
+    <episode-num system="xmltv_ns">18.7/25.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415171500 +0100" stop="20200415180000 +0100" channel="BBC1 HD">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e8b9e82d-cba4-5299-82ac-ca44cb7139f2.jpg" />
+    <episode-num system="xmltv_ns">22.6/55.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="BBC1 HD">
+    <title lang="en">The One Show</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <desc lang="en">Magazine show, with stories of interest from around the UK, plus celebrity guests in the studio. Presented by Alex Jones.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b6266c2c-2fee-5315-bb10-201d2a2099a8.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415193000 +0100" stop="20200415200000 +0100" channel="BBC1 HD">
+    <title lang="en">Garden Rescue</title>
+    <sub-title lang="en">Stratford-upon-Avon</sub-title>
+    <desc lang="en">In Stratford-upon-Avon, Simon and Steve want a stylish garden that mixes modern looks with heritage touches and dramatic twists, suitable for the home town of William Shakespeare. They therefore task Charlie Dimmock and Chelsea gold medal-winners Harry and David Rich to come up with something that's equal part both stylishly modern and with hints of Tudor heritage.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/36ea4c2e-7f4d-5795-89c1-96183e2c21f0.jpg" />
+    <episode-num system="xmltv_ns">2.7/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC1 HD">
+    <title lang="en">The Repair Shop</title>
+    <desc lang="en">Jay Blades and the team bring four treasured family heirlooms back to life. The first arrival is Suzanne from London, who hopes that mechanical expert Steve Fletcher can bring a decorative wind-up bird cage that once belonged to her late mother back to its former glory. Meanwhile, church wardens Brian Tidswell and David Dickinson bring in a selection of carved angels for wood restorer Will Kirk to repair. Elsewhere, an old Georgian peat bucket and a surgeon's leather case are restored by experts Dominic Chinea and Suzie Fletcher.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2ba7350d-b9a0-57ee-9d6e-793065620a63.jpg" />
+    <episode-num system="xmltv_ns">5.4/14.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC1 HD">
+    <title lang="en">MasterChef</title>
+    <desc lang="en">The final stage of the culinary contest begins, with the four remaining contestants embarking on a culinary adventure of a lifetime on the island of Mauritius, where they will face three extraordinary challenges. The first challenge takes place in the town of Mahebourg, one of the island's earliest established fishing ports. Split into teams of two, each pair will be tasked with cooking two traditional Mauritian street food dishes for local fishermen. Next, the amateurs travel to the island's capital, Port Louis, where they have the honour of working at the Labourdonnais hotel during a busy lunch service. Finally, the contestants face the daunting challenge of creating a dinner for mentors Chef Moroogun Coopen and Chef Peeroo Nizam, as well as some of the leading figures in Mauritius' food and cultural community.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/21859318-1794-51ea-b734-319687b7cd09.jpg" />
+    <episode-num system="xmltv_ns">15.21/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC1 HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415223000 +0100" stop="20200415224000 +0100" channel="BBC1 HD">
+    <title lang="en">This Is BBC One HD</title>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ff22a1a5-4725-5018-ae28-39cdb311f533.jpg" />
+    <star-rating system="GB">
+      <value>0.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415224000 +0100" stop="20200415224500 +0100" channel="BBC1 HD">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415224500 +0100" stop="20200415231500 +0100" channel="BBC1 HD">
+    <title lang="en">In My Skin</title>
+    <desc lang="en">Bethan finds herself double booked when Poppy invites her to her house to study, but it is also Lydia's birthday and she wants Bethan to go out and celebrate with her. Meanwhile, Katrina is unexpectedly discharged from hospital and Bethan is worried her father will not be there to look after her properly.(n)</desc>
     <category lang="en">Comedy</category>
-    <rating system="IMDB">
-      <value>PG</value>
-    </rating>
+    <icon src="https://images.tvguide.co.uk/pa/640/05577075-c4a1-5d8b-b72e-d479114d87c4.jpg" />
+    <episode-num system="xmltv_ns">0.2/5.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200412192301 -0400" stop="20200412193000 -0400" channel="StayAtHome TV">
-    <title lang="en">Movie Trailers</title>
-    <desc lang="en">...</desc>
-    <category lang="en">Action, Comedy</category>
-    <rating system="IMDB">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20200410160301 -0400" stop="20200410180000 -0400" channel="StayAtHome TV">
-    <title lang="en">Judgment Night (1993)</title>
-    <desc lang="en">Four friends on their way to a boxing match get caught in heavy traffic, so they take a shortcut in order to get there faster, unfortunately it leads to them witnessing a murder which leaves them running for their lives. </desc>
-    <category lang="en">Movie</category>
-    <rating system="IMDB">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200410113000 -0400" stop="20200410131500 -0400" channel="StayAtHome TV">
-    <title lang="en"> The Fast and the Furious: Tokyo Drift (2006)</title>
-    <desc lang="en">A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.</desc>
-    <category lang="en">Movie</category>
-    <rating system="IMDB">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200410063000 -0400" stop="20200410083000 -0400" channel="StayAtHome TV">
-    <title lang="en">Clerks (1994)</title>
-    <desc lang="en">A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.</desc>
-    <credits>
-      <director>Kevin Smith</director>
-      <actor>Brian O'Halloran</actor>
-      <actor> Jeff Anderson</actor>
-    </credits>
-    <date>2011</date>
+  <programme start="20200415231500 +0100" stop="20200415234500 +0100" channel="BBC1 HD">
+    <title lang="en">Peter Kay's Comedy Shuffle</title>
+    <desc lang="en">The comedian, actor, writer and director looks back over his career. Here, Peter voices his concerns about the environment, it's Robot Wars down at the Phoenix Club and there's a very special appearance from Alan Partridge.(n)</desc>
     <category lang="en">Comedy</category>
-    <rating system="IMDB">
-      <value>R</value>
-    </rating>
+    <icon src="https://images.tvguide.co.uk/pa/640/e09a72cf-02b1-5ed6-b17c-3977724823f1.jpg" />
+    <episode-num system="xmltv_ns">3.2/5.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410083000 -0400" stop="20200410090000 -0400" channel="StayAtHome TV">
-    <title lang="en">Blind Date 
- :</title>
-    <desc lang="en">In the age of social media where dating apps thrive on a swipe left or right, hopeful singles looking to form a true connection, take the ultimate plunge when they embark on a blind date.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415234500 +0100" stop="20200416002500 +0100" channel="BBC1 HD">
+    <title lang="en">Killing Eve</title>
+    <sub-title lang="en">You're Mine</sub-title>
+    <desc lang="en">The mission in Rome is disastrously compromised. Carolyn briefs Eve on her current status as an employee of the British government and leaves her future in her own hands. Villanelle does everything she can in order to reach her ultimate target. Conclusion of the second series of the spy thriller, starring Jodie Comer and Sandra Oh.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/80b986ea-3bef-55a6-b1ba-228c87527680.jpg" />
+    <episode-num system="xmltv_ns">1.7/8.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.9/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410090000 -0400" stop="20200410100000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Real Housewives of New York City 
- :
- Jesus, the Countess and Joseph</title>
-    <desc lang="en">The show must go on for Luann, who performs in her Christmas cabaret despite being snubbed by the ladies for Ramona's surprise party for Dorinda and Sonja. Tinsley is accused of lying to the ladies about her relationship with Scott.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC News HD">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather. Presented by Dan Walker and Louise Minchin.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <star-rating system="GB">
+      <value>1.7/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410100000 -0400" stop="20200410103000 -0400" channel="StayAtHome TV">
-    <title lang="en">Entertainment Tonight Canada 
- :</title>
-    <desc lang="en">Covers breaking news stories, upcoming film and television projects, and one-on-one interviews with Hollywood celebrities.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <rating system="IMDB">
-      <value>TVG</value>
-    </rating>
+  <programme start="20200415090000 +0100" stop="20200415110000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410103000 -0400" stop="20200410110000 -0400" channel="StayAtHome TV">
-    <title lang="en">Say Yes to the Dress: Canada 
- :
- More Is More</title>
-    <desc lang="en">Eleni's on the hunt for two dresses for her wedding. Cherie wants a big ball gown for her king and queen themed wedding inside a castle.(n)</desc>
-    <category lang="en">Fashion</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20200415110000 +0100" stop="20200415130000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410110000 -0400" stop="20200410120000 -0400" channel="StayAtHome TV">
-    <title lang="en">Love It or List It 
- :
- The Hung Family</title>
-    <desc lang="en">The Hung's house needs a formidable facelift. Daughter Laurie wants to pay to renovate the home while her mother just wants to go. Hilary tries to reclaim the love with her reno while David digs deep to deliver a new and exciting family home.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="IMDB">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20200415130000 +0100" stop="20200415133000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
   </programme>
-  <programme start="20200410120000 -0400" stop="20200410123000 -0400" channel="StayAtHome TV">
-    <title lang="en">First Dates Canada 
- :
- Say My Name</title>
-    <desc lang="en">A restaurant filled with people on first dates is monitored with hidden cameras.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415133000 +0100" stop="20200415140000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410123000 -0400" stop="20200410130000 -0400" channel="StayAtHome TV">
-    <title lang="en">First Dates Canada 
- :
- The Food of Love</title>
-    <desc lang="en">A restaurant filled with people on first dates is monitored with hidden cameras.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415140000 +0100" stop="20200415170000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410130000 -0400" stop="20200410133000 -0400" channel="StayAtHome TV">
-    <title lang="en">First Dates Canada 
- :
- Romy and Rangolie</title>
-    <desc lang="en">After a bad start to their date, salesman Romy has his work cut out to win over blonde bombshell Rangolie.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415170000 +0100" stop="20200415180000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410190000 -0400" stop="20200410193000 -0400" channel="StayAtHome TV">
-    <title lang="en">Blind Date 
- :</title>
-    <desc lang="en">In the age of social media where dating apps thrive on a swipe left or right, hopeful singles looking to form a true connection, take the ultimate plunge when they embark on a blind date.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
   </programme>
-  <programme start="20200410193000 -0400" stop="20200410200000 -0400" channel="StayAtHome TV">
-    <title lang="en">Blind Date 
- :</title>
-    <desc lang="en">In the age of social media where dating apps thrive on a swipe left or right, hopeful singles looking to form a true connection, take the ultimate plunge when they embark on a blind date.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20200410200000 -0400" stop="20200410223000 -0400" channel="StayAtHome TV">
-    <title lang="en">Movie  : The Twilight Saga: Eclipse</title>
-    <desc lang="en">With her high school graduation coming up, a teenage girl must choose between her vampire boyfriend and her werewolf friend.(n)</desc>
-    <credits>
-      <director>David Slade</director>
-      <actor>Kristen Stewart</actor>
-      <actor>Robert Pattinson</actor>
-      <actor>Taylor Lautner</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Drama</category>
-    <rating system="IMDB">
-      <value>TV14</value>
-    </rating>
+  <programme start="20200415190000 +0100" stop="20200415200000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC News HD">
+    <title lang="en">Outside Source</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0d221910-b0f1-5304-ab31-5708b7d695fe.jpg" />
+    <star-rating system="GB">
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/83329f44-02fa-531b-8cec-190cedad7e64.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415223000 +0100" stop="20200415224500 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415224500 +0100" stop="20200415230000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">15/04/2020 - 1</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415230000 +0100" stop="20200415233000 +0100" channel="BBC News HD">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest national and international stories as they break.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5de64dad-f704-5719-9b85-4ef96c8140a1.jpg" />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415233000 +0100" stop="20200416000000 +0100" channel="BBC News HD">
+    <title lang="en">The Papers</title>
+    <sub-title lang="en">15/04/2020 - 2</sub-title>
+    <desc lang="en">An early look at the next edition of the newspapers, featuring informed and engaging conversation with guest contributors.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c42c1020-470d-5813-8f30-645a09eff79e.jpg" />
+    <star-rating system="GB">
+      <value>2.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415023000 +0100" stop="20200415064500 +0100" channel="BBC2 HD">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5d9598fa-bf04-52eb-8f50-493f25117d3f.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415064500 +0100" stop="20200415071500 +0100" channel="BBC2 HD">
+    <title lang="en">Night Force</title>
+    <desc lang="en">Documentary following the lives of the army of night workers who toil through the small hours to get the world ready for when the rest of the population awakes.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/6ae557d0-e620-5427-a845-6afdfbfa8a59.jpg" />
+    <episode-num system="xmltv_ns">0.6/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415071500 +0100" stop="20200415080000 +0100" channel="BBC2 HD">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e8b9e82d-cba4-5299-82ac-ca44cb7139f2.jpg" />
+    <episode-num system="xmltv_ns">22.5/55.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415080000 +0100" stop="20200415090000 +0100" channel="BBC2 HD">
+    <title lang="en">MasterChef</title>
+    <desc lang="en">John Torode and Gregg Wallace preside as the last group of six hopefuls compete in the culinary contest. They are challenged to serve up their signature dish, with the judges' favourite two winning a coveted MasterChef apron and a place in the next round. The others must come up with a dish using pigeon, beetroot and bacon in the Three Ingredients Challenge, after which two cooks are sent home, leaving the remaining four to cook two courses for three former contestants.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/25356d0f-f5c4-5960-841a-e07d9089fb18.jpg" />
+    <episode-num system="xmltv_ns">15.13/24.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415090000 +0100" stop="20200415100000 +0100" channel="BBC2 HD">
+    <title lang="en">Lambing Live</title>
+    <sub-title lang="en">Lambing Live: As It Happened</sub-title>
+    <desc lang="en">As Kate Humble continues to help the Dykes with lambing on their farm in the Scottish Borders, she discovers that performing ultrasounds on sheep can be a surprisingly mucky business. Adam Henson reports from Cyprus as he goes in search of the mouflon, an ancient wild breed that is both rare and elusive. Plus, updates on the new arrivals.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/34038fb4-c6c9-543d-9008-fc1f4ba4ba27.jpg" />
+    <episode-num system="xmltv_ns">2.2/5.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415100000 +0100" stop="20200415130000 +0100" channel="BBC2 HD">
+    <title lang="en">BBC News</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b333e731-294b-5d53-bebf-889163b681b4.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415130000 +0100" stop="20200415134500 +0100" channel="BBC2 HD">
+    <title lang="en">Curiosity</title>
+    <desc lang="en">Paul Martin hosts as James and Simon take on Kim and Scott, going head to head to determine who will meet today's curious collector Tanya for a chance to win Â£1,000.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/85be475a-2594-5080-b503-81014a4de1dd.jpg" />
+    <episode-num system="xmltv_ns">0.6/15.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415134500 +0100" stop="20200415141500 +0100" channel="BBC2 HD">
+    <title lang="en">Eggheads</title>
+    <desc lang="en">Quiz in which the winners of famous game shows work as a team to tackle a new set of challengers hoping to win a cash prize. Presented by Jeremy Vine.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3561eccc-c564-5c8a-9e97-30139c8e5c9c.jpg" />
+    <episode-num system="xmltv_ns">19.55/95.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415141500 +0100" stop="20200415143500 +0100" channel="BBC2 HD">
+    <title lang="en">Nigel Slater's Simple Suppers</title>
+    <sub-title lang="en">Saints and Sinners</sub-title>
+    <desc lang="en">The food writer makes mouth-watering chocolate cookies and crispy duck with honey and figs, which prove a little bit of what you fancy does you good.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2fde3aee-61de-5e85-8105-ee897a67751c.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415143500 +0100" stop="20200415152000 +0100" channel="BBC2 HD">
+    <title lang="en">Talking Pictures</title>
+    <sub-title lang="en">Epics: Talking Pictures</sub-title>
+    <desc lang="en">A look through the BBC archive to discover what makes an epic, featuring interviews with some of those who starred in some of the biggest film in the world. Narrated by Sylvia Syms.(n)</desc>
+    <category lang="en">Arts</category>
+    <category lang="en">Culture (without music)</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/6ae1dbe4-8eac-5b92-901a-b7660efb05b8.jpg" />
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415152000 +0100" stop="20200415171500 +0100" channel="BBC2 HD">
+    <title lang="en">The Vikings</title>
+    <desc lang="en">A Norse warrior becomes embroiled in a feud with a former slave over the succession to the Northumbrian throne, unaware his arch-enemy is really his half-brother. Matters come to a head when they both set their sights on a Welsh princess, leading to a confrontation - but the situation is further complicated by the interference of England's sadistic king. Adventure, with Kirk Douglas, Tony Curtis, Janet Leigh, Ernest Borgnine and James Donald.(n)</desc>
+    <date>1958</date>
+    <category lang="en">Film</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5aaad575-3d68-5e5f-9952-d624511926f9.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415171500 +0100" stop="20200415180000 +0100" channel="BBC2 HD">
+    <title lang="en">Flog It</title>
+    <desc lang="en">Five experts assess items brought to the Blickling estate in Norfolk, with David Harper excited by an early device for watching films, while David Fletcher and James Lewis reminisce about Rupert the Bear books and Dinky toys. Paul Martin enjoys a ride in a tank on historic former military camp.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1fb10594-4331-5446-9df0-fe2bd1d43bd1.jpg" />
+    <episode-num system="xmltv_ns">16.38/40.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC2 HD">
+    <title lang="en">Richard Osman's House of Games</title>
+    <desc lang="en">Mathematician Rachel Riley, singer JB Gill, newscaster Katie Derham and comedian Richard Herring take part in a variety of entertaining trivia-based games.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/642e008a-0005-5353-a2c8-f9f580db9895.jpg" />
+    <episode-num system="xmltv_ns">1.27/50.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC2 HD">
+    <title lang="en">Animal Park</title>
+    <desc lang="en">Excitement is mounting as the Park keepers hope that rare Amur tiger Yana may be pregnant. Meanwhile, a rare little Hyrax is in trouble.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/990164b8-449c-532a-9b06-fe1e4150b826.jpg" />
+    <episode-num system="xmltv_ns">2018.12/15.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415190000 +0100" stop="20200415200000 +0100" channel="BBC2 HD">
+    <title lang="en">The Hairy Bikers' Mediterranean Adventure</title>
+    <sub-title lang="en">Balearics</sub-title>
+    <desc lang="en">The bikers ride across the Balearic islands Menorca and Majorca, sampling great produce and finding out about the British influence in the Mediterranean from the 17th century to the present day. They reveal how mayonnaise was invented in Menorca's capital of Mahon, sample Menorcan gin, and meet British chef Mark Fosh, who has lived in Majorca for more than 20 years. Recipes include cuttlefish stew and squid salad with mayonnaise, fish and chips in gin and tonic batter, and sea bass a la mallorquina and saffron potato puree.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b21adf6b-cbdd-5749-ad2e-3ca18fdf25ae.jpg" />
+    <episode-num system="xmltv_ns">0.4/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC2 HD">
+    <title lang="en">Great British Menu</title>
+    <sub-title lang="en">North West - Starter &amp; Fish Courses</sub-title>
+    <desc lang="en">As the competition continues, chefs Tom Barnes, Sam Buckley, Hrishikesh Desai and George Farrugia compete in the heats for the North West. Each chef prepares a starter and fish course celebrating iconic food from children's literature, specifically tasked with honouring the theme of action and adventure. Presented by Susan Calman.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a7bc451d-4f6f-5097-9b87-54dbbe27b248.jpg" />
+    <episode-num system="xmltv_ns">14.12/29.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC2 HD">
+    <title lang="en">Devs</title>
+    <desc lang="en">Lily and her boyfriend both work as programmers at the vast campus of quantum computer company Amaya, near San Francisco. When Sergei comes to the CEO's attention, he is recruited to a secretive division of the company - but when he fails to return home, an alarmed Lily begins to investigate his disappearance. Mystery thriller created by Alex Garland (Ex Machina, Annihilation), starring Sonoya Mizuno, Nick Offerman, Zach Grenier and Alison Pill.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5f8842c7-d9b6-5078-a118-945f3aa142b7.jpg" />
+    <episode-num system="xmltv_ns">0.0/8.</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC2 HD">
+    <title lang="en">Mister Winner</title>
+    <sub-title lang="en">The Package</sub-title>
+    <desc lang="en">Jemma asks Leslie to wait in for a parcel for her while she goes to a business trip, but Leslie has other ideas and plans to go to a Dr Who convention with his best friend Cooper. Feeling guilty about letting her down, Leslie decides to cancel his day out with Cooper and stays at home to wait in for the package, which is a gift for his father-in-law. However, things do not go to plan when Leslie manages to get himself locked out of the flat, before almost burning the place down. Comedy, starring Spencer Jones and Lucy Pearman.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b4163a98-8b7a-5203-a327-c7cd15e13e7b.jpg" />
+    <episode-num system="xmltv_ns">0.3/6.</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20200415223000 +0100" stop="20200415224500 +0100" channel="BBC2 HD">
+    <title lang="en">Mandy</title>
+    <desc lang="en">Comedy short, written by and starring Diane Morgan (Philomena Cunk). A woman becomes obsessed with a sofa she has seen in a shop window. Unable to think of anything else, she goes to desperate lengths to possess the furniture of her dreams.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d5f01c57-cbfd-5da1-b300-811f2196788f.jpg" />
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415224500 +0100" stop="20200415232500 +0100" channel="BBC2 HD">
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <desc lang="en">Analysis of the day's events. Presented by Emma Barnett.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/14c5ad97-630f-575f-ba8e-ec7939dce584.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415232500 +0100" stop="20200415233000 +0100" channel="BBC2 HD">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415233000 +0100" stop="20200416003000 +0100" channel="BBC2 HD">
+    <title lang="en">Dragons' Den</title>
+    <desc lang="en">Entrepreneurs pitch more money-making ideas to panellists Sara Davies, Touker Suleyman, Deborah Meaden, Tej Lalvani and Peter Jones. Two Syrian refugees share their alternative to Cypriot halloumi, a couple showcase some virus filtration gadgets, and a charitable entrepreneur has a plan for second-hand clothes. Presented by Evan Davis.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/418f0037-50ce-5802-bc62-818b9e63e8b6.jpg" />
+    <episode-num system="xmltv_ns">16.13/14.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="BBC4 HD">
+    <title lang="en">BBC World News</title>
+    <sub-title lang="en">15/04/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/07a56dbc-91de-5f67-aaa3-1833676ced9d.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415193000 +0100" stop="20200415200000 +0100" channel="BBC4 HD">
+    <title lang="en">Handmade in Japan</title>
+    <sub-title lang="en">Handmade in Japan: Pottery</sub-title>
+    <desc lang="en">A look at the work of the Hamadas, one of Japan's most famous families of potters, following Tomoo as he creates and fires pots in a wood-fuelled kiln.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ea878e41-18e5-57a9-a7ea-8d048f7fb0d9.jpg" />
+    <episode-num system="xmltv_ns">0.2/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC4 HD">
+    <title lang="en">Six Wives with Lucy Worsley</title>
+    <desc lang="en">The historian explores the fate of the last three wives of Henry VIII. First, Lucy witnesses Henry's doomed courtship with Anne of Cleves, with Henry successfully reneging on their marriage having claimed it had yet to be consummated. Two weeks later, Henry married teenager Catherine Howard, but an act of adultery with a courtier saw the young woman convicted of treason and beheaded. Finally, Lucy explores Henry's relationship with his last wife Katherine Parr, and how she managed to win Henry round despite their greatly differing religious beliefs.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b4e24359-813a-5cbd-9e55-2e39fa10212f.jpg" />
+    <episode-num system="xmltv_ns">0.2/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC4 HD">
+    <title lang="en">Rebuilding Notre Dame: Inside the Great Cathedral Rescue</title>
+    <desc lang="en">Following efforts to rebuild the world-famous Cathedral of Notre Dame de Paris, a year on from the devastating fire that ravaged the 850-year-old Gothic masterpiece. Chief architect Philippe Villeneuve urgently needs a complete picture of the damage sustained during the fire, so he initiates an unprecedented collaboration between architects and scientists. Their mission is to meticulously analyse the fallen timber, stone and fractured glass, to develop a decontamination and restoration plan. This unique opportunity offers a new insight into the medieval materials, techniques and people who built Notre Dame.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e7ff24b6-e984-57bc-bdf9-0631af4790ef.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415220000 +0100" stop="20200415230000 +0100" channel="BBC4 HD">
+    <title lang="en">From Ice to Fire: The Incredible Science of Temperature</title>
+    <sub-title lang="en">Frozen Solid</sub-title>
+    <desc lang="en">Physicist Helen Czerski explores the science of temperature. She begins by venturing to the bottom of the scale, revealing how cold has shaped the world and why frozen does not necessarily mean what people might think.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dabc5a90-05e2-5a34-8cac-2f5de28037fb.jpg" />
+    <episode-num system="xmltv_ns">0.0/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415230000 +0100" stop="20200416000000 +0100" channel="BBC4 HD">
+    <title lang="en">From Ice to Fire: The Incredible Science of Temperature</title>
+    <sub-title lang="en">A Temperature for Life</sub-title>
+    <desc lang="en">Physicist Dr Helen Czerski explores the narrow band of temperature that has led to life on Earth. She reveals how life began in a place where hot meets cold, and how every living creature on Earth depends on temperature for its survival. She uncovers the extraordinary natural engineering that animals have evolved to keep their bodies at the right temperature and she witnesses the remarkable surgery that is using temperature to take the human body to the extremes.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/43713cb6-7d45-5755-bec2-4b7781747a98.jpg" />
+    <episode-num system="xmltv_ns">0.1/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415070000 +0100" stop="20200415071000 +0100" channel="CBBC HD">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Wish You Were Here</sub-title>
+    <desc lang="en">Sue Ellen is excited to meet her pen pal in person, but is disappointed when she realises they do not have as much in common as she thought.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/87356fe1-bcf2-5acb-9155-d9b2343dcf40.jpg" />
+    <episode-num system="xmltv_ns">18.4/20.</episode-num>
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415071000 +0100" stop="20200415072500 +0100" channel="CBBC HD">
+    <title lang="en">Dennis &amp; Gnasher Unleashed</title>
+    <sub-title lang="en">The Wrong Man-ace</sub-title>
+    <desc lang="en">Dennis is mistaken for a Beanotown Baddie while in disguise to sneak into a 12A film. At first he loves being treated like a celebrity, but as things begin to go awry his friends have to save him by revealing his real identity and capturing the real diamond stealing baddie.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e44c349f-e972-50b4-bff9-c259f4693f3f.jpg" />
+    <episode-num system="xmltv_ns">0.20/52.</episode-num>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415072500 +0100" stop="20200415073500 +0100" channel="CBBC HD">
+    <title lang="en">Little Big Awesome</title>
+    <sub-title lang="en">Blupo and Glendon</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e23850c6-2a73-5ccf-8fcc-f79f195a374e.jpg" />
+    <episode-num system="xmltv_ns">0.7/26.</episode-num>
+  </programme>
+  <programme start="20200415073500 +0100" stop="20200415075000 +0100" channel="CBBC HD">
+    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
+    <sub-title lang="en">Happy Game</sub-title>
+    <desc lang="en">Mouse buys a video game that is supposed to teach the family teamwork.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d533156c-a185-5e11-8d6d-e5114f9b9cc8.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415075000 +0100" stop="20200415080500 +0100" channel="CBBC HD">
+    <title lang="en">Class Dismissed</title>
+    <sub-title lang="en">Crank</sub-title>
+    <desc lang="en">Following four year 8 pupils - Billy, Tahj, Emily and Jasmine - as they grapple with everyday life at an extraordinary school. Narrated by Bill Turnbull.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/df0ac162-494b-5e96-bff3-308b3125d579.jpg" />
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <star-rating system="GB">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415080500 +0100" stop="20200415083000 +0100" channel="CBBC HD">
+    <title lang="en">The Next Step</title>
+    <sub-title lang="en">Mash-Up Match-Up</sub-title>
+    <desc lang="en">Reality-style drama series. Surprising new friendship dynamics arise as TNS gears up for the dance convention.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8f55dbc2-9efb-5dd9-83bf-b407c191fc89.jpg" />
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415083000 +0100" stop="20200415090000 +0100" channel="CBBC HD">
+    <title lang="en">Junior Bake Off</title>
+    <desc lang="en">Sam Nixon and Mark Rhodes present the competition to find Britain's best junior baker, with the youngsters creating a pineapple and blueberry upside-down cake.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7f758886-dbc5-584a-935d-a869c03d4ca7.jpg" />
+    <episode-num system="xmltv_ns">2014.7/15.</episode-num>
+    <star-rating system="GB">
+      <value>5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415090000 +0100" stop="20200415091500 +0100" channel="CBBC HD">
+    <title lang="en">Craft Party</title>
+    <sub-title lang="en">Superheroes Party</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/bd7e29d6-1e41-55b2-b756-4ea3f602b791.jpg" />
+  </programme>
+  <programme start="20200415091500 +0100" stop="20200415092500 +0100" channel="CBBC HD">
+    <title lang="en">Newsround</title>
+    <sub-title lang="en">15/04/2020 - 1</sub-title>
+    <desc lang="en">Current affairs reports aimed at a younger audience.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/29ffdca1-d939-5972-a970-73abb8dfb6a3.jpg" />
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415092500 +0100" stop="20200415102000 +0100" channel="CBBC HD">
+    <title lang="en">The Incredible Adventures of Professor Branestawm</title>
+    <desc lang="en">Harry Hill takes the title role of the absent-minded inventor, who is oblivious to the chaos caused by his ridiculous creations when they go wrong - which is more often than not. Luckily, his long-suffering housekeeper Miss Flittersnoop and dim-but-loyal best friend Colonel Dedshott are on hand to make sure he doesn't blow himself to smithereens. However, the trio meet their match when a local councillor tries to run the professor out of the village for being a dangerous nuisance, so Miss Flittersnoop's science-mad niece Connie comes to their aid. Comedy drama, co-starring Vicki Pepperdine, Simon Day and Madeline Holliday, with David Mitchell, Miranda Richardson and Ben Miller. Written by Charlie Higson from the popular children's books by Norman Hunter.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/be5e3bb3-b720-5189-989e-f58cc1451679.jpg" />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415102000 +0100" stop="20200415105000 +0100" channel="CBBC HD">
+    <title lang="en">Absolute Genius with Dick &amp; Dom</title>
+    <sub-title lang="en">Fleming</sub-title>
+    <desc lang="en">The work of Alexander Fleming, the scientist who discovered penicillin. Inspired by his ideas, the duo try to come up with their own, and attempt to turn germs into works of art.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/edfc428c-15a7-5dc0-8ee5-7d4068b72c8c.jpg" />
+    <episode-num system="xmltv_ns">1.1/10.</episode-num>
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415105000 +0100" stop="20200415112000 +0100" channel="CBBC HD">
+    <title lang="en">Operation Ouch</title>
+    <sub-title lang="en">Super Sensory Neurons</sub-title>
+    <desc lang="en">The Doctors take a dip in the sea to reveal how your sensory neurons detect when something is hot or cold, and they find themselves getting stuck in the mud when they join Her Majesty's Coastguard in Operation Takeover. Meet two more new Ouch Patients, and find out what to do if someone is unresponsive and not breathing in First Aid. Meanwhile in Accident &amp; Emergency one patient arrives with a broken arm after an accident on a trampoline and another is treated for busted thumb.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/78de159f-6e38-52e4-b087-ba7bb8f1732c.jpg" />
+    <episode-num system="xmltv_ns">5.2/13.</episode-num>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415112000 +0100" stop="20200415114500 +0100" channel="CBBC HD">
+    <title lang="en">Deadly 60</title>
+    <sub-title lang="en">Gabon Jungle</sub-title>
+    <desc lang="en">Steve Backshall sets out to visit six continents in search of Earth's 60 deadliest animals.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/384945ae-27b6-51bd-9957-bd8bf43b58d1.jpg" />
+    <episode-num system="xmltv_ns">3.2/11.</episode-num>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415114500 +0100" stop="20200415121000 +0100" channel="CBBC HD">
+    <title lang="en">The Pets Factor</title>
+    <sub-title lang="en">Thomas, Troublemaker, Barney and Tiggy</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/802b4455-c2cf-53af-aa27-a4a0835cf2c6.jpg" />
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415121000 +0100" stop="20200415121500 +0100" channel="CBBC HD">
+    <title lang="en">Newsround</title>
+    <sub-title lang="en">15/04/2020 - 2</sub-title>
+    <desc lang="en">Current affairs reports aimed at a younger audience.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/29ffdca1-d939-5972-a970-73abb8dfb6a3.jpg" />
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415121500 +0100" stop="20200415123500 +0100" channel="CBBC HD">
+    <title lang="en">Gym Stars</title>
+    <sub-title lang="en">Best in Britain</sub-title>
+    <desc lang="en">Amelie, Phoebe and Cameron are ready for competition at the British Championships. Narrated by London Hughes.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/751a7ec4-830f-5acd-bd83-1f14b65c23e2.jpg" />
+    <episode-num system="xmltv_ns">0.16/20.</episode-num>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415123500 +0100" stop="20200415125500 +0100" channel="CBBC HD">
+    <title lang="en">Gym Stars</title>
+    <sub-title lang="en">Future Champions</sub-title>
+    <desc lang="en">It's the final day of the British Championships and Zoe competes for the first time as a senior.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/4ca46512-88ed-5399-9484-263a9b62249b.jpg" />
+    <episode-num system="xmltv_ns">0.17/20.</episode-num>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415125500 +0100" stop="20200415132000 +0100" channel="CBBC HD">
+    <title lang="en">Holly Hobbie</title>
+    <sub-title lang="en">The Chicken Cooper</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e3929524-1ac4-566c-bbcd-22ec8b534cbc.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <star-rating system="GB">
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415132000 +0100" stop="20200415134500 +0100" channel="CBBC HD">
+    <title lang="en">Holly Hobbie</title>
+    <sub-title lang="en">The Rabble Rouser</sub-title>
+    <desc lang="en">Holly, Amy and Piper discover that the local pickle factory is polluting the nearby creek..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d07cf248-d944-5830-9796-fa31de6d58e2.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <star-rating system="GB">
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415134500 +0100" stop="20200415140000 +0100" channel="CBBC HD">
+    <title lang="en">The Dumping Ground</title>
+    <sub-title lang="en">I'm Tyler</sub-title>
+    <desc lang="en">Visitors gather to watch videos made by Ashdene Lodge residents about their lives there, with the focus turning on Tyler's classic moments. Drama based on books by Jacqueline Wilson, starring Miles Butler-Hughton.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/70d28992-fefe-56cb-9a36-7fbf830a1ce8.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <star-rating system="GB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415140000 +0100" stop="20200415142500 +0100" channel="CBBC HD">
+    <title lang="en">The Dengineers</title>
+    <sub-title lang="en">Bollywood Den</sub-title>
+    <desc lang="en">A young boy called Aron loves all things Bollywood, especially dancing, so the team builds him his very own Bollywood-style den.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/80ed2246-e091-57b9-b26c-7c3f171fb55e.jpg" />
+    <episode-num system="xmltv_ns">1.1/11.</episode-num>
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415142500 +0100" stop="20200415145500 +0100" channel="CBBC HD">
+    <title lang="en">Millie Inbetween</title>
+    <sub-title lang="en">Millie Makes Peace</sub-title>
+    <desc lang="en">Mike and Mum seem to be bickering all the time.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/643f2669-08e7-5150-b419-b6904434cc1a.jpg" />
+    <episode-num system="xmltv_ns">3.4/13.</episode-num>
+    <star-rating system="GB">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415145500 +0100" stop="20200415150500 +0100" channel="CBBC HD">
+    <title lang="en">Danger Mouse</title>
+    <sub-title lang="en">Big Penfold</sub-title>
+    <desc lang="en">When the world is in jeopardy, only a 1,000ft Penfold can save everyone. With the voices of Alexander Armstrong and Kevin Eldon.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cb41a7f6-1bb2-51da-a210-1c94cfa3d9ae.jpg" />
+    <episode-num system="xmltv_ns">0.11/50.</episode-num>
+    <star-rating system="GB">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415150500 +0100" stop="20200415152000 +0100" channel="CBBC HD">
+    <title lang="en">Diddy TV</title>
+    <sub-title lang="en">Forever and Ever</sub-title>
+    <desc lang="en">Diddy Dick and Dom host a line-up including dancing diddies in 'The Diddy Step', music in 'Diddy Pops' and a heartbreaking documentary about a boy with a spoon for a nose.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/99149be6-9b9b-55aa-b551-a71c73942785.jpg" />
+    <episode-num system="xmltv_ns">0.7/10.</episode-num>
+    <star-rating system="GB">
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415152000 +0100" stop="20200415153500 +0100" channel="CBBC HD">
+    <title lang="en">Dennis &amp; Gnasher Unleashed</title>
+    <sub-title lang="en">Night of the Living Veg</sub-title>
+    <desc lang="en">Mrs Creecher uses the school's allotment to hold Class 3C's Biggest Veg competition. Determined to outshine Walter, Dennis will do anything to grow the biggest veg.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9ad4012b-3ef5-5185-8e01-a3589bcf07b1.jpg" />
+    <episode-num system="xmltv_ns">0.7/52.</episode-num>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415153500 +0100" stop="20200415154500 +0100" channel="CBBC HD">
+    <title lang="en">Little Big Awesome</title>
+    <sub-title lang="en">Blupo and Glendon</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e23850c6-2a73-5ccf-8fcc-f79f195a374e.jpg" />
+    <episode-num system="xmltv_ns">0.7/26.</episode-num>
+  </programme>
+  <programme start="20200415154500 +0100" stop="20200415160000 +0100" channel="CBBC HD">
+    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
+    <sub-title lang="en">Happy Game</sub-title>
+    <desc lang="en">Mouse buys a video game that is supposed to teach the family teamwork.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d533156c-a185-5e11-8d6d-e5114f9b9cc8.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415160000 +0100" stop="20200415160500 +0100" channel="CBBC HD">
+    <title lang="en">Newsround</title>
+    <sub-title lang="en">15/04/2020 - 3</sub-title>
+    <desc lang="en">Current affairs reports aimed at a younger audience.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/29ffdca1-d939-5972-a970-73abb8dfb6a3.jpg" />
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415160500 +0100" stop="20200415161000 +0100" channel="CBBC HD">
+    <title lang="en">Hey You What If</title>
+    <sub-title lang="en">The Earth Stopped Spinning?</sub-title>
+    <desc lang="en">Find out why stopping the earth from spinning isn't such a good idea..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/713a081e-38b5-5f5d-b66d-37403c1ebdd2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415161000 +0100" stop="20200415162500 +0100" channel="CBBC HD">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Zero Effect</sub-title>
+    <desc lang="en">Specialist agents investigate all sorts of strange and weird happenings in their town by calling on their skills in mathematics and numeracy. Olive and Otto must stop zeroes from disappearing before the missing digits destroy the town.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/39be2d52-03fd-5b9f-9f36-05bfa0b8605c.jpg" />
+    <episode-num system="xmltv_ns">0.0/80.</episode-num>
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415162500 +0100" stop="20200415163500 +0100" channel="CBBC HD">
+    <title lang="en">Danny &amp; Mick</title>
+    <sub-title lang="en">White Wedding</sub-title>
+    <desc lang="en">Danny accidentally orders 10,000 toilet rolls and needs to hide them from the boss.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0b9486ad-a20e-5e4b-a6cd-1957d76d17d2.jpg" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415163500 +0100" stop="20200415170000 +0100" channel="CBBC HD">
+    <title lang="en">The Pets Factor</title>
+    <sub-title lang="en">King, Mo and Ziggy</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/81fb34f1-4f94-5807-8123-897444b9db84.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415170000 +0100" stop="20200415172500 +0100" channel="CBBC HD">
+    <title lang="en">Secret Life of Boys</title>
+    <sub-title lang="en">The Darkness</sub-title>
+    <desc lang="en">Comedy drama series, following Ginger Boxwell who lives with her aunt, uncle and four cousins. Erica Brown stars.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cb7903de-d4c6-5618-ab7f-31e4707bc26f.jpg" />
+    <episode-num system="xmltv_ns">3.3/10.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415172500 +0100" stop="20200415175000 +0100" channel="CBBC HD">
+    <title lang="en">My Perfect Landing</title>
+    <sub-title lang="en">Hillside: Part One</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b468c293-ab32-561d-bdd0-ac2cffe4c959.jpg" />
+    <episode-num system="xmltv_ns">0.13/15.</episode-num>
+  </programme>
+  <programme start="20200415175000 +0100" stop="20200415181000 +0100" channel="CBBC HD">
+    <title lang="en">Gym Stars</title>
+    <sub-title lang="en">True Bromance</sub-title>
+    <desc lang="en">Shakiem and Seb hope to shine at the Tumbling British Championships, while Alice is on a planet-saving mission!(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d902c896-168e-5ce0-8b08-8bddec97aace.jpg" />
+    <episode-num system="xmltv_ns">2.5/20.</episode-num>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415181000 +0100" stop="20200415183500 +0100" channel="CBBC HD">
+    <title lang="en">The Deep</title>
+    <sub-title lang="en">The Baltic Sea Anomaly</sub-title>
+    <desc lang="en">Is the Baltic Sea Anomaly really a UFO that crashed into the ocean 600 years ago? Ant thinks it is. But what the Nektons find inside is even more strange and frightening.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/686c1eba-cf8f-53e5-93c2-cffa40921138.jpg" />
+    <episode-num system="xmltv_ns">1.1/13.</episode-num>
+    <star-rating system="GB">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415183500 +0100" stop="20200415185500 +0100" channel="CBBC HD">
+    <title lang="en">Art Ninja</title>
+    <sub-title lang="en">Day of the Magician</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/88283fb4-5e47-5c20-9734-d3b014749d73.jpg" />
+    <episode-num system="xmltv_ns">4.11/15.</episode-num>
+    <star-rating system="GB">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415185500 +0100" stop="20200415192500 +0100" channel="CBBC HD">
+    <title lang="en">Hetty Feather</title>
+    <sub-title lang="en">The Final Chapter: Part Three</sub-title>
+    <desc lang="en">Hetty is forced to return to Calendar Hall to save the day and Mathias waits for Harriet..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ecd92577-7641-5dcb-b104-a592f962bdd9.jpg" />
+    <episode-num system="xmltv_ns">5.2/5.</episode-num>
+    <star-rating system="GB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415192500 +0100" stop="20200415195000 +0100" channel="CBBC HD">
+    <title lang="en">My Perfect Landing</title>
+    <sub-title lang="en">Hillside: Part One</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b468c293-ab32-561d-bdd0-ac2cffe4c959.jpg" />
+    <episode-num system="xmltv_ns">0.13/15.</episode-num>
+  </programme>
+  <programme start="20200415195000 +0100" stop="20200415201500 +0100" channel="CBBC HD">
+    <title lang="en">Hank Zipzer</title>
+    <sub-title lang="en">The Curtain Went Up, My Trousers Fell Down</sub-title>
+    <desc lang="en">The school play is looming and Hank is the lead star, but he is struggling to remember his lines and is facing trouble from school bully McKelty. Fortunately, he finds an unlikely ally in his maths tutor Heather.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dab17684-0b3a-5cd5-b5a8-0a6fed5fcc5b.jpg" />
+    <episode-num system="xmltv_ns">0.2/13.</episode-num>
+    <star-rating system="GB">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415201500 +0100" stop="20200415203500 +0100" channel="CBBC HD">
+    <title lang="en">Gym Stars</title>
+    <sub-title lang="en">True Bromance</sub-title>
+    <desc lang="en">Shakiem and Seb hope to shine at the Tumbling British Championships, while Alice is on a planet-saving mission!(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d902c896-168e-5ce0-8b08-8bddec97aace.jpg" />
+    <episode-num system="xmltv_ns">2.5/20.</episode-num>
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415060000 +0100" stop="20200415062500 +0100" channel="CBeebies HD">
+    <title lang="en">Show Me Show Me</title>
+    <sub-title lang="en">Lizards and Fossils</sub-title>
+    <desc lang="en">Miss Mouse is a scurrying lizard, and Chris Jarvis and Pui Fan Lee discover precious fossils that are even older than Chris' old socks.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3d350409-2f3b-5bc6-9a79-023871f6a6c2.jpg" />
+    <episode-num system="xmltv_ns">5.5/20.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415062500 +0100" stop="20200415063500 +0100" channel="CBeebies HD">
+    <title lang="en">Twirlywoos</title>
+    <sub-title lang="en">Full</sub-title>
+    <desc lang="en">The friends eat too much and feel full, and after seeing someone pour water into a glass, they get carried away finding their own containers to fill.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cf92c03a-f9b9-515f-8ca4-084b329e162f.jpg" />
+    <episode-num system="xmltv_ns">0.0/20.</episode-num>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415063500 +0100" stop="20200415065000 +0100" channel="CBeebies HD">
+    <title lang="en">Teletubbies</title>
+    <sub-title lang="en">Train Ride</sub-title>
+    <desc lang="en">When Po goes on the Tubby Custard Ride it makes lots of Tubby Custard - too much for Po to eat alone. So, the Teletubby choo-choos off to get Tinky Winky, Dipsy and Laa-Laa so all of the Teletubbies can share it. In Tummy Tales, children take a ride on a steam train.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3b15e3c0-4574-562f-b4fc-24c4666ca9f2.jpg" />
+    <episode-num system="xmltv_ns">0.22/60.</episode-num>
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415065000 +0100" stop="20200415065500 +0100" channel="CBeebies HD">
+    <title lang="en">Timmy Time</title>
+    <sub-title lang="en">It's Timmy Time</sub-title>
+    <desc lang="en">The sheep paint portraits of one another, but argue about who has the bigger brush.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/691a511b-0a6d-51e5-ab47-6f9b5c5ba055.jpg" />
+    <episode-num system="xmltv_ns">0.3/80.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415065500 +0100" stop="20200415070000 +0100" channel="CBeebies HD">
+    <title lang="en">Numberblocks</title>
+    <sub-title lang="en">Tall Stories</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/69f60323-5e25-5418-b4f4-7b6402e0fa44.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415070000 +0100" stop="20200415071000 +0100" channel="CBeebies HD">
+    <title lang="en">Bing</title>
+    <sub-title lang="en">Cake</sub-title>
+    <desc lang="en">The friends gather for a tea party, but the bunny accidentally tips one of the bakes off its stand. He is upset that it is ruined, but Amma helps him see things differently.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/56fedb4c-7dc4-5a67-8962-a4763cde1409.jpg" />
+    <episode-num system="xmltv_ns">1.30/39.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415071000 +0100" stop="20200415072000 +0100" channel="CBeebies HD">
+    <title lang="en">Bing</title>
+    <sub-title lang="en">Not Yours</sub-title>
+    <desc lang="en">The bunny helps do the shopping at Padget's shop, and cannot resist putting a strawberry lolly in his pocket while Flop is paying. The pair must then decide what to do.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/35b60dbd-7e62-5938-a259-782979f56296.jpg" />
+    <episode-num system="xmltv_ns">1.31/39.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415072000 +0100" stop="20200415072500 +0100" channel="CBeebies HD">
+    <title lang="en">Hey Duggee</title>
+    <sub-title lang="en">The Acorn Badge</sub-title>
+    <desc lang="en">Norrie is upset when a leaf falls from a tree, and Roly finds an acorn stuck to his bottom, prompting the squirrels to search for more to share out.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a98f6f8a-1399-5f56-80d0-1c2a8705acae.jpg" />
+    <episode-num system="xmltv_ns">0.23/51.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415072500 +0100" stop="20200415073500 +0100" channel="CBeebies HD">
+    <title lang="en">Hey Duggee</title>
+    <sub-title lang="en">The Balloon Badge</sub-title>
+    <desc lang="en">The dog blows up balloons for Tino's birthday, but the squirrels are worried because the artistic mouse is known for being somewhat grumpy.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c6751340-edbb-55d9-8b90-f759a7a185ed.jpg" />
+    <episode-num system="xmltv_ns">0.24/51.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415073500 +0100" stop="20200415074500 +0100" channel="CBeebies HD">
+    <title lang="en">Go Jetters</title>
+    <sub-title lang="en">Go Jet Academy: Sea Arch Escape</sub-title>
+    <desc lang="en">Cartoon following four adventure-seeking superheroes as they explore places all around the world.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/49f3085e-dbaf-5e22-ac4f-7fbf65a39d4c.jpg" />
+    <episode-num system="xmltv_ns">2.19/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415074500 +0100" stop="20200415080000 +0100" channel="CBeebies HD">
+    <title lang="en">Peter Rabbit</title>
+    <sub-title lang="en">The Tale of Mr Tod's Trap</sub-title>
+    <desc lang="en">When Peter, Benjamin and Lily are tempted by a mysterious hoard of radishes, Lily finds herself caught in Mr Tod's trap. Can Peter find a way to rescue Lily before Tod reaches her?(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2bd8fec1-1aaf-559c-b975-191574d50d84.jpg" />
+    <episode-num system="xmltv_ns">0.7/50.</episode-num>
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415080000 +0100" stop="20200415081000 +0100" channel="CBeebies HD">
+    <title lang="en">Bitz &amp; Bob</title>
+    <sub-title lang="en">Greatest Gig in Town</sub-title>
+    <desc lang="en">With Bitz on drums, Bob on guitar and Bevel on vocals, the Booyahs are ready to perform.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/292f8032-d525-5027-9d20-f28f42a537a6.jpg" />
+    <episode-num system="xmltv_ns">1.2/21.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415081000 +0100" stop="20200415082000 +0100" channel="CBeebies HD">
+    <title lang="en">Octonauts</title>
+    <sub-title lang="en">The Giant Jelly</sub-title>
+    <desc lang="en">The crew tries to rescue Peso when he becomes trapped inside a giant jelly.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1c295e2e-a7eb-54a0-9875-f0c590ad0fb7.jpg" />
+    <episode-num system="xmltv_ns">0.29/52.</episode-num>
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415082000 +0100" stop="20200415083500 +0100" channel="CBeebies HD">
+    <title lang="en">Biggleton</title>
+    <sub-title lang="en">Lost Treasure</sub-title>
+    <desc lang="en">When a pirate arrives in town, the people of Biggleton help find her lost treasure.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/57bebe9f-0052-5fd1-96b7-3161609ce6ef.jpg" />
+    <episode-num system="xmltv_ns">1.0/25.</episode-num>
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415083500 +0100" stop="20200415090000 +0100" channel="CBeebies HD">
+    <title lang="en">Justin's House</title>
+    <sub-title lang="en">Very Pongy Cheese</sub-title>
+    <desc lang="en">Justin and Robert are given some very pungent cheese, but the horrible smell makes Little Monster run away and attracts the attention of Funella Furchester and a cheeky mouse. Guest starring Louisa Gold.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/68a495d9-91aa-56c5-9916-d4b152d7861c.jpg" />
+    <episode-num system="xmltv_ns">2.5/25.</episode-num>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415090000 +0100" stop="20200415091000 +0100" channel="CBeebies HD">
+    <title lang="en">Raa Raa the Noisy Lion</title>
+    <sub-title lang="en">Raa Raa and The Banana Balloons</sub-title>
+    <desc lang="en">It's Banana Day in the Jingly Jangly Jungle and Huffty gives everyone a banana balloon to play with - but while Raa Raa's friends are playing Banana Day games, Raa Raa doesn't seem quite himself.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/57725928-6b4d-55e9-896a-bcbd2f9ebeb6.jpg" />
+    <episode-num system="xmltv_ns">2.6/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415091000 +0100" stop="20200415091500 +0100" channel="CBeebies HD">
+    <title lang="en">Timmy Time</title>
+    <sub-title lang="en">Timmy Wants the Blues</sub-title>
+    <desc lang="en">The lamb decides to have a day collecting blue toys, cushions and paint, but finds he needs more than one colour to create a picture.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/6d7c9541-808c-5968-a247-ba5bfcd40465.jpg" />
+    <episode-num system="xmltv_ns">0.8/80.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415091500 +0100" stop="20200415092500 +0100" channel="CBeebies HD">
+    <title lang="en">Dog Loves Books</title>
+    <sub-title lang="en">Dog Loves Amazing</sub-title>
+    <desc lang="en">While trying to solve a puzzle, Dog and Pug end up looking for a Minotaur in an old maze..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a224b85f-57a3-5517-914e-5bc84daa48e8.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415092500 +0100" stop="20200415093000 +0100" channel="CBeebies HD">
+    <title lang="en">Bing</title>
+    <sub-title lang="en">Mine</sub-title>
+    <desc lang="en">Pando insists on one last game of hide and seek and finds a great hiding place under Bing's bedcovers, but by the time the bunny finds him he is fast asleep.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f1976f0e-e495-51d9-a2b8-cd4252d05302.jpg" />
+    <episode-num system="xmltv_ns">1.32/39.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415093000 +0100" stop="20200415094500 +0100" channel="CBeebies HD">
+    <title lang="en">Twirlywoos</title>
+    <sub-title lang="en">Underneath</sub-title>
+    <desc lang="en">The Twirlywoos hide underneath different hats at a shop, and back on the boat, Box brings a rainbow for everyone to dance under.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/1347dbbf-3f21-5381-b34d-bd559d0defb6.jpg" />
+    <episode-num system="xmltv_ns">0.1/20.</episode-num>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415094500 +0100" stop="20200415100500 +0100" channel="CBeebies HD">
+    <title lang="en">Something Special</title>
+    <sub-title lang="en">Something Special: We're All Friends</sub-title>
+    <desc lang="en">Justin Fletcher and his friends go on an adventure to a dinosaur park. Meanwhile, Mr Tumble visits Shopkeeper Tumble in The Shop with the Lot to buy Tumble Ted a birthday present.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dd87f343-5e88-5e2f-b08c-f4e57dbca402.jpg" />
+    <episode-num system="xmltv_ns">10.9/25.</episode-num>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415100500 +0100" stop="20200415102000 +0100" channel="CBeebies HD">
+    <title lang="en">Teletubbies</title>
+    <sub-title lang="en">Not Enough Room</sub-title>
+    <desc lang="en">The Teletubbies are about to go on the Tubby Custard Ride with the hat, bag, ball and scooter when they realise there is not enough room. The Noo-noo looks after their things.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e83ee0d9-ab83-5195-88ac-460e9fe15689.jpg" />
+    <episode-num system="xmltv_ns">1.5/60.</episode-num>
+    <star-rating system="GB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415102000 +0100" stop="20200415103500 +0100" channel="CBeebies HD">
+    <title lang="en">The Baby Club</title>
+    <sub-title lang="en">Teddy Bear</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5d0a229d-d930-5f25-9b23-0d4c77344a9b.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20200415103500 +0100" stop="20200415104500 +0100" channel="CBeebies HD">
+    <title lang="en">Hey Duggee</title>
+    <sub-title lang="en">The Hide &amp; Seek Badge</sub-title>
+    <desc lang="en">The dog and the squirrels decide to play hide-and-seek and Duggee finds them all except Roly.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/93e8eef6-cd51-5ae3-a3ca-e279b2e6f267.jpg" />
+    <episode-num system="xmltv_ns">0.25/51.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415104500 +0100" stop="20200415110500 +0100" channel="CBeebies HD">
+    <title lang="en">Let's Play</title>
+    <sub-title lang="en">Knight</sub-title>
+    <desc lang="en">Rebecca becomes a knight, and tries to save the princess from a tower and out-run the fire-breathing dragon.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/bbfbed8e-ecca-5f6d-8bd6-343a6c926fc0.jpg" />
+    <episode-num system="xmltv_ns">0.2/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415110500 +0100" stop="20200415112000 +0100" channel="CBeebies HD">
+    <title lang="en">Let's Go for a Walk</title>
+    <sub-title lang="en">Canal Boats and Bubbles Walk</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/12c7485a-31ee-550b-9781-9519d2432228.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415112000 +0100" stop="20200415113000 +0100" channel="CBeebies HD">
+    <title lang="en">Pablo</title>
+    <sub-title lang="en">The Repair Person</sub-title>
+    <desc lang="en">A little boy journeys from real-life into the animated art world he creates, where his friends help him handle situations that make him feel anxious.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ee3dce6f-e7f7-56ec-b5f9-1ca765411e25.jpg" />
+    <episode-num system="xmltv_ns">1.27/52.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415113000 +0100" stop="20200415113500 +0100" channel="CBeebies HD">
+    <title lang="en">Patchwork Pals</title>
+    <sub-title lang="en">Patchwork Spider</sub-title>
+    <desc lang="en">Animation following the adventure of a group of animals living on a patchwork blanket.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a8e85896-f93b-52a7-a450-6df664d41109.jpg" />
+    <star-rating system="GB">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415113500 +0100" stop="20200415115000 +0100" channel="CBeebies HD">
+    <title lang="en">Our Family</title>
+    <sub-title lang="en">Finlay's Seal Adventure</sub-title>
+    <desc lang="en">Finlay and his family visit a big castle and look for fairies in the grounds. Later, it's all aboard a boat as they head out to sea on the lookout for seals.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ae6d2b91-16d1-54b5-b0ce-773c5f1fe35a.jpg" />
+    <episode-num system="xmltv_ns">3.7/20.</episode-num>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415115000 +0100" stop="20200415120000 +0100" channel="CBeebies HD">
+    <title lang="en">Tinga Tinga Tales</title>
+    <sub-title lang="en">Why Caterpillar Is Never in a Hurry</sub-title>
+    <desc lang="en">Animals rush around to get ready for a parade, while Caterpillar is happy to sit in a tree and munch on leaves.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9b28e976-924d-5b73-9ff7-7f7239a4364e.jpg" />
+    <episode-num system="xmltv_ns">0.8/26.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415120000 +0100" stop="20200415121500 +0100" channel="CBeebies HD">
+    <title lang="en">My World Kitchen</title>
+    <sub-title lang="en">Jake's Australian Meat Pie</sub-title>
+    <desc lang="en">Jake is making traditional Australian meat pies filled with lamb mince.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/db160b83-a320-5f7d-9377-c6c344f247f4.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415121500 +0100" stop="20200415122500 +0100" channel="CBeebies HD">
+    <title lang="en">Waffle the Wonder Dog</title>
+    <sub-title lang="en">School Dog Waffle</sub-title>
+    <desc lang="en">The Brooklyn-Bells take Waffle to school to ask the headteacher if Waffle can visit class.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9a1e702a-8bbb-5108-957b-f40c464d5518.jpg" />
+    <episode-num system="xmltv_ns">2.15/16.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415122500 +0100" stop="20200415123000 +0100" channel="CBeebies HD">
+    <title lang="en">Timmy Time</title>
+    <sub-title lang="en">Timmy Can't Dance</sub-title>
+    <desc lang="en">The friends try different forms of dancing, but cannot get them right.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/da337e29-95e6-5960-80fd-464adb25c379.jpg" />
+    <episode-num system="xmltv_ns">0.4/80.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415123000 +0100" stop="20200415124500 +0100" channel="CBeebies HD">
+    <title lang="en">Gigglebiz</title>
+    <sub-title lang="en">Dan Step's Ballon Dance</sub-title>
+    <desc lang="en">Live-action comedy sketch show for the under-sixes, starring Justin Fletcher.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0c530955-c37c-583c-9a23-927354194481.jpg" />
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <star-rating system="GB">
+      <value>6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415124500 +0100" stop="20200415130000 +0100" channel="CBeebies HD">
+    <title lang="en">Sarah &amp; Duck</title>
+    <sub-title lang="en">Picture Planes</sub-title>
+    <desc lang="en">The seven-year-old girl and her pet duck chance upon an exciting discovery while racing paper planes.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/49f62b14-9843-598f-86c1-1e780d5ca6ae.jpg" />
+    <episode-num system="xmltv_ns">2.0/40.</episode-num>
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415130000 +0100" stop="20200415130500 +0100" channel="CBeebies HD">
+    <title lang="en">Kit and Pup</title>
+    <sub-title lang="en">Wet &amp; Dry</sub-title>
+    <desc lang="en">Kit and Pup are at the beach.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d5e9e13d-9d0b-5a73-a2b3-b9a32d88fd56.jpg" />
+    <episode-num system="xmltv_ns">0.12/52.</episode-num>
+  </programme>
+  <programme start="20200415130500 +0100" stop="20200415131000 +0100" channel="CBeebies HD">
+    <title lang="en">Alphablocks</title>
+    <sub-title lang="en">Thing</sub-title>
+    <desc lang="en">Fun and games with words beginning with 'th', including thing, this, that, thick, thin and them.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f243347e-37ea-5edd-b80f-7124eba1d49b.jpg" />
+    <episode-num system="xmltv_ns">2.12/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415131000 +0100" stop="20200415131500 +0100" channel="CBeebies HD">
+    <title lang="en">Yakka Dee</title>
+    <sub-title lang="en">Bath</sub-title>
+    <desc lang="en">Dee encourages a friend to say â€˜bath' and we go on a whirlwind word adventure.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7c7ace3a-89b6-5781-bc05-b0fd7a184466.jpg" />
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <star-rating system="GB">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415131500 +0100" stop="20200415132000 +0100" channel="CBeebies HD">
+    <title lang="en">Numberblocks</title>
+    <sub-title lang="en">The Whole of Me</sub-title>
+    <desc lang="en">The Numberblocks show viewers what they are made of in a song and dance all about the parts that make a whole.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e667015f-32e5-5a02-81b7-646eb103c90c.jpg" />
+    <episode-num system="xmltv_ns">0.11/15.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415132000 +0100" stop="20200415133000 +0100" channel="CBeebies HD">
+    <title lang="en">Bing</title>
+    <sub-title lang="en">Lunch</sub-title>
+    <desc lang="en">Sula and Bing help Amma to get lunch ready.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2dc6046d-fe65-540e-950b-41b8cbc535e9.jpg" />
+    <episode-num system="xmltv_ns">1.33/39.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415133000 +0100" stop="20200415134000 +0100" channel="CBeebies HD">
+    <title lang="en">Messy Goes to OKIDO</title>
+    <sub-title lang="en">Geoffrey Kneads a Hand</sub-title>
+    <desc lang="en">Science-educational series following a curious, adventure-seeking and unruly monster as he finds the answers to everything a pre-school child would want to know.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7c20e392-ad0d-53b5-bb9e-8238ef619e3a.jpg" />
+    <episode-num system="xmltv_ns">1.12/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415134000 +0100" stop="20200415134500 +0100" channel="CBeebies HD">
+    <title lang="en">What's the Big Idea</title>
+    <sub-title lang="en">Strength</sub-title>
+    <desc lang="en">Hugo learns that an ant is incredibly strong for its size during a strength contest.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8e94738c-4ebb-5094-a096-f27849576a88.jpg" />
+    <episode-num system="xmltv_ns">0.40/52.</episode-num>
+    <star-rating system="GB">
+      <value>4.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415134500 +0100" stop="20200415140500 +0100" channel="CBeebies HD">
+    <title lang="en">Something Special</title>
+    <sub-title lang="en">Something Special: We're All Friends</sub-title>
+    <desc lang="en">Justin and his friend pretend to be superheroes for the day. Meanwhile, Super Tumble goes to the rescue of Shopkeeper Tumble, Baker Tumble and Aunt Polly.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/21f49929-bd60-511d-bf45-d459b9f07246.jpg" />
+    <episode-num system="xmltv_ns">10.15/25.</episode-num>
+    <star-rating system="GB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415140500 +0100" stop="20200415142000 +0100" channel="CBeebies HD">
+    <title lang="en">Andy's Aquatic Adventures</title>
+    <sub-title lang="en">Andy and the Chinstrap Penguins</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c5948306-f99f-5440-85a2-40a44ffd0afb.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415142000 +0100" stop="20200415144000 +0100" channel="CBeebies HD">
+    <title lang="en">Mister Maker's Arty Party</title>
+    <desc lang="en">Mister Maker, the Mini Makers from Glasgow and Scrappz have an Arty Party all about faces, and discover how an artist called Frida Kahlo turned her face into famous paintings.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8855cb47-ce47-5dfe-b2d3-bea21e3a701f.jpg" />
+    <episode-num system="xmltv_ns">0.12/26.</episode-num>
+    <star-rating system="GB">
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415144000 +0100" stop="20200415145500 +0100" channel="CBeebies HD">
+    <title lang="en">Ferne and Rory's Vet Tales</title>
+    <sub-title lang="en">Beardy the Bearded Dragon</sub-title>
+    <desc lang="en">Rory visits Porter and his pet bearded dragon, Beardy, who has a poorly tummy and needs a trip to the vet. Ferne joins a mobile vet on the Isle of Wight, where they visit lots of pets who need care.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2d15e78f-ad34-5685-81b7-0a0967877d4a.jpg" />
+    <episode-num system="xmltv_ns">1.11/25.</episode-num>
+    <star-rating system="GB">
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415145500 +0100" stop="20200415151000 +0100" channel="CBeebies HD">
+    <title lang="en">Catie's Amazing Machines</title>
+    <sub-title lang="en">Water Machines</sub-title>
+    <desc lang="en">Rally driver Catie shows off three amazing machines that belong on water. She tries out a water scooter, visits the largest cruise ship in the world and then pilots a speedy yacht.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ca77bdb1-ad47-5892-bdc8-b7e1e1f6d041.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415151000 +0100" stop="20200415153500 +0100" channel="CBeebies HD">
+    <title lang="en">Swashbuckle</title>
+    <sub-title lang="en">Little Sea Monster</sub-title>
+    <desc lang="en">Cook and Line help a little sea monster collect donations of gold for a 'Save the Sea Monsters' charity.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c4b7b249-2faa-5eef-be9c-3cfb6c0d7dac.jpg" />
+    <episode-num system="xmltv_ns">4.6/26.</episode-num>
+    <star-rating system="GB">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415153500 +0100" stop="20200415154500 +0100" channel="CBeebies HD">
+    <title lang="en">Hey Duggee</title>
+    <sub-title lang="en">The Sheep Badge</sub-title>
+    <desc lang="en">The squirrels are playing with their toys when they notice that there are sheep in the clubhouse. Animation for children aged two to five.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9f02662-70f4-5e1f-8cec-78093f47d6c6.jpg" />
+    <episode-num system="xmltv_ns">0.26/51.</episode-num>
+    <star-rating system="GB">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415154500 +0100" stop="20200415160000 +0100" channel="CBeebies HD">
+    <title lang="en">Peter Rabbit</title>
+    <sub-title lang="en">The Tale of Nutkin on the Run</sub-title>
+    <desc lang="en">When Squirrel Nutkin upsets Old Brown by taking his glasses, it is up to Peter and his friends to put things right.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e17e77a8-31b9-531e-8feb-88a629eefd74.jpg" />
+    <episode-num system="xmltv_ns">0.8/50.</episode-num>
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415160000 +0100" stop="20200415160500 +0100" channel="CBeebies HD">
+    <title lang="en">Love Monster</title>
+    <sub-title lang="en">Topsy Turvy Day</sub-title>
+    <desc lang="en">Love Monster finds it difficult when everyone has to do things the opposite way around..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/be43ca65-4b81-5bce-ade2-dd2e198b729a.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415160500 +0100" stop="20200415162000 +0100" channel="CBeebies HD">
+    <title lang="en">Andy's Dinosaur Adventures</title>
+    <sub-title lang="en">Postosuchus and Teeth</sub-title>
+    <desc lang="en">Andy Day travels back 220 million years to the era of the postosuchus - a giant creature that roamed North America in the time of the earliest dinosaurs.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0227c938-eff9-5385-a479-8a957ed4b636.jpg" />
+    <episode-num system="xmltv_ns">0.17/20.</episode-num>
+    <star-rating system="GB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415162000 +0100" stop="20200415163500 +0100" channel="CBeebies HD">
+    <title lang="en">Maddie's Do You Know</title>
+    <sub-title lang="en">Spider Web and Watering Can</sub-title>
+    <desc lang="en">Maddie learns how spiders make webs with silk and how watering cans are made in a factory.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b98db989-6094-5ba7-8f04-6e9aa9ac3986.jpg" />
+    <episode-num system="xmltv_ns">2.21/25.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415163500 +0100" stop="20200415165000 +0100" channel="CBeebies HD">
+    <title lang="en">Bitz &amp; Bob</title>
+    <sub-title lang="en">Snowy Sports Day</sub-title>
+    <desc lang="en">Bitz, Queen of Speed, Bevel the Blaze, Pacey Purl, Robo-Blast Bob, Pop the Snow Pro, and Zip the One Throw Wonder compete in Snowy Sports Day, but cannot keep track of the scores.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cb4f7bae-b1ac-5910-8dbe-07ed61322a0e.jpg" />
+    <episode-num system="xmltv_ns">1.7/21.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415165000 +0100" stop="20200415170000 +0100" channel="CBeebies HD">
+    <title lang="en">Go Jetters</title>
+    <sub-title lang="en">Go Jet Academy: Ghost Crabs</sub-title>
+    <desc lang="en">Cartoon following four adventure-seeking superheroes as they explore places all around the world.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/56c527b5-3139-5276-a1ad-7b4b142b5016.jpg" />
+    <episode-num system="xmltv_ns">2.20/26.</episode-num>
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415170000 +0100" stop="20200415171500 +0100" channel="CBeebies HD">
+    <title lang="en">YolanDa's Band Jam</title>
+    <sub-title lang="en">Jam #8: Funky String Sisters</sub-title>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5b216edd-8e49-508e-8eb4-e936d02a36ea.jpg" />
+    <episode-num system="xmltv_ns">0.7/20.</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415171500 +0100" stop="20200415172500 +0100" channel="CBeebies HD">
+    <title lang="en">Waffle the Wonder Dog</title>
+    <sub-title lang="en">Waffle and Benji</sub-title>
+    <desc lang="en">Waffle's been awarded the class toy for good behaviour, and Zoe and Callum have big news..(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2cc03fef-c714-5acf-a842-f913c6a5527a.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <star-rating system="GB">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415172500 +0100" stop="20200415174000 +0100" channel="CBeebies HD">
+    <title lang="en">JoJo &amp; Gran Gran</title>
+    <sub-title lang="en">It's Time to Visit the Farm</sub-title>
+    <desc lang="en">JoJo is excited to show Gran Gran around the city farm - it's been a few months since she was last there, and she can't wait to see Melanie the chick again. But when they arrive at the chicken enclosure, they can't find the little fluffy chick - where could she be?(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/85df687a-7780-502a-a7dc-da224a4bbda8.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20200415174000 +0100" stop="20200415174500 +0100" channel="CBeebies HD">
+    <title lang="en">Sarah &amp; Duck</title>
+    <sub-title lang="en">Pipe Conductor</sub-title>
+    <desc lang="en">The duo are woken by a loud clanging and decide to investigate.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c8c0bc82-7876-50aa-afd4-2bc8f1ed4618.jpg" />
+    <episode-num system="xmltv_ns">0.25/40.</episode-num>
+    <star-rating system="GB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415174500 +0100" stop="20200415181000 +0100" channel="CBeebies HD">
+    <title lang="en">Moon and Me</title>
+    <sub-title lang="en">Hide and Seek</sub-title>
+    <desc lang="en">Mr Onion is playing quietly with his toy bridge when he is interrupted by Little Nana and Lambkin, playing a noisy hopping game.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/2d950b2a-5b39-54ce-8274-f71764496055.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <star-rating system="GB">
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415181000 +0100" stop="20200415182000 +0100" channel="CBeebies HD">
+    <title lang="en">Clangers</title>
+    <sub-title lang="en">The Hoots Come to Play</sub-title>
+    <desc lang="en">Two hoots come to visit the Clangers. Tiny wants Big Hoot to play a duet with her.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cd3cccf6-c569-5a7e-ab91-1c775966e1e0.jpg" />
+    <episode-num system="xmltv_ns">1.18/26.</episode-num>
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415182000 +0100" stop="20200415185000 +0100" channel="CBeebies HD">
+    <title lang="en">In the Night Garden</title>
+    <sub-title lang="en">Igglepiggle's Noisy Noises</sub-title>
+    <desc lang="en">Everything in the garden is noisy, so Igglepiggle moves away to find a quiet place.(n)</desc>
+    <category lang="en">Children's</category>
+    <category lang="en">Youth</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5aedd4ad-dd6b-55cd-8cd4-d4bf3dcd5279.jpg" />
+    <episode-num system="xmltv_ns">0.57/100.</episode-num>
+    <star-rating system="GB">
+      <value>9.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415060000 +0100" stop="20200415070000 +0100" channel="ITV2">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Buying goods from the comfort of home.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/150d97de-9d58-5950-9be0-afd4d3c7e5c2.jpg" />
+    <star-rating system="GB">
+      <value>2.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415070000 +0100" stop="20200415072500 +0100" channel="ITV2">
+    <title lang="en">Totally Bonkers Guinness World Records</title>
+    <desc lang="en">Matt Edmonds narrates a selection of some of the most incredible and peculiar record-breaking attempts, including the most snails on one person's face, the fastest time to tape a person to a wall, and the quickest consumption of a raw onion.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7a2ba796-b1e9-576e-a2d9-b9a6e784697d.jpg" />
+    <episode-num system="xmltv_ns">1.1/17.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415072500 +0100" stop="20200415081000 +0100" channel="ITV2">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">Natalie Portman joins the host to discuss starring in sci-fi drama Lucy in the Sky. Plus, Mario Lopez has all the latest from the world of Access Hollywood.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/34c8f747-69f6-5330-81fb-5439d06a930a.jpg" />
+    <episode-num system="xmltv_ns">16.12.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415081000 +0100" stop="20200415090500 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed</title>
+    <sub-title lang="en">You've Been Framed! Gold: Full Throttle</sub-title>
+    <desc lang="en">Harry Hill narrates a selection of comical clips filmed by viewers on their camcorders and mobile phones, featuring thrill-seekers, show-offs, below-the-belt mishaps and painful-looking accidents.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8adad7-b527-5a24-b721-937cfcb41bde.jpg" />
+    <episode-num system="xmltv_ns">23.22/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415090500 +0100" stop="20200415093500 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Harry Hill narrates a comical selection of mishaps filmed by viewers. A squirrel steals a mobile, a fox attacks a golfer and a beach wedding is ruined. Plus, a skunk stinks out a swimming pool and a toddler murders a smurf.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8adad7-b527-5a24-b721-937cfcb41bde.jpg" />
+    <episode-num system="xmltv_ns">26.8/18.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415093500 +0100" stop="20200415100000 +0100" channel="ITV2">
+    <title lang="en">Superstore</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">New Cloud 9 superstore employee Jonah makes a terrible first impression on long-standing floor supervisor Amy. Assistant manager Dina soon becomes interested in him. US sitcom, starring America Ferrera.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c23f4f57-e8f7-5fb5-ae2a-bccc5002f49f.jpg" />
+    <episode-num system="xmltv_ns">0.0/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415100000 +0100" stop="20200415102500 +0100" channel="ITV2">
+    <title lang="en">Superstore</title>
+    <sub-title lang="en">Magazine Profile</sub-title>
+    <desc lang="en">Cheyenne and her fiance come up with a jingle for the store, and Garrett tries to avoid being photographed for the article for the store for the company magazine.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c23f4f57-e8f7-5fb5-ae2a-bccc5002f49f.jpg" />
+    <episode-num system="xmltv_ns">0.1/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415102500 +0100" stop="20200415113000 +0100" channel="ITV2">
+    <title lang="en">Dinner Date</title>
+    <sub-title lang="en">Wesley</sub-title>
+    <desc lang="en">Wesley from York appraises five menus put together by would-be sweethearts, and must decide which three he would like to meet based on the meals they have planned.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f563b254-48f6-5e7a-84b4-45c82a546e11.jpg" />
+    <episode-num system="xmltv_ns">4.3/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415113000 +0100" stop="20200415123000 +0100" channel="ITV2">
+    <title lang="en">Dress to Impress</title>
+    <sub-title lang="en">Osebi Bee</sub-title>
+    <desc lang="en">Three singletons try to impress professional footballer Osebi in Manchester, who then goes on a date with the person whose taste in clothes he liked best.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/abfa41a6-118c-5ddd-9583-12e19339656d.JPG" />
+    <episode-num system="xmltv_ns">0.6/30.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415123000 +0100" stop="20200415133500 +0100" channel="ITV2">
+    <title lang="en">Catchphrase</title>
+    <sub-title lang="en">Celebrity Catchphrase</sub-title>
+    <desc lang="en">Stephen Mulhern hosts a celebrity edition of the game show, asking former professional boxer Tony Bellew, singer and fashion designer Kelly Osbourne and BBC Breakfast presenter Dan Walker to guess the familiar phrases hidden in animated clues. One of them will make it through to the Super Catchphrase round, where they could win Â£50,000 for the charity of their choice.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/362aee63-3bd3-5802-bfa9-3c464595167b.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415133500 +0100" stop="20200415140000 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Harry Hill narrates a comical selection of mishaps filmed by viewers, featuring children performing a stage version of The Exorcist instead of a Nativity Play, a stripping grandmother and a dog that ruins a living room. Plus, clips of death-defying teenagers and unbelievable pregnancy reactions.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8adad7-b527-5a24-b721-937cfcb41bde.jpg" />
+    <episode-num system="xmltv_ns">26.6/18.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415140000 +0100" stop="20200415150000 +0100" channel="ITV2">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">The comedian chats to wrestler-turned-actor John Cena about his role in comedy movie Playing with Fire.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/34c8f747-69f6-5330-81fb-5439d06a930a.jpg" />
+    <episode-num system="xmltv_ns">16.13.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415150000 +0100" stop="20200415160000 +0100" channel="ITV2">
+    <title lang="en">Dinner Date</title>
+    <sub-title lang="en">Sasha</sub-title>
+    <desc lang="en">Sasha from London is asked to choose which three blind dates from a selection of five potential suitors she would like to get to know better, based entirely on dinner menus they have created.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f563b254-48f6-5e7a-84b4-45c82a546e11.jpg" />
+    <episode-num system="xmltv_ns">4.4/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415160000 +0100" stop="20200415170000 +0100" channel="ITV2">
+    <title lang="en">Dress to Impress</title>
+    <sub-title lang="en">John</sub-title>
+    <desc lang="en">In London, coffee shop supervisor Holly, singer Millie and care assistant Megan seek out stylish outfits for actor John, in the hope he may select one of them for a date.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/abfa41a6-118c-5ddd-9583-12e19339656d.JPG" />
+    <episode-num system="xmltv_ns">0.23/30.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415170000 +0100" stop="20200415173000 +0100" channel="ITV2">
+    <title lang="en">Superstore</title>
+    <sub-title lang="en">Shots and Salsa</sub-title>
+    <desc lang="en">Amy is angry when Glenn asks only the employees of Hispanic descent to work on a salsa sample booth. Jonah is tasked with giving out flu shots in the pharmacy.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c23f4f57-e8f7-5fb5-ae2a-bccc5002f49f.jpg" />
+    <episode-num system="xmltv_ns">0.2/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415173000 +0100" stop="20200415180000 +0100" channel="ITV2">
+    <title lang="en">Superstore</title>
+    <sub-title lang="en">Mannequin</sub-title>
+    <desc lang="en">Everyone becomes obsessed with a mannequin that looks exactly like Jonah, Cheyenne considers putting her baby up for adoption, while Glenn and Dina get into an argument about parenting. Comedy, starring America Ferrera and Ben Feldman.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c23f4f57-e8f7-5fb5-ae2a-bccc5002f49f.jpg" />
+    <episode-num system="xmltv_ns">0.3/11.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Exploding toilets, airborne chainsaws and a cat with a talent for playing the drums are among the video highlights submitted by fans for comedy appraisal by Harry Hill. Plus, a prankster reveals how Star Wars villain Darth Vader takes advantage of his unique powers during an embarrassing lavatory-based situation.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8adad7-b527-5a24-b721-937cfcb41bde.jpg" />
+    <episode-num system="xmltv_ns">25.15/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Harry Hill narrates a comical selection of mishaps filmed by viewers, featuring everything from giddy grandmas, cute kids and crazy animals to below-the-belt mishaps, practical jokers and painful-looking accidents.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8adad7-b527-5a24-b721-937cfcb41bde.jpg" />
+    <episode-num system="xmltv_ns">25.20/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed (?)</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Harry Hill narrates a comical selection of mishaps filmed by viewers, featuring everything from giddy grandmas, cute kids and crazy animals to below-the-belt mishaps, practical jokers and painful-looking accidents.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">25.24/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415193000 +0100" stop="20200415200000 +0100" channel="ITV2">
+    <title lang="en">You've Been Framed (?)</title>
+    <sub-title lang="en">You've Been Framed! Gold</sub-title>
+    <desc lang="en">Harry Hill's unique observations. Balcony theft goes wrong in the Home Counties, light bulbs are used as shuttlecocks, and the world's most inappropriate birthday present.(n)</desc>
+    <category lang="en">General</category>
+    <episode-num system="xmltv_ns">25.23/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415200000 +0100" stop="20200415203000 +0100" channel="ITV2">
+    <title lang="en">Two and a Half Men (?)</title>
+    <sub-title lang="en">Nice to Meet You, Walden Schmidt</sub-title>
+    <desc lang="en">Alan and Jake become one-and-a-half men as they bid a tearful goodbye to Charlie, but their numbers are soon bolstered when they meet internet billionaire Walden Schmidt. Comedy, starring Jon Cryer and Ashton Kutcher.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <episode-num system="xmltv_ns">8.0/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415203000 +0100" stop="20200415210000 +0100" channel="ITV2">
+    <title lang="en">Two and a Half Men (?)</title>
+    <sub-title lang="en">People Who Love Peepholes</sub-title>
+    <desc lang="en">Internet billionaire Walden plans to work his way back into the affections of his ex-wife Bridget, and asks Alan to accompany him as he tries to put his plan into action. Comedy, guest starring Judy Greer.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <episode-num system="xmltv_ns">8.1/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415210000 +0100" stop="20200415213000 +0100" channel="ITV2">
+    <title lang="en">Family Guy (?)</title>
+    <sub-title lang="en">Papa Has a Rollin' Son</sub-title>
+    <desc lang="en">Joe's long-estranged father Bud visits Quahog, while Stewie is told that he will never grow tall and so befriends a pint-sized version of Tom Cruise.(n)</desc>
+    <category lang="en">Animated</category>
+    <episode-num system="xmltv_ns">13.1/20.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415213000 +0100" stop="20200415220000 +0100" channel="ITV2">
+    <title lang="en">Family Guy (?)</title>
+    <sub-title lang="en">Peternormal Activity</sub-title>
+    <desc lang="en">While exploring an abandoned asylum to gain inspiration for filming a new horror movie, Peter and his friends accidentally kill a man who they think is keeping them hostage. Meanwhile, Stewie becomes annoyed with Brian's pretentious attitude.(n)</desc>
+    <category lang="en">Animated</category>
+    <episode-num system="xmltv_ns">13.3/20.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="ITV2">
+    <title lang="en">Plebs (?)</title>
+    <sub-title lang="en">The New Flat</sub-title>
+    <desc lang="en">The boys face uncertainty when their landlord evicts them without notice from their flat. Marcus hopes his parents, who are visiting for the weekend, will help him onto the property ladder, but his dad has other plans for their savings. Meanwhile, Jason's smooth-talking lands him a job as an estate agent.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <episode-num system="xmltv_ns">4.6/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415223000 +0100" stop="20200415230500 +0100" channel="ITV2">
+    <title lang="en">Plebs (?)</title>
+    <sub-title lang="en">The Wedding</sub-title>
+    <desc lang="en">Jason's brother Darius is getting married and Marcus desperately wants to hire out the Crown and Toga for the occasion, while Grumio offers his services as wedding planner. But their plans are threatened when they find out that Darius is a serial jilter. Elsewhere, Marcus clashes with their lazy postman.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <episode-num system="xmltv_ns">4.7/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415230500 +0100" stop="20200415233500 +0100" channel="ITV2">
+    <title lang="en">Family Guy (?)</title>
+    <sub-title lang="en">Peter, Chris, &amp; Brian</sub-title>
+    <desc lang="en">Peter watches an old home video and realises that none of his childhood dreams have come true, so he attempts to improve Chris's chances in life by forcing him to spend time with Brian.(n)</desc>
+    <category lang="en">Animated</category>
+    <episode-num system="xmltv_ns">13.4/20.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200415233500 +0100" stop="20200416000500 +0100" channel="ITV2">
+    <title lang="en">Family Guy (?)</title>
+    <sub-title lang="en">Stewie Is Enceinte</sub-title>
+    <desc lang="en">Stewie impregnates himself with Brian's DNA to save their friendship, while Peter and the guys try to make a viral video.(n)</desc>
+    <category lang="en">Animated</category>
+    <episode-num system="xmltv_ns">12.11/18.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
   </programme>
 </tv>
