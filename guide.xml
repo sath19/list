@@ -82,7 +82,28 @@
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
     <icon src="https://upload.wikimedia.org/wikipedia/en/4/4b/The_Mask_%28film%29_poster.jpg" />
-  </programme>  
+  </programme>
+  <programme start="20200415203500 -0400" stop="20200415224400 -0400" channel="StayAtHome TV">
+    <title lang="en">Aladdin (2019)</title>
+    <desc lang="en">A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://i.pinimg.com/originals/44/47/9f/44479f2f88229a6c3c688553c95b8ada.jpg" />
+  </programme>
+  <programme start="20200415224700 -0400" stop="20200416010500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Martian (2015)</title>
+    <desc lang="en">An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.dneg.com/wp-content/uploads/2018/02/the-martian-104112-poster-xlarge.jpg" />
+  </programme>
+  <programme start="20200416010500 -0400" stop="20200416083000 -0400" channel="StayAtHome TV">
+    <title lang="en">Off Air</title>
+    <desc lang="en">Go to sleep!</desc>
+    <category lang="en">Sleep</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://cdn.searchenginejournal.com/wp-content/uploads/2020/03/1dd941ef-f647-49ab-beae-4af02ac39933-5e7a423d9e8d3-1520x800.jpeg" />
+  </programme>
   <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">15/04/2020</sub-title>
