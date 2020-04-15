@@ -10,13 +10,13 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/894.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <channel id="BBC Two HD (UK) HD">
-    <display-name lang="en">BBC Two HD (UK) HD</display-name>
+  <channel id="BBC Two HD (UK)">
+    <display-name lang="en">BBC Two HD (UK)</display-name>
     <icon src="http://my.tvguide.co.uk/channel_logos/387.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <channel id="BBC Four HD (UK) HD">
-    <display-name lang="en">BBC Four HD (UK) HD</display-name>
+  <channel id="BBC Four HD (UK)">
+    <display-name lang="en">BBC Four HD (UK)</display-name>
     <icon src="http://my.tvguide.co.uk/channel_logos/893.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
@@ -506,7 +506,7 @@
       <value>2.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415023000 +0100" stop="20200415064500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415023000 +0100" stop="20200415064500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">This Is BBC Two</title>
     <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
     <category lang="en">General</category>
@@ -516,7 +516,7 @@
       <value>9.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415064500 +0100" stop="20200415071500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415064500 +0100" stop="20200415071500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Night Force</title>
     <desc lang="en">Documentary following the lives of the army of night workers who toil through the small hours to get the world ready for when the rest of the population awakes.(n)</desc>
     <category lang="en">Education</category>
@@ -530,7 +530,7 @@
       <value>10/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415071500 +0100" stop="20200415080000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415071500 +0100" stop="20200415080000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Pointless</title>
     <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
     <category lang="en">General</category>
@@ -542,7 +542,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415080000 +0100" stop="20200415090000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415080000 +0100" stop="20200415090000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">MasterChef</title>
     <desc lang="en">John Torode and Gregg Wallace preside as the last group of six hopefuls compete in the culinary contest. They are challenged to serve up their signature dish, with the judges' favourite two winning a coveted MasterChef apron and a place in the next round. The others must come up with a dish using pigeon, beetroot and bacon in the Three Ingredients Challenge, after which two cooks are sent home, leaving the remaining four to cook two courses for three former contestants.(n)</desc>
     <category lang="en">Leisure</category>
@@ -555,7 +555,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415090000 +0100" stop="20200415100000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415090000 +0100" stop="20200415100000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Lambing Live</title>
     <sub-title lang="en">Lambing Live: As It Happened</sub-title>
     <desc lang="en">As Kate Humble continues to help the Dykes with lambing on their farm in the Scottish Borders, she discovers that performing ultrasounds on sheep can be a surprisingly mucky business. Adam Henson reports from Cyprus as he goes in search of the mouflon, an ancient wild breed that is both rare and elusive. Plus, updates on the new arrivals.(n)</desc>
@@ -570,7 +570,7 @@
       <value>5.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415100000 +0100" stop="20200415130000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415100000 +0100" stop="20200415130000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">BBC News</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <category lang="en">News</category>
@@ -581,7 +581,7 @@
       <value>3.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415130000 +0100" stop="20200415134500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415130000 +0100" stop="20200415134500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Curiosity</title>
     <desc lang="en">Paul Martin hosts as James and Simon take on Kim and Scott, going head to head to determine who will meet today's curious collector Tanya for a chance to win Â£1,000.(n)</desc>
     <category lang="en">Show</category>
@@ -594,7 +594,7 @@
       <value>2/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415134500 +0100" stop="20200415141500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415134500 +0100" stop="20200415141500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Eggheads</title>
     <desc lang="en">Quiz in which the winners of famous game shows work as a team to tackle a new set of challengers hoping to win a cash prize. Presented by Jeremy Vine.(n)</desc>
     <category lang="en">Show</category>
@@ -607,7 +607,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415141500 +0100" stop="20200415143500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415141500 +0100" stop="20200415143500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Nigel Slater's Simple Suppers</title>
     <sub-title lang="en">Saints and Sinners</sub-title>
     <desc lang="en">The food writer makes mouth-watering chocolate cookies and crispy duck with honey and figs, which prove a little bit of what you fancy does you good.(n)</desc>
@@ -621,7 +621,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415143500 +0100" stop="20200415152000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415143500 +0100" stop="20200415152000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Talking Pictures</title>
     <sub-title lang="en">Epics: Talking Pictures</sub-title>
     <desc lang="en">A look through the BBC archive to discover what makes an epic, featuring interviews with some of those who starred in some of the biggest film in the world. Narrated by Sylvia Syms.(n)</desc>
@@ -634,7 +634,7 @@
       <value>7.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415152000 +0100" stop="20200415171500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415152000 +0100" stop="20200415171500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">The Vikings</title>
     <desc lang="en">A Norse warrior becomes embroiled in a feud with a former slave over the succession to the Northumbrian throne, unaware his arch-enemy is really his half-brother. Matters come to a head when they both set their sights on a Welsh princess, leading to a confrontation - but the situation is further complicated by the interference of England's sadistic king. Adventure, with Kirk Douglas, Tony Curtis, Janet Leigh, Ernest Borgnine and James Donald.(n)</desc>
     <date>1958</date>
@@ -645,7 +645,7 @@
       <value>9.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415171500 +0100" stop="20200415180000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415171500 +0100" stop="20200415180000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Flog It</title>
     <desc lang="en">Five experts assess items brought to the Blickling estate in Norfolk, with David Harper excited by an early device for watching films, while David Fletcher and James Lewis reminisce about Rupert the Bear books and Dinky toys. Paul Martin enjoys a ride in a tank on historic former military camp.(n)</desc>
     <category lang="en">Leisure</category>
@@ -657,7 +657,7 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415180000 +0100" stop="20200415183000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Richard Osman's House of Games</title>
     <desc lang="en">Mathematician Rachel Riley, singer JB Gill, newscaster Katie Derham and comedian Richard Herring take part in a variety of entertaining trivia-based games.(n)</desc>
     <category lang="en">General</category>
@@ -669,7 +669,7 @@
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415183000 +0100" stop="20200415190000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Animal Park</title>
     <desc lang="en">Excitement is mounting as the Park keepers hope that rare Amur tiger Yana may be pregnant. Meanwhile, a rare little Hyrax is in trouble.(n)</desc>
     <category lang="en">Education</category>
@@ -682,7 +682,7 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415190000 +0100" stop="20200415200000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415190000 +0100" stop="20200415200000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">The Hairy Bikers' Mediterranean Adventure</title>
     <sub-title lang="en">Balearics</sub-title>
     <desc lang="en">The bikers ride across the Balearic islands Menorca and Majorca, sampling great produce and finding out about the British influence in the Mediterranean from the 17th century to the present day. They reveal how mayonnaise was invented in Menorca's capital of Mahon, sample Menorcan gin, and meet British chef Mark Fosh, who has lived in Majorca for more than 20 years. Recipes include cuttlefish stew and squid salad with mayonnaise, fish and chips in gin and tonic batter, and sea bass a la mallorquina and saffron potato puree.(n)</desc>
@@ -696,7 +696,7 @@
       <value>1.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Great British Menu</title>
     <sub-title lang="en">North West - Starter &amp; Fish Courses</sub-title>
     <desc lang="en">As the competition continues, chefs Tom Barnes, Sam Buckley, Hrishikesh Desai and George Farrugia compete in the heats for the North West. Each chef prepares a starter and fish course celebrating iconic food from children's literature, specifically tasked with honouring the theme of action and adventure. Presented by Susan Calman.(n)</desc>
@@ -709,7 +709,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Devs</title>
     <desc lang="en">Lily and her boyfriend both work as programmers at the vast campus of quantum computer company Amaya, near San Francisco. When Sergei comes to the CEO's attention, he is recruited to a secretive division of the company - but when he fails to return home, an alarmed Lily begins to investigate his disappearance. Mystery thriller created by Alex Garland (Ex Machina, Annihilation), starring Sonoya Mizuno, Nick Offerman, Zach Grenier and Alison Pill.(n)</desc>
     <category lang="en">Thriller</category>
@@ -717,7 +717,7 @@
     <episode-num system="xmltv_ns">0.0/8.</episode-num>
     <subtitles />
   </programme>
-  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415220000 +0100" stop="20200415223000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Mister Winner</title>
     <sub-title lang="en">The Package</sub-title>
     <desc lang="en">Jemma asks Leslie to wait in for a parcel for her while she goes to a business trip, but Leslie has other ideas and plans to go to a Dr Who convention with his best friend Cooper. Feeling guilty about letting her down, Leslie decides to cancel his day out with Cooper and stays at home to wait in for the package, which is a gift for his father-in-law. However, things do not go to plan when Leslie manages to get himself locked out of the flat, before almost burning the place down. Comedy, starring Spencer Jones and Lucy Pearman.(n)</desc>
@@ -726,7 +726,7 @@
     <episode-num system="xmltv_ns">0.3/6.</episode-num>
     <subtitles />
   </programme>
-  <programme start="20200415223000 +0100" stop="20200415224500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415223000 +0100" stop="20200415224500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Mandy</title>
     <desc lang="en">Comedy short, written by and starring Diane Morgan (Philomena Cunk). A woman becomes obsessed with a sofa she has seen in a shop window. Unable to think of anything else, she goes to desperate lengths to possess the furniture of her dreams.(n)</desc>
     <category lang="en">Comedy</category>
@@ -737,7 +737,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415224500 +0100" stop="20200415232500 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415224500 +0100" stop="20200415232500 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Newsnight</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <desc lang="en">Analysis of the day's events. Presented by Emma Barnett.(n)</desc>
@@ -749,7 +749,7 @@
       <value>4.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415232500 +0100" stop="20200415233000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415232500 +0100" stop="20200415233000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Weather</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <category lang="en">News</category>
@@ -760,7 +760,7 @@
       <value>8.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415233000 +0100" stop="20200416003000 +0100" channel="BBC Two HD (UK) HD">
+  <programme start="20200415233000 +0100" stop="20200416003000 +0100" channel="BBC Two HD (UK)">
     <title lang="en">Dragons' Den</title>
     <desc lang="en">Entrepreneurs pitch more money-making ideas to panellists Sara Davies, Touker Suleyman, Deborah Meaden, Tej Lalvani and Peter Jones. Two Syrian refugees share their alternative to Cypriot halloumi, a couple showcase some virus filtration gadgets, and a charitable entrepreneur has a plan for second-hand clothes. Presented by Evan Davis.(n)</desc>
     <category lang="en">Education</category>
@@ -774,7 +774,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415190000 +0100" stop="20200415193000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">BBC World News</title>
     <sub-title lang="en">15/04/2020</sub-title>
     <category lang="en">News</category>
@@ -785,7 +785,7 @@
       <value>2.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415193000 +0100" stop="20200415200000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415193000 +0100" stop="20200415200000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">Handmade in Japan</title>
     <sub-title lang="en">Handmade in Japan: Pottery</sub-title>
     <desc lang="en">A look at the work of the Hamadas, one of Japan's most famous families of potters, following Tomoo as he creates and fires pots in a wood-fuelled kiln.(n)</desc>
@@ -799,7 +799,7 @@
       <value>8.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415200000 +0100" stop="20200415210000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">Six Wives with Lucy Worsley</title>
     <desc lang="en">The historian explores the fate of the last three wives of Henry VIII. First, Lucy witnesses Henry's doomed courtship with Anne of Cleves, with Henry successfully reneging on their marriage having claimed it had yet to be consummated. Two weeks later, Henry married teenager Catherine Howard, but an act of adultery with a courtier saw the young woman convicted of treason and beheaded. Finally, Lucy explores Henry's relationship with his last wife Katherine Parr, and how she managed to win Henry round despite their greatly differing religious beliefs.(n)</desc>
     <category lang="en">Education</category>
@@ -812,7 +812,7 @@
       <value>4.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415210000 +0100" stop="20200415220000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">Rebuilding Notre Dame: Inside the Great Cathedral Rescue</title>
     <desc lang="en">Following efforts to rebuild the world-famous Cathedral of Notre Dame de Paris, a year on from the devastating fire that ravaged the 850-year-old Gothic masterpiece. Chief architect Philippe Villeneuve urgently needs a complete picture of the damage sustained during the fire, so he initiates an unprecedented collaboration between architects and scientists. Their mission is to meticulously analyse the fallen timber, stone and fractured glass, to develop a decontamination and restoration plan. This unique opportunity offers a new insight into the medieval materials, techniques and people who built Notre Dame.(n)</desc>
     <category lang="en">News</category>
@@ -823,7 +823,7 @@
       <value>10/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415220000 +0100" stop="20200415230000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415220000 +0100" stop="20200415230000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">From Ice to Fire: The Incredible Science of Temperature</title>
     <sub-title lang="en">Frozen Solid</sub-title>
     <desc lang="en">Physicist Helen Czerski explores the science of temperature. She begins by venturing to the bottom of the scale, revealing how cold has shaped the world and why frozen does not necessarily mean what people might think.(n)</desc>
@@ -836,7 +836,7 @@
       <value>8.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20200415230000 +0100" stop="20200416000000 +0100" channel="BBC Four HD (UK) HD">
+  <programme start="20200415230000 +0100" stop="20200416000000 +0100" channel="BBC Four HD (UK)">
     <title lang="en">From Ice to Fire: The Incredible Science of Temperature</title>
     <sub-title lang="en">A Temperature for Life</sub-title>
     <desc lang="en">Physicist Dr Helen Czerski explores the narrow band of temperature that has led to life on Earth. She reveals how life began in a place where hot meets cold, and how every living creature on Earth depends on temperature for its survival. She uncovers the extraordinary natural engineering that animals have evolved to keep their bodies at the right temperature and she witnesses the remarkable surgery that is using temperature to take the human body to the extremes.(n)</desc>
