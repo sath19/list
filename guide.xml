@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="StayAtHome TV">
+    <display-name lang="en">StayAtHome TV</display-name>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+    <url>http://www.google.com</url>
+  </channel>
   <channel id="BBC1 HD">
     <display-name lang="en">BBC1 HD</display-name>
     <icon src="http://my.tvguide.co.uk/channel_logos/683.png" />
@@ -43,6 +48,34 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
+  <programme start="20200415113000 -0400" stop="20200415130600 -0400" channel="StayAtHome TV">
+    <title lang="en">Smallfoot (2018)</title>
+    <desc lang="en">A Yeti is convinced that the elusive creatures known as "humans" really do exist</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation, Comedy</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/e/e8/Smallfoot_%28film%29.png" />
+  </programme>
+  <programme start="20200415131000 -0400" stop="20200415153000 -0400" channel="StayAtHome TV">
+    <title lang="en">Ready Player One (2018)</title>
+    <desc lang="en">When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action, Sci-Fi</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg" />
+  </programme>
+  <programme start="20200415153200 -0400" stop="20200415171200 -0400" channel="StayAtHome TV">
+    <title lang="en">Free Solo (2018)</title>
+    <desc lang="en">Alex Honnold attempts to become the first person to ever free solo climb El Capitan</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://filmdb.landmarkcinemas.com/FilmImages/22/1/121620/FreeSolo-Poster.jpg" />
+  </programme>
+  <programme start="20200415172200 -0400" stop="20200415185200 -0400" channel="StayAtHome TV">
+    <title lang="en">A Quiet Place (2018)</title>
+    <desc lang="en">In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama, Horror</category>
+    <icon src="https://i.etsystatic.com/10683147/r/il/547071/1508231227/il_570xN.1508231227_1ahy.jpg" />
+  </programme>
   <programme start="20200415060000 +0100" stop="20200415090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">15/04/2020</sub-title>
