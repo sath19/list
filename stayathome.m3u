@@ -6,6 +6,9 @@ mms://freetime.ignorelist.com:55660
 #EXTINF:0 tvg-name="---Working---
 #EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD
 http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="BBC One(UK) Backup" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title"",BBC One (UK) Backup
+#EXTVLCOPT:network-caching=1000
+http://78.110.169.226:8000/play/a06e
 #EXTINF:0 tvg-name="BBC_News_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="",BBC News HD
 http://145.239.207.21:6999/pool_902/live/uk/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC_Two_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_two_uk.jpg" group-title="",BBC2 HD
@@ -35,12 +38,6 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0,CBS (WFOR) (US)
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0,Canal Sony (BR)
-#EXTVLCOPT:network-caching=1000
-http://srv.tvprodigital.net:25461/Malu123/Malu123/4395
-#EXTINF:0,Sky News (UK)
-#EXTVLCOPT:network-caching=1000
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:0,Bloomberg Television (US)
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
@@ -50,9 +47,9 @@ http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a04v
-#EXTINF:0 tvg-name="BBC One(UK)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-one-01-logo-png-transparent.png" group-title"",BBC One (UK)
-#EXTVLCOPT:network-caching=1000
-http://78.110.169.226:8000/play/a06e
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,Sky News (UK) - Broken
+#EXTVLCOPT:network-caching=1000
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
