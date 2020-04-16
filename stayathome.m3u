@@ -12,6 +12,9 @@ http://145.239.207.21:6999/pool_902/live/uk/bbc_news_channel_hd/bbc_news_channel
 http://145.239.207.21:6999/pool_902/live/uk/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC_Four_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 HD
 http://145.239.207.21:6999/pool_902/live/uk/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="BBC4 (Backup)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 Backup
+#EXTVLCOPT:network-caching=1000
+http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-name="CBBC_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbbc.jpg" group-title="",CBBC HD
 http://145.239.207.21:6999/pool_902/live/uk/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="",CBeebies HD
@@ -50,9 +53,6 @@ http://78.110.169.226:8000/play/a04v
 #EXTINF:0 tvg-name="BBC One(UK)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-one-01-logo-png-transparent.png" group-title"",BBC One (UK)
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
-#EXTINF:0 tvg-name="BBC Ceebiest(UK)" tvg-logo="https://img.favpng.com/19/13/17/cbeebies-television-show-logo-cbbc-bbc-television-png-favpng-QbbGhEXJNJncwhm92J92WjETA.jpg" group-title="",BBC Ceebies
-#EXTVLCOPT:network-caching=1000
-http://51.52.156.22:8888/http/003
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
