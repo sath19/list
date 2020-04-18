@@ -102,6 +102,30 @@
     <category lang="en">Action, Fantasy</category>
     <icon src="https://upload.wikimedia.org/wikipedia/en/f/fb/Mortal_Kombat_poster.jpg" />
   </programme>
+  <programme start="20200418195600 -0400" stop="20200418215300 -0400" channel="StayAtHome TV">
+    <title lang="en">Us (2019)</title>
+    <desc lang="en">A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them</desc>
+    <category lang="en">Horror, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20200418215500 -0400" stop="20200418232730 -0400" channel="StayAtHome TV">
+    <title lang="en">Teen Wolf (1985)</title>
+    <desc lang="en">An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf</desc>
+    <category lang="en">Comedy, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGFmZTFhYjktMmYyZi00ZmE4LWI0NGEtMDY2MGEzMDY0YjdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20200418232930 -0400" stop="20200419010200 -0400" channel="StayAtHome TV">
+    <title lang="en">Teen Wolf (1985)</title>
+    <desc lang="en">An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf</desc>
+    <category lang="en">Comedy, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGFmZTFhYjktMmYyZi00ZmE4LWI0NGEtMDY2MGEzMDY0YjdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20200419010400 -0400" stop="20200419023500 -0400" channel="StayAtHome TV">
+    <title lang="en">Bloodsport (1988)</title>
+    <desc lang="en">Follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTJmMGEzMTQtMzQzMi00YjE1LWI4MTctNjY0NWZiYzE2MDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
   <programme start="20200418060000 +0100" stop="20200418100000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">18/04/2020</sub-title>
