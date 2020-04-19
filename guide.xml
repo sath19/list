@@ -5,6 +5,7 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
+  <channel id="BBC1 HD">
     <display-name lang="en">BBC1 HD</display-name>
     <icon src="http://my.tvguide.co.uk/channel_logos/683.png" />
     <url>http://www.tvguide.co.uk</url>
