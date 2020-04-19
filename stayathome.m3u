@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="StayAtHome TV(down 4 maint.)" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV (down 4 maintain.) 
+#EXTINF:0 tvg-name="StayAtHome TV(down 4 maint.)" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV (down 4 maintenance) 
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="StayAtHome TV-Backup(down)" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-Backup(Offline)
 mms://freetime.ignorelist.com:55660
