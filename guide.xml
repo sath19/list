@@ -48,18 +48,7 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <programme start="20200420163000 -0400" stop="20200420170000 -0400" channel="StayatHome TV">
-    <title lang="en">The Andrew Marr Show</title>
-    <sub-title lang="en">19/04/2020</sub-title>
-    <desc lang="en">A round-up of the week's stories, featuring interviews with key figures in politics and current affairs and a round-up of the Sunday papers. Including news and weather at 10.00.(n)</desc>
-    <category lang="en">General</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/7e1ca230-d298-522e-9d29-8d4c2e7422b2.jpg" />
-    <subtitles />
-    <star-rating system="GB">
-      <value>5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20200420153000 -0400" stop="20200420163000 -0400" channel="StayAtHome TV">
+  <programme start="20200420163000 -0400" stop="20200420173000 -0400" channel="StayAtHome TV">
     <title lang="en">Xpressionz Thursdayz 5</title>
     <desc lang="en">Dance Hall madness from Jamaica</desc>
     <category lang="en">Music</category>
