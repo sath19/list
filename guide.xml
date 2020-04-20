@@ -48,11 +48,11 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <programme start="20200419132800 -0400" stop="20200419151600 -0400" channel="StayAtHome TV">
-    <title lang="en">Deadpool (2016)</title>
-    <desc lang="en">A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20200420150000 -0400" stop="20200420163000 -0400" channel="StayAtHome TV">
+    <title lang="en">Xpressionz Thursdayz 5</title>
+    <desc lang="en">Dance Hall madness from Jamaica</desc>
+    <category lang="en">Music</category>
+    <icon src="http://2.bp.blogspot.com/-mzvCmnZ8Bsw/TeN-5oZ69AI/AAAAAAAAL9M/VbEjnFMsNPU/s320/timthumb.JPG" />
   </programme>
   <programme start="20200419151800 -0400" stop="20200419173000 -0400" channel="StayAtHome TV">
     <title lang="en">Shazam! (2019)</title>
