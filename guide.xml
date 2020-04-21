@@ -48,23 +48,23 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <programme start="20200420163000 -0400" stop="20200420173000 -0400" channel="StayAtHome TV">
-    <title lang="en">Xpressionz Thursdayz 5</title>
-    <desc lang="en">Dance Hall madness from Jamaica</desc>
-    <category lang="en">Music</category>
-    <icon src="http://2.bp.blogspot.com/-mzvCmnZ8Bsw/TeN-5oZ69AI/AAAAAAAAL9M/VbEjnFMsNPU/s320/timthumb.JPG" />
+  <programme start="20200421182500 -0400" stop="20200421195345 -0400" channel="StayAtHome TV">
+    <title lang="en">Sausage Party (2016)</title>
+    <desc lang="en">A sausage strives to discover the truth about his existence</desc>
+    <category lang="en">Animation, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20200419173100 -0400" stop="20200419200000 -0400" channel="StayAtHome TV">
-    <title lang="en">X-Men: Days of Future Past (2014)</title>
-    <desc lang="en">The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants</desc>
-    <category lang="en">Action, Sci-Fi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20200421195400 -0400" stop="20200421220000 -0400" channel="StayAtHome TV">
+    <title lang="en">Se7en (1995)</title>
+    <desc lang="en">Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20200419200100 -0400" stop="20200419222900 -0400" channel="StayAtHome TV">
-    <title lang="en">Avengers: Infinity War (2018)</title>
-    <desc lang="en">The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe</desc>
-    <category lang="en">Action, Sci-Fi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20200421220001 -0400" stop="20200421234130 -0400" channel="StayAtHome TV">
+    <title lang="en">Street Fighter (1994)</title>
+    <desc lang="en">Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts</desc>
+    <category lang="en">Action, Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2JhYjUzYzAtMWFhMi00YzIyLTllZGQtMTAzNThkNTJhNTBmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20200419223000 -0400" stop="20200420005300 -0400" channel="StayAtHome TV">
     <title lang="en">Aquaman (2018)</title>
