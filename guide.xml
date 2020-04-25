@@ -48,32 +48,38 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <programme start="20200423191000 -0400" stop="20200423212500 -0400" channel="StayAtHome TV">
-    <title lang="en">Uncut Gems (2019)</title>
-    <desc lang="en">With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
+  <programme start="20200425112500 -0400" stop="20200425130600 -0400" channel="StayAtHome TV">
+    <title lang="en">The Lego Ninjago Movie (2017)</title>
+    <desc lang="en">Shunned by everyone for being the son of an evil warlord, a teenager seeks to defeat him with the help of his fellow ninjas</desc>
+    <category lang="en">Animation, Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDI3MDljMTQtYzBiYS00NDk2LTlhYzUtYmM0NWIyMmZkMDZkXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_SY1000_CR0,0,703,1000_AL_.jpg" />
   </programme>
-  <programme start="20200423212700 -0400" stop="20200423231100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Art of Self-Defense (2019)</title>
-    <desc lang="en">After being attacked on the street, a young man enlists at a local dojo, led by a charismatic and mysterious sensei, in an effort to learn how to defend himself from future threats</desc>
+  <programme start="20200425130600 -0400" stop="20200425160800 -0400" channel="StayAtHome TV">
+    <title lang="en">The Hobbit: An Unexpected Journey - Extended Cut (2012)</title>
+    <desc lang="en">A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200425160800 -0400" stop="20200425191400 -0400" channel="StayAtHome TV">
+    <title lang="en">The Hobbit: The Desolation of Smaug - Extended Cut (2013)</title>
+    <desc lang="en">The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200425191500 -0400" stop="20200425215900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Hobbit: The Battle of the Five Armies - Extended Cut (2014)</title>
+    <desc lang="en">Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200425220000 -0400" stop="20200425234800 -0400" channel="StayAtHome TV">
+    <title lang="en">Jojo Rabbit (2019)</title>
+    <desc lang="en">A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home</desc>
     <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDlkOGE4YTUtYWRlZS00YjFkLWE3NmUtNzNlNjdiZTk2NzdhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200423231500 -0400" stop="20200424005500 -0400" channel="StayAtHome TV">
-    <title lang="en">Game Night (2018)</title>
-    <desc lang="en">A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters</desc>
-    <category lang="en">Comedy, Crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200424005800 -0400" stop="20200424025500 -0400" channel="StayAtHome TV">
-    <title lang="en">Night School (2018)</title>
-    <desc lang="en">A group of high school dropouts are forced to attend night school in hope that they'll pass the GED exam to finish high school</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzEyYzg5N2YtZmYzZC00OTg0LWE3ZmYtNDZhMGFkOTBjOTYxXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200424030000 -0400" stop="20200424090000 -0400" channel="StayAtHome TV">
-    <title lang="en">Overnight Fun</title>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX667_AL_.jpg" />
+  </programme> 
+  <programme start="20200425235000 -0400" stop="20200426080000 -0400" channel="StayAtHome TV">
+    <title lang="en">To Be Decided</title>
     <desc lang="en">Random TV shows, music and movies</desc>
     <category lang="en">Random</category>
     <icon src="" />
