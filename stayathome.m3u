@@ -47,6 +47,18 @@ http://78.110.169.226:8000/play/a04v
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,Sky News (UK) - Broken
+#EXTINF:0,Redbull TV
 #EXTVLCOPT:network-caching=1000
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,CBC News Network
+#EXTVLCOPT:network-caching=1000
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:0,CBC (Toronto)
+#EXTVLCOPT:network-caching=1000
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:0,CBS
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:0,Miami TV
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w30480388_b2592000.m3u8
