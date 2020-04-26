@@ -55,16 +55,10 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SY1000_CR0,0,668,1000_AL_.jpg" />
   </programme>
   <programme start="20200426123500 -0400" stop="20200426141900 -0400" channel="StayAtHome TV">
-    <title lang="en">Pokémon Detective Pikachu (2019)</title>
+    <title lang="en">Pokemon Detective Pikachu (2019)</title>
     <desc lang="en">In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective</desc>
     <category lang="en">Adventure, Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200426142200 -0400" stop="20200426163300 -0400" channel="StayAtHome TV">
-    <title lang="en">Shazam! (2019)</title>
-    <desc lang="en">A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
   <programme start="20200427012700 -0400" stop="20200427090000 -0400" channel="StayAtHome TV">
     <title lang="en">To Be Decided</title>
