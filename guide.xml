@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="StayAtHome TV">
+    <display-name lang="en">StayAtHome TV</display-name>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+    <url>http://www.google.com</url>
+  </channel>
   <channel id="BBC1 HD">
     <display-name lang="en">BBC1 HD</display-name>
     <icon src="http://my.tvguide.co.uk/channel_logos/683.png" />
@@ -43,6 +48,12 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
+  <programme start="20200426104100 -0400" stop="20200426123200 -0400" channel="StayAtHome TV">
+    <title lang="en">Kindergarten Cop (1990)</title>
+    <desc lang="en">A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars	</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SY1000_CR0,0,668,1000_AL_.jpg" />
+  </programme>
   <programme start="20200426060000 +0100" stop="20200426090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">26/04/2020</sub-title>
