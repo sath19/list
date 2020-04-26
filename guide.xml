@@ -65,6 +65,7 @@
     <desc lang="en">Random TV shows, music and movies</desc>
     <category lang="en">Random</category>
     <icon src="" />
+  </programme>
   <programme start="20200426060000 +0100" stop="20200426090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">26/04/2020</sub-title>
