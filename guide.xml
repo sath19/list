@@ -48,55 +48,31 @@
     <display-name lang="en">Disney - Eastern Feed</display-name>
     <url>http://www.tvtv.us</url>
   </channel>
-  <programme start="20200426104100 -0400" stop="20200426123200 -0400" channel="StayAtHome TV">
-    <title lang="en">Kindergarten Cop (1990)</title>
-    <desc lang="en">A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars	</desc>
+  <programme start="20200427021000 -0400" stop="20200427034500 -0400" channel="StayAtHome TV">
+    <title lang="en">Mallrats (1995)</title>
+    <desc lang="en">Both dumped by their girlfriends, two best friends seek refuge in the local mall</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SY1000_CR0,0,668,1000_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BZGNhYzE4YzktNDIwNC00YmRiLTgyOTgtMzk1ZjNhNmI4ODI1XkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_.jpg" />
   </programme>
-  <programme start="20200426123500 -0400" stop="20200426141900 -0400" channel="StayAtHome TV">
-    <title lang="en">Pokemon Detective Pikachu (2019)</title>
-    <desc lang="en">In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective</desc>
-    <category lang="en">Adventure, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200426142200 -0400" stop="20200426163300 -0400" channel="StayAtHome TV">
-    <title lang="en">Shazam! (2019)</title>
-    <desc lang="en">A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy</desc>
+  <programme start="20200427034500 -0400" stop="20200427070400 -0400" channel="StayAtHome TV">
+    <title lang="en">Chappelle's Show </title>
+    <desc lang="en">Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWNjYTg5NGMtOWRjNy00ZGNlLTg2MmYtZjQ5NTM0MTQxOGM2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,701,1000_AL_.jpg" />
   </programme>
-  <programme start="20200426163500 -0400" stop="20200426183600 -0400" channel="StayAtHome TV">
-    <title lang="en">Hellboy (2019)</title>
-    <desc lang="en">Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge</desc>
-    <category lang="en">Action, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg" />
+  <programme start="20200427070500 -0400" stop="20200427083500 -0400" channel="StayAtHome TV">
+    <title lang="en">Commando (1985)</title>
+    <desc lang="en">A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWE0ZjFhYjItMzI5MC00MDllLWE4OGMtMzlhNGQzN2RjN2MwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
   </programme>
-  <programme start="20200426183800 -0400" stop="20200426205600 -0400" channel="StayAtHome TV">
-    <title lang="en">Midway (2019)</title>
-    <desc lang="en">The story of the Battle of Midway, told by the leaders and the sailors who fought it</desc>
-    <category lang="en">Action, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzA5Y2Q2YjktZDYwMi00NTdmLThlMjctMmY5NDgwOWRhZDUxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX675_AL_.jpg" />
+  <programme start="20200427083500 -0400" stop="20200427100100 -0400" channel="StayAtHome TV">
+    <title lang="en">Madagascar (2005)</title>
+    <desc lang="en">A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild</desc>
+    <category lang="en">Animation, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
   </programme>
-  <programme start="20200426205900 -0400" stop="20200426230200 -0400" channel="StayAtHome TV">
-    <title lang="en">World War Z (2013)</title>
-    <desc lang="en">Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself</desc>
-    <category lang="en">Action, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX650_AL_.jpg" />
-  </programme>
-  <programme start="20200426230500 -0400" stop="20200427002700 -0400" channel="StayAtHome TV">
-    <title lang="en">Calvin Harris: In the Park Festival (2016)</title>
-    <desc lang="en">1. Sweet Nothing 2. Bitch Better Have My Money 3. Under Control 4. Bounce 5. Safe And Sound 6. This Is What You Came For 7. I Need Your Love 8. Thinking About You 9. You Got The Love 10. Outside 11. Hype 12. Feel So Close 13. Eat, Sleep, Rave, Repeat 14. Lean On 15. Hideaway 16. Hello 17. We Found Love 18. One More Time 19. Thats Not Me 20. How Deep Is Your Love 21. Summer 22. Blame</desc>
-    <category lang="en">Music Concert</category>
-    <icon src="https://img.discogs.com/gMtkGMiBlpH2l97BRDfFuGZeR0g=/fit-in/600x696/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13037451-1546916435-4381.jpeg.jpg" />
-  </programme>  
-  <programme start="20200427002700 -0400" stop="20200427012700 -0400" channel="StayAtHome TV">
-    <title lang="en">Limp Bizkit: Reading Festival (2015)</title>
-    <desc lang="en">1. Rollin' (Air Raid Vehicle) 2. Hot Dog 3.	Gold Cobra 	4. My Generation 5.	My Way 	6. Boiler  7. Killing In The Name 8. Faith 	9. Break Stuff 	10. Take A Look Around</desc>
-    <category lang="en">Music Concert</category>
-    <icon src="https://img.discogs.com/p3o14mWKUjR2SvuyhHOtjAGiySk=/fit-in/500x665/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13695111-1559195432-7920.jpeg.jpg" />
-  </programme>
-  <programme start="20200427012700 -0400" stop="20200427090000 -0400" channel="StayAtHome TV">
+  <programme start="20200427100100 -0400" stop="20200427120000 -0400" channel="StayAtHome TV">
     <title lang="en">To Be Decided</title>
     <desc lang="en">Random TV shows, music and movies</desc>
     <category lang="en">Random</category>
