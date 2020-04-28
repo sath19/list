@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
-#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="",ITV2
-http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD
 http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0,CBC News Network tvg-logo"http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_news_network.jpg"
+#EXTVLCOPT:network-caching=1000
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:0,CBC (Toronto)
+#EXTVLCOPT:network-caching=1000
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 #EXTINF:0 tvg-name="BBC One(UK) Backup" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title"",BBC One (UK) Backup
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
@@ -21,8 +25,13 @@ http://51.52.156.22:8888/http/003
 http://145.239.207.21:6999/pool_902/live/uk/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="",CBeebies HD
 http://145.239.207.21:6999/pool_902/live/uk/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="",ITV2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-name="History 2 (US)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="",H2
 #EXTVLCOPT:network-caching=1000
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -50,15 +59,7 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0,CBC News Network
-#EXTVLCOPT:network-caching=1000
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:0,CBC (Toronto)
-#EXTVLCOPT:network-caching=1000
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 #EXTINF:0,CBS
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
