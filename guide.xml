@@ -47,11 +47,28 @@
   </channel>
   <programme start="20200428183000 -0400" stop="20200428202100 -0400" channel="StayAtHome TV">
     <title lang="en">Office Christmas Party (2016)</title>
-    <desc lang="en">When his uptight CEO sister threatens to shut down his branch, the branch manager throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand... /desc>
+    <desc lang="en">When his uptight CEO sister threatens to shut down his branch, the branch manager throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand... </desc>
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMGMyMThmZGUtM2Y1MC00Y2ZhLWEyNWMtY2RiYzYwMGM5YjIyXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
   </programme>
-  
+  <programme start="20200428202200 -0400" stop="20200428222500 -0400" channel="StayAtHome TV">
+    <title lang="en">Ad Astra (2019)</title>
+    <desc lang="en">Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe </desc>
+    <category lang="en">Adventure, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" />
+  </programme>
+  <programme start="20200428222500 -0400" stop="20200428235600 -0400" channel="StayAtHome TV">
+    <title lang="en">Gravity (2013)</title>
+    <desc lang="en">Two astronauts work together to survive after an accident leaves them stranded in space </desc>
+    <category lang="en">Drama, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200428235600 -0400" stop="20200429015000 -0400" channel="StayAtHome TV">
+    <title lang="en">Road House (1989)</title>
+    <desc lang="en">A tough bouncer is hired to tame a dirty bar </desc>
+    <category lang="en">Drama, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
   <programme start="20200428060000 +0100" stop="20200428090000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">28/04/2020</sub-title>
