@@ -38,25 +38,26 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:0 tvg-name="Disney_Channel_(US)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk.jpg" group-title="",The Disney Channel HDTV (East) (DISHD)
 #EXTVLCOPT:network-caching=1000
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,CBS (WFOR) (US)
-#EXTVLCOPT:network-caching=1000
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0,Bloomberg Television (US)
-#EXTVLCOPT:network-caching=1000
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a04v
-#EXTINF:0,CGTN (Opt-1) (CN)
-#EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,CBS
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:0,CBS (WFOR) (US)
+#EXTVLCOPT:network-caching=1000
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_us.jpg" group-title="",Bloomberg TV
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,CGTN (Opt-1) (CN)
+#EXTVLCOPT:network-caching=1000
+http://live.cgtn.com/500/prog_index.m3u8
+
 
