@@ -4,11 +4,11 @@ rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0, tv-name="CBC News Network" tvg-logo"http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_news_network.jpg"
 #EXTVLCOPT:network-caching=1000
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD
-http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0,CBC (Toronto)
+#EXTINF:0 tvg-name="CBC (Toronto)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_toronto.jpg"
 #EXTVLCOPT:network-caching=1000
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD
+http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC One(UK) Backup" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title"",BBC One (UK) Backup
 #EXTVLCOPT:network-caching=1000
 http://78.110.169.226:8000/play/a06e
