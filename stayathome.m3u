@@ -44,7 +44,7 @@ http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a04v
-#EXTINF:0,Redbull TV
+#EXTINF:0 tvg-name="Redbull TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="",Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,CBS
