@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
+#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="",ITV2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD
 http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC One(UK) Backup" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title"",BBC One (UK) Backup
@@ -60,5 +62,3 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:0,Discovery Turbo
 #EXTVLCOPT:network-caching=1000
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="",ITV2 (Broken)
-http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
