@@ -40,7 +40,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="HBO 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_ce.jpg" group-title="",HBO 2 HD
 #EXTVLCOPT:network-caching=1000
-http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/28
+http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/26
 #EXTINF:0 tvg-name="HBO 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo3_nl.jpg" group-title="",HBO 3 HD
 #EXTVLCOPT:network-caching=1000
 http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/28
@@ -49,7 +49,7 @@ http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/28
 http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/52
 #EXTINF:0 tvg-name="Djing HD" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="",Djing HD
 #EXTVLCOPT:network-caching=2000
-http://78.110.169.226:8000/play/a042
+http://www.djing.com/tv/hits.m3u8
 #EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
 #EXTVLCOPT:network-caching=2000
 http://78.110.169.226:8000/play/a042
