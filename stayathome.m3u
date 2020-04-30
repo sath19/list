@@ -38,15 +38,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 #EXTINF:0 tvg-name="Disney_Channel_(US)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_uk.jpg" group-title="",The Disney Channel HDTV (East) (DISHD)
 #EXTVLCOPT:network-caching=1000
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="HBO 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_ce.jpg" group-title="",HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/26
-#EXTINF:0 tvg-name="HBO 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo3_nl.jpg" group-title="",HBO 3 HD
-#EXTVLCOPT:network-caching=1000
-http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/28
-#EXTINF:0 tvg-name="Cinemax 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo3_nl.jpg" group-title="",Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://iptvhit.live/smartiptv/www.oneplaylist/www.oneplaylist/52
 #EXTINF:0 tvg-name="Djing HD" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="",Djing HD
 #EXTVLCOPT:network-caching=2000
 http://www.djing.com/tv/hits.m3u8
