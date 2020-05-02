@@ -48,35 +48,41 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/180.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200430164500 -0400" stop="20200430183700 -0400" channel="StayAtHome TV">
-    <title lang="en">WarGames (1983)</title>
-    <desc lang="en">A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyMTE3OTk3NF5BMl5BanBnXkFtZTcwOTkwNDc3NA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-	<category lang="en">Action, Drama</category>
-  </programme>
-  <programme start="20200430183800 -0400" stop="20200430205300 -0400" channel="StayAtHome TV">
+  <programme start="20200502150000 -0400" stop="20200502171500 -0400" channel="StayAtHome TV">
     <title lang="en">The Core (2003)</title>
-    <desc lang="en">The only way to save Earth from catastrophe is to drill down to the core and set it spinning again</desc>
+    <desc lang="en">The Earth's core has stopped spinning. Disasters are happening around the globe, including; animals acting in bizarre ways, monstrous thunderstorms. Dr. Josh Keyes and his crew of 5 go down to the centre to set off a nuclear device, hoping to make the core start spinning again, or humanity will cease</desc>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_.jpg" />
 	<category lang="en">Action, Sci-Fi</category>
   </programme>
-  <programme start="20200430205300 -0400" stop="20200430223100 -0400" channel="StayAtHome TV">
-    <title lang="en">Rush Hour (1998)</title>
-    <desc lang="en">A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,678,1000_AL_.jpg" />
-	<category lang="en">Action, Comedy</category>
+  <programme start="20200502171500 -0400" stop="20200502185600 -0400" channel="StayAtHome TV">
+    <title lang="en">The Mask (1994)</title>
+    <desc lang="en">Stanley Ipkiss (Jim Carrey) is a bank clerk that is an incredibly nice man. Unfortunately, he is too nice for his own good and is a pushover when it comes to confrontations. After one of the worst days of his life, he finds a mask that depicts Loki, the Norse night god of mischief. Now, when he puts it on, he becomes his inner, self: a cartoon romantic wild man. However, a small time crime boss, Dorian Tyrel (Peter Greene), comes across this character dubbed "The Mask" by the media. After Ipkiss's alter ego indirectly kills his friend in crime, Tyrel now wants this green-faced goon destroyed</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" />
+	<category lang="en">Comedy</category>
   </programme>
-  <programme start="20200430223100 -0400" stop="20200501000100 -0400" channel="StayAtHome TV">
-    <title lang="en">Rush Hour 2 (2001)</title>
-    <desc lang="en">Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODhlNGJjMWQtZGMyYS00MzJhLWJhZGMtY2NlNDI5Nzg5NTU2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX674_AL_.jpg" />
-	<category lang="en">Action, Comedy</category>
+  <programme start="20200502185600 -0400" stop="20200502205200 -0400" channel="StayAtHome TV">
+    <title lang="en">A Million Ways to Die in the West (2014)</title>
+    <desc lang="en">Set in 1882 in the American west, Albert is a lowly farmer with a nice girlfriend. But when she leaves him for the more successful and handsome owner of a moustachery store, Albert returns to his lonely daily life of trying to avoid death. Then the mysterious Anna rides into town and captures Albert's interest and heart, but with her deadly husband in town, Albert is going to have to become the western gun-slinging hero he never was. It won't be easy because there are a million ways to die in the west</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ0NDcyNjg0MV5BMl5BanBnXkFtZTgwMzk4NTA4MTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+	<category lang="en">Comedy</category>
   </programme>
-  <programme start="20200501000100 -0400" stop="202005013100 -0400" channel="StayAtHome TV">
-    <title lang="en">Rush Hour 3 (2007)</title>
-    <desc lang="en">After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads' secret leaders</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_.jpg" />
-	<category lang="en">Action, Comedy</category>
+  <programme start="20200502205200 -0400" stop="20200502223800 -0400" channel="StayAtHome TV">
+    <title lang="en">EuroTrip (2004)</title>
+    <desc lang="en">Dumped by his girlfriend, a high school grad decides to embark on an overseas adventure in Europe with his friends</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTIxNjcxMDUxN15BMl5BanBnXkFtZTYwNjAxNTM3._V1_.jpg" />
+	<category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200502223800 -0400" stop="20200503001500 -0400" channel="StayAtHome TV">
+    <title lang="en">This Is the End (2013)</title>
+    <desc lang="en">All Jay Baruchel expected coming to LA was a fun time with Seth Rogen with all the wild partying to have both by themselves and at James Franco's housewarming party. Suddenly, the Rapture hits and the Biblical Apocalypse has begun. Now, Jay and Seth are desperately sheltering in James' house for rescue along with a few other friends. Together, they must band together to attempt to survive the end of the world, only for Jay to find that they are all too dumb and superficial to do it until they discover the only way out</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+	<category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200503001500 -0400" stop="20200503012800 -0400" channel="StayAtHome TV">
+    <title lang="en">George Carlin: Life Is Worth Losing (2005)</title>
+    <desc lang="en">George Carlin continues making people laugh with his 13th HBO stand-up special</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BN2MwYWI0ZWItZjY1Ni00ZDQ0LWI2MjMtM2Y2ZTk0NjI0NzcyXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg" />
+	<category lang="en">Comedy</category>
   </programme>
   <programme start="20200430160000 -0400" stop="20200430170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Live</title>
