@@ -48,47 +48,59 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/180.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200502150000 -0400" stop="20200502171500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Core (2003)</title>
-    <desc lang="en">The Earth's core has stopped spinning. Disasters are happening around the globe, including; animals acting in bizarre ways, monstrous thunderstorms. Dr. Josh Keyes and his crew of 5 go down to the centre to set off a nuclear device, hoping to make the core start spinning again, or humanity will cease</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_.jpg" />
-	<category lang="en">Action, Sci-Fi</category>
+  <programme start="20200503110000 -0400" stop="20200503114400 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 01</title>
+    <desc lang="en">An adventure spanning billions of years into the evolution of life and consciousness. A visit to a 100,000-year-old laboratory. The story of the change in life-style that radically altered human existence and the life of the heretic who found god in the book of nature, opening our way to the stars.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
-  <programme start="20200502171500 -0400" stop="20200502185600 -0400" channel="StayAtHome TV">
-    <title lang="en">The Mask (1994)</title>
-    <desc lang="en">Stanley Ipkiss (Jim Carrey) is a bank clerk that is an incredibly nice man. Unfortunately, he is too nice for his own good and is a pushover when it comes to confrontations. After one of the worst days of his life, he finds a mask that depicts Loki, the Norse night god of mischief. Now, when he puts it on, he becomes his inner, self: a cartoon romantic wild man. However, a small time crime boss, Dorian Tyrel (Peter Greene), comes across this character dubbed "The Mask" by the media. After Ipkiss's alter ego indirectly kills his friend in crime, Tyrel now wants this green-faced goon destroyed</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,672,1000_AL_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200503114400 -0400" stop="20200503122800 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 02</title>
+    <desc lang="en">There is no refuge from change in the cosmos. There will come a time in the life of the Sun when Earth will no longer be a home for us. The story of our ancestors who rose to a comparable challenge and a long-term vision of our future on other worlds.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
-  <programme start="20200502185600 -0400" stop="20200502205200 -0400" channel="StayAtHome TV">
-    <title lang="en">A Million Ways to Die in the West (2014)</title>
-    <desc lang="en">Set in 1882 in the American west, Albert is a lowly farmer with a nice girlfriend. But when she leaves him for the more successful and handsome owner of a moustachery store, Albert returns to his lonely daily life of trying to avoid death. Then the mysterious Anna rides into town and captures Albert's interest and heart, but with her deadly husband in town, Albert is going to have to become the western gun-slinging hero he never was. It won't be easy because there are a million ways to die in the west</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ0NDcyNjg0MV5BMl5BanBnXkFtZTgwMzk4NTA4MTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200503122800 -0400" stop="20200503131200 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 03</title>
+    <desc lang="en">A new vision of genesis at the bottom of the blood red sea of the infant Earth. And the story of the man who found the first clues to life's beginning in a green jewel. As he searched for life's origin, he risked his own, daring to toy with his Nazi tormentors.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
-  <programme start="20200502205200 -0400" stop="20200502223800 -0400" channel="StayAtHome TV">
-    <title lang="en">EuroTrip (2004)</title>
-    <desc lang="en">Dumped by his girlfriend, a high school grad decides to embark on an overseas adventure in Europe with his friends</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTIxNjcxMDUxN15BMl5BanBnXkFtZTYwNjAxNTM3._V1_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200503131200 -0400" stop="20200503135600 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 04</title>
+    <desc lang="en">In the first half of the 20th century pioneering geneticist Nikolai Vavilov traveled 5 continents assembling a treasury of the worlds seeds. He dreamed that science could be the means to end hunger. His refusal to tell a scientific lie cost him his life. The heroism of his colleagues and its direct impact on your life is one of the most stirring stories in the history of science.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
-  <programme start="20200502223800 -0400" stop="20200503001500 -0400" channel="StayAtHome TV">
-    <title lang="en">This Is the End (2013)</title>
-    <desc lang="en">All Jay Baruchel expected coming to LA was a fun time with Seth Rogen with all the wild partying to have both by themselves and at James Franco's housewarming party. Suddenly, the Rapture hits and the Biblical Apocalypse has begun. Now, Jay and Seth are desperately sheltering in James' house for rescue along with a few other friends. Together, they must band together to attempt to survive the end of the world, only for Jay to find that they are all too dumb and superficial to do it until they discover the only way out</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200503135800 -0400" stop="20200503155800 -0400" channel="StayAtHome TV">
+    <title lang="en">Mad Max: Fury Road BLACK N CHROME EDITION (2015)</title>
+    <desc lang="en">In a post-apocalyptic wasteland, Max, a drifter and survivor, unwillingly joins Imperator Furiosa, a rebel warrior, in a quest to overthrow a tyrant who controls the land's water supply.</desc>
+    <icon src="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGX0NLP77/image?locale=en-ca&mode=crop&purposes=BoxArt&q=90&h=300&w=200&format=jpg" />
+	<category lang="en">Action, Adventure</category>
   </programme>
-  <programme start="20200503001500 -0400" stop="20200503012800 -0400" channel="StayAtHome TV">
-    <title lang="en">George Carlin: Life Is Worth Losing (2005)</title>
-    <desc lang="en">George Carlin continues making people laugh with his 13th HBO stand-up special</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BN2MwYWI0ZWItZjY1Ni00ZDQ0LWI2MjMtM2Y2ZTk0NjI0NzcyXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200503155800 -0400" stop="20200503164200 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 05</title>
+    <desc lang="en">A voyage of discovery through the evolution of consciousness with stops in ancient Greece, a visit to the largest life form on Earth, into the poignant dream of an abandoned orphan that opened the way to our understanding of the architecture of thought and beyond to a vision of a galactic network of thought.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
-  <programme start="20200503012800 -0400" stop="20200503090000 -0400" channel="StayAtHome TV">
-    <title lang="en">Offline</title>
-    <desc lang="en">Offline</desc>
-    <icon src="" />
-	<category lang="en">Sleep</category>
+  <programme start="20200503164200 -0400" stop="20200503172600 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 06</title>
+    <desc lang="en">A child lies on the rug of a tenement dreaming of interstellar adventures. At the dawn of the space age, a young Carl Sagan's career is forged in the clash of his mentors, two scientific titans. Sagan goes on realize his childhood dreams, to carry their research forward and communicate its significance to the whole world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200503172600 -0400" stop="20200503181000 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 07</title>
+    <desc lang="en">A revelation of the hidden underground network that is a collaboration of four kingdoms of life, and a true first contact story between humans and beings who communicate in a symbolic language and have maintained a representative democracy for many tens of millions of years.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200503181000 -0400" stop="20200503185400 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds - Episode 08</title>
+    <desc lang="en">The mysterious untold story of the scientist who figured out how to go the Moon while fighting for his life in a WWI trench. He wrote a letter to fifty years in the future. It made the Apollo Mission possible. And the saga of the twenty-year long odyssey of a robotic explorer ordered to commit suicide on another world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/3/3f/Cosmos_Possible_Worlds_title_card.jpg" />
+	<category lang="en">Documentary</category>
   </programme>
   <programme start="20200430160000 -0400" stop="20200430170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Live</title>
