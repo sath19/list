@@ -84,6 +84,12 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BN2MwYWI0ZWItZjY1Ni00ZDQ0LWI2MjMtM2Y2ZTk0NjI0NzcyXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg" />
 	<category lang="en">Comedy</category>
   </programme>
+  <programme start="20200503012800 -0400" stop="20200503090000 -0400" channel="StayAtHome TV">
+    <title lang="en">Offline</title>
+    <desc lang="en">Offline</desc>
+    <icon src="" />
+	<category lang="en">Sleep</category>
+  </programme>
   <programme start="20200430160000 -0400" stop="20200430170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Live</title>
     <desc lang="en">CBC News Live will provide breaking and live coverage with updated COVID-19 information for Canadians.(n)</desc>
