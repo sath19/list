@@ -23,8 +23,6 @@ http://51.52.156.22:8888/http/003
 http://145.239.207.21:6999/pool_902/live/uk/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="",CBeebies HD
 http://145.239.207.21:6999/pool_902/live/uk/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="ITV2 (UK)" tvg-logo="https://res.cloudinary.com/dwh6m5mbn/image/upload/c_lfill,h_460,q_auto,w_830/v1552941216/News/General/itv2-logo.jpg" group-title="",ITV2
-http://nitro.ltd:25461/StevenD2020/StevFr2019/3206
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
 #EXTINF:0 tvg-name="Discovery Turbo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Turbo
