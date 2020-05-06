@@ -57,6 +57,9 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0 tvg-name="Blue Hustler TV" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="",Blue Hustler TV
+#EXTINF:0 tvg-name="Blue Hustler TV (18+)" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="",Blue Hustler TV(18+)
 #EXTVLCOPT:network-caching=1000
 http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="Vivid TV Europe (18+)" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="",Vivid TV Europe(18+)
+#EXTVLCOPT:network-caching=1000
+http://188.35.9.26:2031/udp/031a
