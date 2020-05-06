@@ -33,6 +33,8 @@ http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
+#EXTINF:0 tvg-name="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Science
+https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_ca.jpg
 #EXTINF:0 tvg-name="Discovery Turbo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-name="History 2 (US)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="",H2
