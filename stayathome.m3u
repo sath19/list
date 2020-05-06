@@ -41,15 +41,9 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Djing HD" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="",Djing HD
 #EXTVLCOPT:network-caching=2000
 http://www.djing.com/tv/hits.m3u8
-#EXTINF:0 tvg-name="Clubland TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" group-title="",Clubland TV
-#EXTVLCOPT:network-caching=2000
-http://78.110.169.226:8000/play/a042
 #EXTINF:0 tvg-name="Retro Music TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="",Retro Music TV
 #EXTVLCOPT:network-caching=2000
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 tvg-name="MTV Classic" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVCLAS/large_white.png" group-title="",MTV Classic
-#EXTVLCOPT:network-caching=2000
-http://78.110.169.226:8000/play/a04v
 #EXTINF:0 tvg-name="Redbull TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="",Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
