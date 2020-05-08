@@ -33,7 +33,7 @@ http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:0 tvg-name="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Science
+#EXTINF:0 tvg-name="Discovery Science" tvg-logo="https://img.favpng.com/14/22/21/science-television-channel-discovery-channel-television-show-png-favpng-kbQf4pw8ZRnfmD8GaVGGnGbsJ.jpg" group-title="",Discovery Science
 https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_ca.jpg
 #EXTINF:0 tvg-name="Discovery Turbo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
@@ -70,6 +70,6 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-name="Blue Hustler TV (18+)" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="",Blue Hustler TV(18+)
 #EXTVLCOPT:network-caching=1000
 http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="Vivid TV Europe (18+)" tvg-logo="https://i.pinimg.com/originals/c9/f9/65/c9f9654bc37af2d0935cd7cd2824ebfc.jpg" group-title="",Vivid TV Europe(18+)
+#EXTINF:0 tvg-name="Vivid TV Europe (18+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="",Vivid TV Europe(18+)
 #EXTVLCOPT:network-caching=1000
 http://188.35.9.26:2031/udp/031a
