@@ -5,20 +5,20 @@ rtmp://freetime.ignorelist.com/live/sath
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:0 tvg-name="CBC (Toronto)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_toronto.jpg" group-title="",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD (DOWN)
+#EXTINF:0 tvg-name="BBC_One_HD_(UK)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" group-title="",BBC1 HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="BBC_News_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="",BBC News HD (DOWN)
+#EXTINF:0 tvg-name="BBC_News_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" group-title="",BBC News HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="BBC_Two_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_two_uk.jpg" group-title="",BBC2 HD (DOWN)
+#EXTINF:0 tvg-name="BBC_Two_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_two_uk.jpg" group-title="",BBC2 HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="BBC_Four_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 HD (DOWN)
+#EXTINF:0 tvg-name="BBC_Four_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC4 (Backup)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 Backup
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/003
-#EXTINF:0 tvg-name="CBBC_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbbc.jpg" group-title="",CBBC HD
+#EXTINF:0 tvg-name="CBBC_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbbc.jpg" group-title="",CBBC HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="",CBeebies HD
+#EXTINF:0 tvg-name="cbeebies_BBC_HD_(UK) tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_cbeebies.jpg" group-title="",CBeebies HD -=DOWN=-
 http://145.239.207.21:6999/pool_902/live/uk/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="Channel 4 (UK) tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_london.jpg" group-title="",Channel 4
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
@@ -30,8 +30,6 @@ http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:0 tvg-name="Discovery Science" tvg-logo="https://img.favpng.com/14/22/21/science-television-channel-discovery-channel-television-show-png-favpng-kbQf4pw8ZRnfmD8GaVGGnGbsJ.jpg" group-title="",Discovery Science
-https://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_ca.jpg
 #EXTINF:0 tvg-name="Discovery Turbo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_uk.jpg" group-title="",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-name="History 2 (US)" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="",H2
@@ -55,7 +53,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,CBS
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:0,CBS (WFOR) (US)
+#EXTINF:0,CBS Miami (WFOR)
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_us.jpg" group-title="",Bloomberg TV
