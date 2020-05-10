@@ -24,9 +24,9 @@ http://145.239.207.21:6999/pool_902/live/uk/cbeebies_hd/cbeebies_hd.isml/cbeebie
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 4 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_london.jpg" group-title="",Channel 4
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
-#EXTINF:0 tvg-name="E4 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e4_uk.jpg" group-title="",E4 (UK)
+#EXTINF:0 tvg-name="E4 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e4_uk.jpg" group-title="",E4
 http://145.239.255.4:8080/E4/mono.m3u8?token=test
-#EXTINF:0 tvg-name="Channel 5 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2013/02/channel_5_logo.jpg" group-title="",Channel 5 (UK)
+#EXTINF:0 tvg-name="Channel 5 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2013/02/channel_5_logo.jpg" group-title="",Channel 5
 http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
