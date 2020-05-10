@@ -38,41 +38,29 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200510133800 -0400" stop="20200510151330 -0400" channel="StayAtHome TV">
-    <title lang="en">The Guilt Trip (2012)</title>
-    <desc lang="en">As inventor Andy Brewster is about to embark on the road trip of a lifetime, a quick stop at his mom's house turns into an unexpected cross-country voyage with her along for the ride</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTY5ODAxNDc0Nl5BMl5BanBnXkFtZTcwMzg0NDY1OA@@._V1_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200508185500 -0400" stop="20200508204000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Last Boy Scout (1991)</title>
+    <desc lang="en">A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BN2QxYjAwNDUtYWIzMC00ZTg3LTg5YjMtOGM4YzAyZmUxMzI2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,667,1000_AL_.jpg" />
+	<category lang="en">Action, Comedy</category>
   </programme>
-  <programme start="20200510151330 -0400" stop="20200510171200 -0400" channel="StayAtHome TV">
-    <title lang="en">Lion (2016)</title>
-    <desc lang="en">A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_SY1000_CR0,0,681,1000_AL_.jpg" />
-	<category lang="en">Drama</category>
+  <programme start="20200508204300 -0400" stop="20200508222000 -0400" channel="StayAtHome TV">
+    <title lang="en">Tommy Boy (1995)</title>
+    <desc lang="en">After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTMwZGU3MGUtZWE0Ni00YzExLWIyY2MtMmNmMDlmYTdmNzFkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" />
+	<category lang="en">Adventure, Comedy</category>
   </programme>
-  <programme start="20200510171205 -0400" stop="20200510184605 -0400" channel="StayAtHome TV">
-    <title lang="en">Lady Bird (2017)</title>
-    <desc lang="en">Christine "Lady Bird" McPherson (Saoirse Ronan) is a high school senior from the "wrong side of the tracks". She longs for adventure, sophistication, and opportunity, but finds none of that in her Sacramento Catholic high school. This movie follows the title character's senior year in high school, including her first romance, her participation in the school play, and most importantly, her applying for college</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg />
-	<category lang="en">Comedy, Drama</category>
+  <programme start="20200508222200 -0400" stop="20200509000100 -0400" channel="StayAtHome TV">
+    <title lang="en">Big Trouble in Little China (1986)</title>
+    <desc lang="en">A rough-and-tumble trucker helps rescue his friend's fiancée from an ancient sorcerer in a supernatural battle beneath Chinatown</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzlhYjEzOGItN2MwNS00ODRiLWE5OTItYThiNmJlMTdmMzgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX645_CR0,0,645,999_AL_.jpg" />
+	<category lang="en">Adventure, Comedy</category>
   </programme>
-  <programme start="20200510184605 -0400" stop="20200510202205 -0400" channel="StayAtHome TV">
-    <title lang="en">Juno (2007)</title>
-    <desc lang="en">Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_.jpg" />
-	<category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200510202205 -0400" stop="20200510223505 -0400" channel="StayAtHome TV">
-    <title lang="en">Knocked Up (2007)</title>
-    <desc lang="en">When Alison Scott is promoted in E! Television, she goes to a night-club to celebrate with her older married sister Debbie. Alison meets the pothead reckless Ben Stone and while having a small talk with Ben, Debbie's husband Pete calls her to tell that their daughter has chicken pox. Debbie leaves the place but Allison stays with Ben, drinking and dancing along all night; completely wasted, they end up having a one night stand. Ben does not use a condom and eight weeks later, Allison discovers that she is pregnant. She calls Ben and they decide to try to stay together and have the baby. However, Ben needs to grow up first to raise a family of his own</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzgzYjMzMWItNDFiYi00ZjhkLWIyMzYtZGRlY2FmNzkwNjRhL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
-	<category lang="en">Comedy</category>
-  </programme>
-  <programme start="202005223510 -0400" stop="20200510005210 -0400" channel="StayAtHome TV">
-    <title lang="en">This Is 40 (2012)</title>
-    <desc lang="en">Pete and Debbie are both about to turn 40, their kids hate each other, both of their businesses are failing, they're on the verge of losing their house, and their relationship is threatening to fall apart</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzQxMDQ1NjA4N15BMl5BanBnXkFtZTcwNTE5MjQ3OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200509000400 -0400" stop="20200509015700 -0400" channel="StayAtHome TV">
+    <title lang="en">30 Days of Night (2007)</title>
+    <desc lang="en">This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town's husband-and-wife Sheriff team stand between the survivors and certain destruction</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmE2ODFlZjctOWZlZi00MGVkLTk5NDctYWZmMWQyOTczNjYzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
+	<category lang="en">Action, Horror</category>
   </programme>
   <programme start="20200508190000 -0400" stop="20200508200000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Live with Carole MacNeil</title>
