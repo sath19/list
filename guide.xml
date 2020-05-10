@@ -38,11 +38,11 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200508185500 -0400" stop="20200508204000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Last Boy Scout (1991)</title>
-    <desc lang="en">A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BN2QxYjAwNDUtYWIzMC00ZTg3LTg5YjMtOGM4YzAyZmUxMzI2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,667,1000_AL_.jpg" />
-	<category lang="en">Action, Comedy</category>
+  <programme start="20200510133800 -0400" stop="20200510151330 -0400" channel="StayAtHome TV">
+    <title lang="en">The Guilt Trip (2012)</title>
+    <desc lang="en">As inventor Andy Brewster is about to embark on the road trip of a lifetime, a quick stop at his mom's house turns into an unexpected cross-country voyage with her along for the ride</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTY5ODAxNDc0Nl5BMl5BanBnXkFtZTcwMzg0NDY1OA@@._V1_.jpg" />
+	<category lang="en">Comedy</category>
   </programme>
   <programme start="20200508204300 -0400" stop="20200508222000 -0400" channel="StayAtHome TV">
     <title lang="en">Tommy Boy (1995)</title>
