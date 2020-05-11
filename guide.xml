@@ -38,28 +38,22 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200510133800 -0400" stop="20200510151330 -0400" channel="StayAtHome TV">
-    <title lang="en">The Guilt Trip (2012)</title>
-    <desc lang="en">As inventor Andy Brewster is about to embark on the road trip of a lifetime, a quick stop at his mom's house turns into an unexpected cross-country voyage with her along for the ride</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTY5ODAxNDc0Nl5BMl5BanBnXkFtZTcwMzg0NDY1OA@@._V1_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200511190500 -0400" stop="20200511194900 -0400" channel="StayAtHome TV">
+    <title lang="en">Cosmos: Possible Worlds (Episode 06)</title>
+    <desc lang="en"></desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjA0NTVhZTEtMzY4MS00MGY0LTg5ODQtZjZhYWU0MWVlOGRmXkEyXkFqcGdeQXVyMDAwNTUxMQ@@._V1_.jpg" />
+	<category lang="en">TV Show</category>
   </programme>
-  <programme start="20200510151331 -0400" stop="20200510171200 -0400" channel="StayAtHome TV">
-    <title lang="en">Lion (2016)</title>
-    <desc lang="en">A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_SY1000_CR0,0,681,1000_AL_.jpg" />
-	<category lang="en">Drama</category>
+  <programme start="20200511194901 -0400" stop="20200511213800 -0400" channel="StayAtHome TV">
+    <title lang="en">Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)</title>
+    <desc lang="en">After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" />
+	<category lang="en">Action</category>
   </programme>
-    <programme start="20200510171205 -0400" stop="20200510184605 -0400" channel="StayAtHome TV">
-    <title lang="en">Lady Bird (2017)</title>
-    <desc lang="en">Christine "Lady Bird" McPherson (Saoirse Ronan) is a high school senior from the "wrong side of the tracks". She longs for adventure, sophistication, and opportunity, but finds none of that in her Sacramento Catholic high school. This movie follows the title character's senior year in high school, including her first romance, her participation in the school play, and most importantly, her applying for college</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg" />
-	<category lang="en">Comedy</category>
-  </programme>
-  <programme start="20200510184606 -0400" stop="20200510202205 -0400" channel="StayAtHome TV">
-    <title lang="en">Juno (2007)</title>
-    <desc lang="en">Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_.jpg" />
+  <programme start="20200511213801 -0400" stop="20200511232200 -0400" channel="StayAtHome TV">
+    <title lang="en">Who Framed Roger Rabbit (1988)</title>
+    <desc lang="en">A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDhiOTM2OTctODk3Ny00NWI4LThhZDgtNGQ4NjRiYjFkZGQzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
 	<category lang="en">Comedy</category>
   </programme>
   <programme start="20200510202206 -0400" stop="20200510223505 -0400" channel="StayAtHome TV">
@@ -68,7 +62,7 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BNzgzYjMzMWItNDFiYi00ZjhkLWIyMzYtZGRlY2FmNzkwNjRhL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
 	<category lang="en">Comedy</category>
   </programme>
-  <programme start="20200510223510 -0400" stop="20200511005210 -0400" channel="StayAtHome TV">
+  <programme start="202005223510 -0400" stop="20200510005210 -0400" channel="StayAtHome TV">
     <title lang="en">This Is 40 (2012)</title>
     <desc lang="en">Pete and Debbie are both about to turn 40, their kids hate each other, both of their businesses are failing, they're on the verge of losing their house, and their relationship is threatening to fall apart</desc>
     <icon src="https://m.media-amazon.com/images/M/MV5BNzQxMDQ1NjA4N15BMl5BanBnXkFtZTcwNTE5MjQ3OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
