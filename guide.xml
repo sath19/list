@@ -38,29 +38,17 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200511191400 -0400" stop="20200511195959 -0400" channel="StayAtHome TV">
-    <title lang="en">Cosmos: Possible Worlds (Episode 06)</title>
-    <desc lang="en"></desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjA0NTVhZTEtMzY4MS00MGY0LTg5ODQtZjZhYWU0MWVlOGRmXkEyXkFqcGdeQXVyMDAwNTUxMQ@@._V1_.jpg" />
-	<category lang="en">TV Show</category>
-  </programme>
-  <programme start="20200511200000 -0400" stop="20200511214900 -0400" channel="StayAtHome TV">
-    <title lang="en">Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)</title>
-    <desc lang="en">After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" />
-	<category lang="en">Action</category>
-  </programme>
-  <programme start="20200511214901 -0400" stop="20200511233300 -0400" channel="StayAtHome TV">
-    <title lang="en">Who Framed Roger Rabbit (1988)</title>
-    <desc lang="en">A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDhiOTM2OTctODk3Ny00NWI4LThhZDgtNGQ4NjRiYjFkZGQzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  <programme start="20200512185200 -0400" stop="20200512233108 -0400" channel="StayAtHome TV">
+    <title lang="en">Austin Powers Marathon</title>
+    <desc lang="en">Austin Powers is a fictional character in an American movie series of spy action comedy films: Austin Powers: International Man of Mystery (1997), Austin Powers: The Spy Who Shagged Me (1999) and Austin Powers in Goldmember (2002)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/72/Austin_Powers_logo.png" />
 	<category lang="en">Comedy</category>
   </programme>
-  <programme start="20200510202206 -0400" stop="20200510223505 -0400" channel="StayAtHome TV">
-    <title lang="en">Knocked Up (2007)</title>
-    <desc lang="en">When Alison Scott is promoted in E! Television, she goes to a night-club to celebrate with her older married sister Debbie. Alison meets the pothead reckless Ben Stone and while having a small talk with Ben, Debbie's husband Pete calls her to tell that their daughter has chicken pox. Debbie leaves the place but Allison stays with Ben, drinking and dancing along all night; completely wasted, they end up having a one night stand. Ben does not use a condom and eight weeks later, Allison discovers that she is pregnant. She calls Ben and they decide to try to stay together and have the baby. However, Ben needs to grow up first to raise a family of his own</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzgzYjMzMWItNDFiYi00ZjhkLWIyMzYtZGRlY2FmNzkwNjRhL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
-	<category lang="en">Comedy</category>
+  <programme start="20200511233110 -0400" stop="20200512012700 -0400" channel="StayAtHome TV">
+    <title lang="en">Back to the Future (1985)</title>
+    <desc lang="en">Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg" />
+	<category lang="en">Comedy, Adventure</category>
   </programme>
   <programme start="202005223510 -0400" stop="20200510005210 -0400" channel="StayAtHome TV">
     <title lang="en">This Is 40 (2012)</title>
