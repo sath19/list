@@ -87,7 +87,7 @@
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
-  <programme start="202005160140 -0400" stop="20200516093000 -0400" channel="StayAtHome TV">
+  <programme start="20200516014000 -0400" stop="20200516093000 -0400" channel="StayAtHome TV">
     <title lang="en">Stayathome TV @ Night</title>
     <desc lang="en">Playing music or simply offline</desc>
     <category lang="en">Offline</category>
