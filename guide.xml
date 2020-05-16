@@ -75,15 +75,15 @@
     <category lang="en">2160p, Animation, Adventure</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200516141631 -0400" stop="202005160739 -0400" channel="StayAtHome TV">
+  <programme start="20200516141631 -0400" stop="20200516160739 -0400" channel="StayAtHome TV">
     <title lang="en">Give Me Liberty (2019)</title>
     <desc lang="en">In this freewheeling comedy, medical transport driver Vic risks his job to shuttle a group of rowdy seniors and a Russian boxer to a funeral, dragging clients like Tracy, a young woman with ALS, along for the ride</desc>
     <category lang="en">Comedy, Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMDZmNWU0NGMtMDRkYi00ZjU5LWFiZTEtZTU3ODQ0YTcxMTYxXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
   <programme start="20200516014000 -0400" stop="20200516093000 -0400" channel="StayAtHome TV">
-    <title lang="en">Stayathome TV @ Night</title>
-    <desc lang="en">Playing music or simply offline</desc>
+    <title lang="en">To be decided</title>
+    <desc lang="en">?</desc>
     <category lang="en">Offline</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
