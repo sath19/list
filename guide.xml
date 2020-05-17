@@ -57,33 +57,45 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200516090000 -0400" stop="20200516104212 -0400" channel="StayAtHome TV">
-    <title lang="en">Frozen (2013)</title>
-    <desc lang="en">When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition</desc>
-    <category lang="en">2160p, Animation, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200517104300 -0400" stop="20200517124200 -0400" channel="StayAtHome TV">
+    <title lang="en">Maleficent: Mistress of Evil (2019)</title>
+    <desc lang="en">Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies and dark new forces at play</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
-  <programme start="20200516104215 -0400" stop="20200516122525 -0400" channel="StayAtHome TV">
-    <title lang="en">Frozen II (2019)</title>
-    <desc lang="en">Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom</desc>
-    <category lang="en">2160p Animation, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg" />
+  <programme start="20200517124201 -0400" stop="20200517144029 -0400" channel="StayAtHome TV">
+    <title lang="en">The Lion King (2019)</title>
+    <desc lang="en">After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200516122526 -0400" stop="20200516141630 -0400" channel="StayAtHome TV">
-    <title lang="en">Ratatouille (2007)</title>
-    <desc lang="en">A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant</desc>
-    <category lang="en">2160p, Animation, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200517144030 -0400" stop="20200517164829 -0400" channel="StayAtHome TV">
+    <title lang="en">Aladdin (2019)</title>
+    <desc lang="en">A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200516141631 -0400" stop="20200516160739 -0400" channel="StayAtHome TV">
-    <title lang="en">Give Me Liberty (2019)</title>
-    <desc lang="en">In this freewheeling comedy, medical transport driver Vic risks his job to shuttle a group of rowdy seniors and a Russian boxer to a funeral, dragging clients like Tracy, a young woman with ALS, along for the ride</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDZmNWU0NGMtMDRkYi00ZjU5LWFiZTEtZTU3ODQ0YTcxMTYxXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200517164830 -0400" stop="20200517184729 -0400" channel="StayAtHome TV">
+    <title lang="en">Bad Boys (1995)</title>
+    <desc lang="en">Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct</desc>
+    <category lang="en">Action, Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
   </programme>
-  <programme start="20200516014000 -0400" stop="20200516093000 -0400" channel="StayAtHome TV">
-    <title lang="en">To be decided</title>
-    <desc lang="en">?</desc>
+  <programme start="20200517184730 -0400" stop="20200517211414 -0400" channel="StayAtHome TV">
+    <title lang="en">Bad Boys II (2003)</title>
+    <desc lang="en">Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel</desc>
+    <category lang="en">Action, Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
+  </programme>
+  <programme start="20200517211415 -0400" stop="20200517231814 -0400" channel="StayAtHome TV">
+    <title lang="en">Bad Boys for Life (2020)</title>
+    <desc lang="en">Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city</desc>
+    <category lang="en">Action, Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200517231900 -0400" stop="20200518093000 -0400" channel="StayAtHome TV">
+    <title lang="en">Offline/TBD</title>
+    <desc lang="en">Random selection of movies, tv shows or music... or offline</desc>
     <category lang="en">Offline</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
