@@ -8,8 +8,8 @@
     <display-name lang="en">Discovery Science Canada</display-name>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="CBC (CBLT) Toronto, ON">
-    <display-name lang="en">CBC (CBLT) Toronto, ON</display-name>
+  <channel id="CBC Toronto">
+    <display-name lang="en">CBC Toronto</display-name>
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="CBC News Network">
