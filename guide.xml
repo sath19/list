@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+ <channel id="StayAtHome TV">
+    <display-name lang="en">StayAtHome TV</display-name>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+    <url>http://www.google.com</url>
+  </channel>
   <channel id="H2 Canada">
     <display-name lang="en">H2 Canada</display-name>
     <url>http://www.tvpassport.com</url>
@@ -66,6 +71,12 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
+  <programme start="20200519000000 -0400" stop="20200519100000 -0400" channel="StayAtHome TV">
+    <title lang="en">Offline</title>
+    <desc lang="en">Offline</desc>
+	<icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+    <category lang="en">Offline</category>
+  </programme>
   <programme start="20200518160000 -0400" stop="20200518170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Network with Andrew Nichols</title>
     <desc lang="en">CBC News Network showcases the best of CBC journalism, covering stories with speed, and adding context and meaning along the way. Live from our bureaus across Canada and around the world, with anchor Andrew Nichols.(n)</desc>
