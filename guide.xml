@@ -71,12 +71,60 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200519230000 -0400" stop="20200520110000 -0400" channel="StayAtHome TV">
-    <title lang="en">Offline</title>
-    <desc lang="en">Offline</desc>
-	<icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-    <category lang="en">Offline</category>
+  <programme start="20200521120000 -0400" stop="20200521134043 -0400" channel="StayAtHome TV">
+    <title lang="en">The Running Man (1987)</title>
+    <desc lang="en">In a dystopian America, a falsely convicted policeman gets his shot at freedom when he must forcibly participate in a TV game show where convicts, runners, must battle killers for their freedom</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,687,1000_AL_.jpg" />
+    <category lang="en">Action</category>
   </programme>
+  <programme start="20200521134045 -0400" stop="20200521153415 -0400" channel="StayAtHome TV">
+    <title lang="en">Total Recall: Mind Bending Edition (1990)</title>
+    <desc lang="en"> When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521153416 -0400" stop="20200521171019 -0400" channel="StayAtHome TV">
+    <title lang="en">Judge Dredd (1995)</title>
+    <desc lang="en"> In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BYmM1NzUyY2YtOTU4My00ZmFmLWI4ZjYtYzJlM2JlOTBhZmIzXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_CR0,0,671,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521171020 -0400" stop="20200521185400 -0400" channel="StayAtHome TV">
+    <title lang="en">Tango & Cash (1989)</title>
+    <desc lang="en">Framed by their ruthless arch-nemesis, a mismatched LAPD crime-fighting duo has to put its differences aside to even the score with the evil kingpin who put them behind bars once and for all</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BZjQ4YThiZGYtOWY1MC00ZDE0LTgyNmItNTc0Y2U4N2I1YzEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521185401 -0400" stop="20200521202614 -0400" channel="StayAtHome TV">
+    <title lang="en">Bloodsport (1988)</title>
+    <desc lang="en">"Bloodsport" follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BNTJmMGEzMTQtMzQzMi00YjE1LWI4MTctNjY0NWZiYzE2MDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521202615 -0400" stop="20200521220743 -0400" channel="StayAtHome TV">
+    <title lang="en">Street Fighter (1994)</title>
+    <desc lang="en">Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BY2JhYjUzYzAtMWFhMi00YzIyLTllZGQtMTAzNThkNTJhNTBmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521220745 -0400" stop="20200521234900 -0400" channel="StayAtHome TV">
+    <title lang="en">Mortal Kombat (1995)</title>
+    <desc lang="en">Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world. </desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BNjY5NTEzZGItMGY3My00NzE4LThkYTUtYjJkNzk3MDBiMWE3XkEyXkFqcGdeQXVyNzg5MDE1MDk@._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200521234901 -0400" stop="20200522012500 -0400" channel="StayAtHome TV">
+    <title lang="en">Double Dragon (1994)</title>
+    <desc lang="en">Two brothers have half of a powerful ancient Chinese talisman. An evil gang leader has the other half, and determines to get the brothers' half and have a complete medallion so he can gain absolute power</desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMGZjNGUyMmEtNDIwYy00NWVjLTk4YzUtYTRiYjBhZDQ0ZmJiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20200522012500 -0400" stop="20200522110000 -0400" channel="StayAtHome TV">
+    <title lang="en">Replay / Offline</title>
+    <desc lang="en">Playing yesterday's movies</desc>
+	<icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+    <category lang="en">Action</category>
+  </programme>   
   <programme start="20200518160000 -0400" stop="20200518170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Network with Andrew Nichols</title>
     <desc lang="en">CBC News Network showcases the best of CBC journalism, covering stories with speed, and adding context and meaning along the way. Live from our bureaus across Canada and around the world, with anchor Andrew Nichols.(n)</desc>
