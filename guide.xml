@@ -71,17 +71,17 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200521120000 -0400" stop="20200521134043 -0400" channel="StayAtHome TV">
-    <title lang="en">The Running Man (1987)</title>
-    <desc lang="en">In a dystopian America, a falsely convicted policeman gets his shot at freedom when he must forcibly participate in a TV game show where convicts, runners, must battle killers for their freedom</desc>
-	<icon src="https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,687,1000_AL_.jpg" />
-    <category lang="en">Action</category>
+  <programme start="20200523211000 -0400" stop="20200523225000 -0400" channel="StayAtHome TV">
+    <title lang="en">Tag (2018)</title>
+    <desc lang="en"> A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country. </desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BNzk4NDM3NjkwNF5BMl5BanBnXkFtZTgwNTk5MzkzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20200521134045 -0400" stop="20200521153415 -0400" channel="StayAtHome TV">
-    <title lang="en">Total Recall: Mind Bending Edition (1990)</title>
-    <desc lang="en"> When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?</desc>
-	<icon src="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
-    <category lang="en">Action</category>
+  <programme start="20200523225001 -0400" stop="20200524002000 -0400" channel="StayAtHome TV">
+    <title lang="en">Game Night (2018)</title>
+    <desc lang="en"> A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters. </desc>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20200521153416 -0400" stop="20200521171019 -0400" channel="StayAtHome TV">
     <title lang="en">Judge Dredd (1995)</title>
