@@ -71,53 +71,17 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200524104500 -0400" stop="20200524122959 -0400" channel="StayAtHome TV">
-    <title lang="en">Coco (2017)</title>
-    <desc lang="en">Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer. </desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SY1000_CR0,0,699,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200524123000 -0400" stop="20200524141634 -0400" channel="StayAtHome TV">
-    <title lang="en">Dunkirk (2017)</title>
-    <desc lang="en">Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army, and evacuated during a fierce battle in World War II. </desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200524141635 -0400" stop="20200524170535 -0400" channel="StayAtHome TV">
-    <title lang="en">Interstellar (2014)</title>
-    <desc lang="en">Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200524170536 -0400" stop="20200524194705 -0400" channel="StayAtHome TV">
-    <title lang="en">Once Upon a Time... in Hollywood (2019)</title>
-    <desc lang="en">Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age</desc>
-	<category lang="en">Drama, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200524194706 -0400" stop="20200524215145 -0400" channel="StayAtHome TV">
-    <title lang="en">Jurassic World (2015)</title>
-    <desc lang="en">Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus Rex. When everything goes horribly wrong, will our heroes make it off the island?</desc>
-	<category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200524215146 -0400" stop="20200525000004 -0400" channel="StayAtHome TV">
-    <title lang="en">Jurassic World: Fallen Kingdom (2018)</title>
-    <desc lang="en">Three years after the Jurassic World theme park was closed down, Owen and Claire return to Isla Nublar to save the dinosaurs when they learn that a once dormant volcano on the island is active and is threatening to extinguish all life there. Along the way, Owen sets out to find Blue, his lead raptor, and discovers a conspiracy that could disrupt the natural order of the entire planet. Life has found a way, again</desc>
-	<category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200525000005 -0400" stop="20200525013500 -0400" channel="StayAtHome TV">
-    <title lang="en">Mallrats (1995)</title>
-    <desc lang="en">Both dumped by their girlfriends, two best friends seek refuge in the local mall</desc>
-	<category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZGNhYzE4YzktNDIwNC00YmRiLTgyOTgtMzk1ZjNhNmI4ODI1XkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_.jpg" />
-  </programme>
-  <programme start="20200525013500 -0400" stop="20200525120000 -0400" channel="StayAtHome TV">
-    <title lang="en">Repeat Programming // Offline</title>
+  <programme start="20200526120000 -0400" stop="20200526170000 -0400" channel="StayAtHome TV">
+    <title lang="en">// Channel opens at 5PM //\\ TIFF Tuesday \\</title>
     <desc lang="en"></desc>
 	<category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200526170000 -0400" stop="20200527010000 -0400" channel="StayAtHome TV">
+    <title lang="en">TIFF Tuesday</title>
+    <desc lang="en">Toronto International Film Festival</desc>
+	<category lang="en"></category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Toronto_International_Film_Festival_logo.svg/1280px-Toronto_International_Film_Festival_logo.svg.png" />
   </programme>
   <programme start="20200524110000 -0400" stop="20200524113000 -0400" channel="CBC News Network">
     <title lang="en">The Weekly with Wendy Mesley</title>
