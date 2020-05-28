@@ -71,22 +71,47 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200526120000 -0400" stop="20200526170000 -0400" channel="StayAtHome TV">
-    <title lang="en">// Channel opens at 5PM //\\ TIFF Tuesday \\</title>
-    <desc lang="en"></desc>
+  <programme start="20200528140000 -0400" stop="20200528155959 -0400" channel="StayAtHome TV">
+    <title lang="en">Trailers > TBT : 80s Teen Comedies @ 4PM</title>
+    <desc lang="en">Trailers</desc>
 	<category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200526170000 -0400" stop="20200527010000 -0400" channel="StayAtHome TV">
-    <title lang="en">TIFF Tuesday</title>
-    <desc lang="en">Toronto International Film Festival</desc>
-	<category lang="en"></category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Toronto_International_Film_Festival_logo.svg/1280px-Toronto_International_Film_Festival_logo.svg.png" />
+  <programme start="20200528160000 -0400" stop="20200528173000 -0400" channel="StayAtHome TV">
+    <title lang="en">Fast Times at Ridgemont High (1982)</title>
+    <desc lang="en">A group of Southern California high school students are enjoying their most important subjects: sex, drugs, and rock n' roll</desc>
+	<category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzBlZjE1MDctYjZmZC00ZTJmLWFkOWEtYjdmZDZkODBkZmI2XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY1000_CR0,0,663,1000_AL_.jpg" />
   </programme>
-  <programme start="20200524110000 -0400" stop="20200524113000 -0400" channel="CBC News Network">
-    <title lang="en">The Weekly with Wendy Mesley</title>
-    <desc lang="en">Wendy Mesley takes you behind the headlines to reveal hidden and surprising forces shaping the news and our world.(n)</desc>
-    <category lang="en">Information Program</category>
+  <programme start="20200528173000 -0400" stop="20200528190200 -0400" channel="CBC News Network">
+    <title lang="en">Teen Wolf (1985)</title>
+    <desc lang="en">An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf</desc>
+    <category lang="en">Comedy</category>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMGFmZTFhYjktMmYyZi00ZmE4LWI0NGEtMDY2MGEzMDY0YjdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200528190200 -0400" stop="20200528203600 -0400" channel="CBC News Network">
+    <title lang="en">Sixteen Candles (1984)</title>
+    <desc lang="en">A girl's "sweet" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible</desc>
+    <category lang="en">Comedy</category>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMTgzNTkxMTkxMl5BMl5BanBnXkFtZTgwMjE3NjkzMTE@._V1_.jpg" />
+  </programme>
+  <programme start="20200528203600 -0400" stop="20200528221900 -0400" channel="CBC News Network">
+    <title lang="en">Ferris Bueller's Day Off (1986)</title>
+    <desc lang="en">A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that</desc>
+    <category lang="en">Comedy</category>
+	<icon src="https://m.media-amazon.com/images/M/MV5BMDA0NjZhZWUtNmI2NC00MmFjLTgwZDYtYzVjZmNhMDVmOTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
+  </programme>
+  <programme start="20200528221900 -0400" stop="20200529001300 -0400" channel="CBC News Network">
+    <title lang="en">The Goonies (1985)</title>
+    <desc lang="en">A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure</desc>
+    <category lang="en">Comedy</category>
+	<icon src="https://m.media-amazon.com/images/M/MV5BODRlMjRkZGEtZWM2Zi00ZjYxLWE0MWUtMmM1YWM2NzZlOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200529001300 -0400" stop="20200529160000 -0400" channel="CBC News Network">
+    <title lang="en">// Repeat \\ // Offline \\</title>
+    <desc lang="en">Repeating</desc>
+    <category lang="en">Comedy</category>
+	<icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
   <programme start="20200524113000 -0400" stop="20200524173000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Network with Michael Serapio</title>
