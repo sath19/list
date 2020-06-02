@@ -71,56 +71,32 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/468.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20200530113000 -0400" stop="20200530125959 -0400" channel="StayAtHome TV">
-    <title lang="en">The Iron Giant (1999)</title>
-    <desc lang="en">A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy</desc>
+  <programme start="20200602184000 -0400" stop="20200602202600 -0400" channel="StayAtHome TV">
+    <title lang="en">Museum Hours (2012)</title>
+    <desc lang="en">When a Vienna museum guard befriends an enigmatic visitor, the grand Kunsthistorisches Art Museum becomes a mysterious crossroads that sparks explorations of their lives, the city, and the ways in which works of art reflect and shape the world</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjAzMzI3NDQ1NF5BMl5BanBnXkFtZTcwNTA0MjQ3OQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200602202700 -0400" stop="20200602222100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Imitation Game (2014)</title>
+    <desc lang="en">During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_SY999_CR0,0,670,999_AL_.jpg" />
+  </programme>
+  <programme start="20200602222205 -0400" stop="20200603002300 -0400" channel="StayAtHome TV">
+    <title lang="en">Sicario (2015)</title>
+    <desc lang="en">An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200603002410 -0400" stop="20200603015400 -0400" channel="StayAtHome TV">
+    <title lang="en">From Up on Poppy Hill (2011)</title>
+    <desc lang="en">A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics</desc>
     <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjIxNDU2Njk0OV5BMl5BanBnXkFtZTgwODc3Njc3NjE@._V1_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmFjMTYwODAtMTUzZi00NWUzLWIzMjUtYTNiZTE2MzNlMjNiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
   </programme>
-  <programme start="20200530130000 -0400" stop="20200530143200 -0400" channel="StayAtHome TV">
-    <title lang="en">Iron Sky (2012)</title>
-    <desc lang="en"> The Nazis set up a secret base on the dark side of the moon in 1945 where they hide out and plan to return to power in 2018</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_.jpg" />
-  </programme>
-  <programme start="20200530143201 -0400" stop="20200530162759 -0400" channel="StayAtHome TV">
-    <title lang="en">Atomic Blonde (2017)</title>
-    <desc lang="en"> An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200530162800 -0400" stop="20200530180100 -0400" channel="StayAtHome TV">
-    <title lang="en">Stuber (2019)</title>
-    <desc lang="en"> A detective recruits his Uber driver into an unexpected night of adventure</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGE1ZjFhYzAtYWM4ZC00NGI1LWFmYzMtZWRhZDhjMjE4YzBjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200530180101 -0400" stop="20200530201700 -0400" channel="StayAtHome TV">
-    <title lang="en">Fast & Furious Presents: Hobbs & Shaw (2019)</title>
-    <desc lang="en"> Lawman Luke Hobbs (Dwayne "The Rock" Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200530201701 -0400" stop="20200530221600 -0400" channel="StayAtHome TV">
-    <title lang="en">Anna (2019)</title>
-    <desc lang="en"> Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWUyYTU4NTQtYWQ2Mi00NzE0LTk0OTMtN2MzNjRkZjFkZTU2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,704,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200530221601 -0400" stop="20200531001800 -0400" channel="StayAtHome TV">
-    <title lang="en">Alita: Battle Angel (2019)</title>
-    <desc lang="en"> A deactivated cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200531001801 -0400" stop="20200531023600 -0400" channel="StayAtHome TV">
-    <title lang="en">Midway (2019)</title>
-    <desc lang="en"> The story of the Battle of Midway, told by the leaders and the sailors who fought it</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzA5Y2Q2YjktZDYwMi00NTdmLThlMjctMmY5NDgwOWRhZDUxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200531023601 -0400" stop="20200531120000 -0400" channel="StayAtHome TV">
-    <title lang="en">// REPEAT \\ OFFLINE //</title>
+  <programme start="20200603015500 -0400" stop="20200603140000 -0400" channel="StayAtHome TV">
+    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
