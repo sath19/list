@@ -101,17 +101,11 @@
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BNzgzYjMzMWItNDFiYi00ZjhkLWIyMzYtZGRlY2FmNzkwNjRhL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
-  <programme start="20200606215601 -0400" stop="20200606233800 -0400" channel="StayAtHome TV">
+  <programme start="20200606220000 -0400" stop="20200607010000 -0400" channel="StayAtHome TV">
     <title lang="en">Blockers (2018)</title>
     <desc lang="en"></desc>
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjE0ODIzNjkzMl5BMl5BanBnXkFtZTgwODQ3MzU4NDM@._V1_SY1000_SX632_AL_.jpg" />
-  </programme>
-  <programme start="20200606233801 -0400" stop="20200607011400 -0400" channel="StayAtHome TV">
-    <title lang="en">American Ultra (2015)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
   <programme start="20200607011401 -0400" stop="20200607120000 -0400" channel="StayAtHome TV">
     <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
