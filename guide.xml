@@ -101,13 +101,13 @@
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BNzgzYjMzMWItNDFiYi00ZjhkLWIyMzYtZGRlY2FmNzkwNjRhL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
-  <programme start="20200606220000 -0400" stop="20200607010000 -0400" channel="StayAtHome TV">
-    <title lang="en">Blockers (2018)</title>
+  <programme start="20200606220000 -0400" stop="20200607013000 -0400" channel="StayAtHome TV">
+    <title lang="en">UFC 250: Nunes vs Spencer</title>
     <desc lang="en"></desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE0ODIzNjkzMl5BMl5BanBnXkFtZTgwODQ3MzU4NDM@._V1_SY1000_SX632_AL_.jpg" />
+    <category lang="en">LIVE</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/d/db/UFC_250_official_poster.jpg" />
   </programme>
-  <programme start="20200607011401 -0400" stop="20200607120000 -0400" channel="StayAtHome TV">
+  <programme start="20200607013001 -0400" stop="20200607120000 -0400" channel="StayAtHome TV">
     <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
