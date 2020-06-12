@@ -173,13 +173,37 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200612180000 -0400" stop="20200613015959 -0400" channel="StayAtHome TV">
+  <programme start="20200612180000 -0400" stop="20200612190559 -0400" channel="StayAtHome TV">
     <title lang="en">FREAKY FRIDAY</title>
     <desc lang="en"> Horror/Thriller Movies </desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200613020000 -0400" stop="20200613100000 -0400" channel="StayAtHome TV">
+  <programme start="20200612190600 -0400" stop="20200612204100 -0400" channel="StayAtHome TV">
+    <title lang="en"> Green Room (2015) </title>
+    <desc lang="en">A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200612204201 -0400" stop="20200612220930 -0400" channel="StayAtHome TV">
+    <title lang="en"> Crawl (2019) </title>
+    <desc lang="en">A young woman, while attempting to save her father during a category 5 hurricane, finds herself trapped in a flooding house and must fight for her life against alligators</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTk4MTliYzgtOGI2Ni00N2I5LTg4MjktZTkzZTE0MWVjNGEyXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200612221030 -0400" stop="20200613000300 -0400" channel="StayAtHome TV">
+    <title lang="en"> 30 Days of Night (2007) </title>
+    <desc lang="en">After an Alaskan town is plunged into darkness for a month, it is attacked by a bloodthirsty gang of vampires</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmE2ODFlZjctOWZlZi00MGVkLTk5NDctYWZmMWQyOTczNjYzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200613000301 -0400" stop="20200613014300 -0400" channel="StayAtHome TV">
+    <title lang="en"> It Follows (2014) </title>
+    <desc lang="en">A young woman is followed by an unknown supernatural force after a sexual encounter</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200613014301 -0400" stop="20200613100000 -0400" channel="StayAtHome TV">
     <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
