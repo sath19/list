@@ -143,6 +143,12 @@
     <category lang="en">TV</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200613180001 -0400" stop="20200614020000 -0400" channel="StayAtHome TV">
+    <title lang="en">Open to Requests</title>
+    <desc lang="en">Movies</desc>
+    <category lang="en">Movies</category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
   <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Network with Andrew Nichols</title>
   </programme>
