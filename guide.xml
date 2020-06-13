@@ -143,10 +143,40 @@
     <category lang="en">TV</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200613180001 -0400" stop="20200614020000 -0400" channel="StayAtHome TV">
-    <title lang="en">Open to Requests</title>
-    <desc lang="en">Movies</desc>
-    <category lang="en">Movies</category>
+  <programme start="20200613183000 -0400" stop="20200613201459 -0400" channel="StayAtHome TV">
+    <title lang="en"> Pokémon Detective Pikachu (2019) </title>
+    <desc lang="en">In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200613201500 -0400" stop="20200613220400 -0400" channel="StayAtHome TV">
+    <title lang="en"> Bloodshot (2020) </title>
+    <desc lang="en">Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg" />
+  </programme>
+  <programme start="20200613220401 -0400" stop="20200614003600 -0400" channel="StayAtHome TV">
+    <title lang="en"> Ford v Ferrari (2019) </title>
+    <desc lang="en">American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200614003601 -0400" stop="20200614012559 -0400" channel="StayAtHome TV">
+    <title lang="en"> Pete Davidson: Alive from New York (2020) </title>
+    <desc lang="en">Comedian Pete Davidson's intimate and candid stand-up special shot live in New York City</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWMzMjE1ZTAtYWMyNi00YjBkLWI1YTYtYjVmYjAxMzEyYTYwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" />
+  </programme>
+  <programme start="20200614012600 -0400" stop="20200614032000 -0400" channel="StayAtHome TV">
+    <title lang="en"> Rudy (1993) </title>
+    <desc lang="en">Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZGUzMDU1YmQtMzBkOS00MTNmLTg5ZDQtZjY5Njk4Njk2MmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" />
+  </programme>
+  <programme start="20200614032001 -0400" stop="20200614120000 -0400" channel="StayAtHome TV">
+    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
   <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="CBC News Network">
