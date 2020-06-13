@@ -179,6 +179,12 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200614120001 -0400" stop="20200614130000 -0400" channel="StayAtHome TV">
+    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
   <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="CBC News Network">
     <title lang="en">CBC News Network with Andrew Nichols</title>
   </programme>
