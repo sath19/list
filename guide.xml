@@ -6,7 +6,7 @@
     <url>http://www.google.com</url>
   </channel>
   <programme start="20200629010000 -0400" stop="20200629160000 -0400" channel="StayAtHome TV">
-    <title lang="en">// OFFLINE \\</title>
+    <title lang="en">// OFFLINE-REQUESTS ONLY \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
@@ -23,19 +23,19 @@
     <category lang="en">Comedy, Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTAwMzc2OTgwOTZeQTJeQWpwZ15BbWU4MDg2ODA4NjIx._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
   </programme>
-  <programme start="20200612180000 -0400" stop="20200612190559 -0400" channel="StayAtHome TV">
+  <programme start="20200629193000 -0400" stop="20200629212959 -0400" channel="StayAtHome TV">
     <title lang="en">Zombieland (2009)</title>
     <desc lang="en"> A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America</desc>
     <category lang="en">Comedy, Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SY1000_CR0,0,717,1000_AL_.jpg" />
   </programme>
-  <programme start="20200612180000 -0400" stop="20200612190559 -0400" channel="StayAtHome TV">
+  <programme start="20200629213000 -0400" stop="20200629232959 -0400" channel="StayAtHome TV">
     <title lang="en">Zombieland: Double Tap (2019)</title>
     <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
     <category lang="en">Comedy, Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
-  <programme start="20200612190600 -0400" stop="20200612204100 -0400" channel="StayAtHome TV">
+  <programme start="20200629233000 -0400" stop="20200630010000 -0400" channel="StayAtHome TV">
     <title lang="en">You Don't Mess with the Zohan (2008)</title>
     <desc lang="en">An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist</desc>
     <category lang="en">Comedy</category>
