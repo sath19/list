@@ -5,13 +5,13 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200629010000 -0400" stop="20200629160000 -0400" channel="StayAtHome TV">
+  <programme start="20200629010000 -0400" stop="20200629155959 -0400" channel="StayAtHome TV">
     <title lang="en">// OFFLINE-REQUESTS ONLY \\</title>
-    <desc lang="en"></desc>
+    <desc lang="en"> Channel is offline unless a request is made </desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200629160001 -0400" stop="20200629175959 -0400" channel="StayAtHome TV">
+  <programme start="20200629160000 -0400" stop="20200629175959 -0400" channel="StayAtHome TV">
     <title lang="en">Rise of the Guardians (2012)</title>
     <desc lang="en"> When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world. </desc>
     <category lang="en">Animation, Action</category>
