@@ -41,53 +41,53 @@
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" />
   </programme>
-  <programme start="20200630012301 -0400" stop="20200630170000 -0400" channel="StayAtHome TV">
+  <programme start="20200630012301 -0400" stop="20200630120000 -0400" channel="StayAtHome TV">
     <title lang="en">// OFFLINE-REQUEST ONLY \\</title>
     <desc lang="en"> Open only to requests </desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200630170001 -0400" stop="20200701010000 -0400" channel="StayAtHome TV">
+  <programme start="20200630120001 -0400" stop="20200630170000 -0400" channel="StayAtHome TV">
     <title lang="en">// TIFF TUESDAY \\</title>
-    <desc lang="en"> Open only to requests </desc>
+    <desc lang="en"> International subtitled movies </desc>
     <category lang="en"></category>
     <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
   </programme>
-  <programme start="20200613014301 -0400" stop="20200613100000 -0400" channel="StayAtHome TV">
-    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  <programme start="20200630170001 -0400" stop="20200630183000 -0400" channel="StayAtHome TV">
+    <title lang="en">A Pigeon Sat on a Branch Reflecting on Existence (2014)</title>
+    <desc lang="en">Sam and Jonathan, a pair of hapless novelty salesman, embark on a tour of the human condition in reality and fantasy that unfold in a series of absurdist episodes</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODU3MTgxOTItMjRkYS00NDcwLTkyMDMtZGE4NTQwZWIzMzYwXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SY1000_CR0,0,707,1000_AL_.jpg" />
   </programme>
-  <programme start="20200613103000 -0400" stop="20200613122559 -0400" channel="StayAtHome TV">
-    <title lang="en"> Cars (2006) </title>
-    <desc lang="en">A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg" />
+  <programme start="20200630183001 -0400" stop="20200630200000 -0400" channel="StayAtHome TV">
+    <title lang="en">A Ciambra (2017)</title>
+    <desc lang="en">In A CIAMBRA, a small Romani community in Calabria, Pio Amato is desperate to grow up fast. At 14, he drinks, smokes and is one of the few to easily slide between the region's factions</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzNkZjA3ZWItNmE2ZS00MzM1LTllNTItMWM1MzkwYjViZDQ3XkEyXkFqcGdeQXVyMjY4MjAwNTM@._V1_SY1000_CR0,0,741,1000_AL_.jpg" />
   </programme>
-  <programme start="20200613122600 -0400" stop="20200613140059 -0400" channel="StayAtHome TV">
-    <title lang="en"> Paddington (2014) </title>
-    <desc lang="en">A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTAxOTMwOTkwNDZeQTJeQWpwZ15BbWU4MDEyMTI1NjMx._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  <programme start="20200630200001 -0400" stop="20200630223000 -0400" channel="StayAtHome TV">
+    <title lang="en">Victoria (2015)</title>
+    <desc lang="en"> A young Spanish woman who has recently moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_SY1000_CR0,0,684,1000_AL_.jpg" />
   </programme>
-  <programme start="20200613140100 -0400" stop="20200613153700 -0400" channel="StayAtHome TV">
-    <title lang="en"> Juno (2007) </title>
-    <desc lang="en">Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_.jpg" />
+  <programme start="20200630223001 -0400" stop="20200701013000 -0400" channel="StayAtHome TV">
+    <title lang="en">Aftershock (2010)</title>
+    <desc lang="en"> The epic story of a family separated as a result of the Great Tangshan Earthquake of 1976</desc>
+    <category lang="en">Drama, History</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjEzMTg1MTYxMF5BMl5BanBnXkFtZTcwMzI5MDMwNA@@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
   </programme>
-  <programme start="20200613153800 -0400" stop="20200613180000 -0400" channel="StayAtHome TV">
-    <title lang="en">AFTERNOON BREAK //\\ OFFLINE or REPEAT</title>
+  <programme start="20200701013001 -0400" stop="20200701120000 -0400" channel="StayAtHome TV">
+    <title lang="en">// OFFLINE or REPEAT \\</title>
     <desc lang="en">Repeat or Offline</desc>
     <category lang="en">TV</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200613184000 -0400" stop="20200613202459 -0400" channel="StayAtHome TV">
-    <title lang="en"> Pokémon Detective Pikachu (2019) </title>
-    <desc lang="en">In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200701120001 -0400" stop="20200701160000 -0400" channel="StayAtHome TV">
+    <title lang="en">HAPPY CANADA DAY</title>
+    <desc lang="en"> HAPPY CANADA DAY </desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
   <programme start="20200613202500 -0400" stop="20200613221400 -0400" channel="StayAtHome TV">
     <title lang="en"> Bloodshot (2020) </title>
