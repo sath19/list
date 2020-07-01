@@ -83,23 +83,23 @@
     <category lang="en">TV</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200701120001 -0400" stop="20200701160000 -0400" channel="StayAtHome TV">
+  <programme start="20200701120001 -0400" stop="20200702010000 -0400" channel="StayAtHome TV">
     <title lang="en">HAPPY CANADA DAY</title>
-    <desc lang="en"> HAPPY CANADA DAY </desc>
+    <desc lang="en"> Superhero movie marathon </desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200613202500 -0400" stop="20200613221400 -0400" channel="StayAtHome TV">
-    <title lang="en"> Bloodshot (2020) </title>
-    <desc lang="en">Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg" />
+  <programme start="20200702010001 -0400" stop="20200702160000 -0400" channel="StayAtHome TV">
+    <title lang="en"> // OFFLINE or REPEAT \\ </title>
+    <desc lang="en">Reapet or Offline</desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200613221401 -0400" stop="20200614004600 -0400" channel="StayAtHome TV">
-    <title lang="en"> Ford v Ferrari (2019) </title>
-    <desc lang="en">American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966</desc>
+  <programme start="20200702160001 -0400" stop="20200702170001 -0400" channel="StayAtHome TV">
+    <title lang="en"> // OFFLINE or REPEAT \\ </title>
+    <desc lang="en">Reapet or Offline</desc>
     <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
   <programme start="20200614004601 -0400" stop="20200614013559 -0400" channel="StayAtHome TV">
     <title lang="en"> Pete Davidson: Alive from New York (2020) </title>
