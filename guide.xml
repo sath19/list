@@ -101,19 +101,37 @@
     <category lang="en">Action</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200614004601 -0400" stop="20200614013559 -0400" channel="StayAtHome TV">
-    <title lang="en"> Pete Davidson: Alive from New York (2020) </title>
-    <desc lang="en">Comedian Pete Davidson's intimate and candid stand-up special shot live in New York City</desc>
+  <programme start="20200702180001 -0400" stop="20200702192600 -0400" channel="StayAtHome TV">
+    <title lang="en"> Coneheads (1993) </title>
+    <desc lang="en">Aliens with conical crania crash-land on Earth</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWMzMjE1ZTAtYWMyNi00YjBkLWI1YTYtYjVmYjAxMzEyYTYwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTNjNGM5OTktM2Q1Zi00YTFmLWJlYzUtMTMyMzgzNjNlNmQzL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
   </programme>
-  <programme start="20200614013600 -0400" stop="20200614033000 -0400" channel="StayAtHome TV">
+  <programme start="20200702192601 -0400" stop="20200702210000 -0400" channel="StayAtHome TV">
+    <title lang="en"> Over the Top (1987) </title>
+    <desc lang="en">Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWYxZDYyZjgtODk2Ni00ZTIzLTk4YjYtNDYxZGQzZjliMzFkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,663,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200702210001 -0400" stop="20200702230600 -0400" channel="StayAtHome TV">
+    <title lang="en"> Good Will Hunting (1997) </title>
+    <desc lang="en">Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,655,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200702230601 -0400" stop="20200703010000 -0400" channel="StayAtHome TV">
     <title lang="en"> Rudy (1993) </title>
     <desc lang="en">Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame</desc>
     <category lang="en">Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZGUzMDU1YmQtMzBkOS00MTNmLTg5ZDQtZjY5Njk4Njk2MmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" />
   </programme>
-  <programme start="20200614033001 -0400" stop="20200614190000 -0400" channel="StayAtHome TV">
+  <programme start="20200703010001 -0400" stop="20200703170000 -0400" channel="StayAtHome TV">
+    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200703170001 -0400" stop="20200703180000 -0400" channel="StayAtHome TV">
     <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
