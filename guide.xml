@@ -11,120 +11,6 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200629163000 -0400" stop="20200629180700 -0400" channel="StayAtHome TV">
-    <title lang="en">Rise of the Guardians (2012)</title>
-    <desc lang="en"> When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world. </desc>
-    <category lang="en">Animation, Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_SY1000_CR0,0,643,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200629180701 -0400" stop="20200629200659 -0400" channel="StayAtHome TV">
-    <title lang="en">Men, Women & Children (2014)</title>
-    <desc lang="en">A group of high school teenagers and their parents attempt to navigate the many ways the Internet has changed their relationships, their communications, their self-images, and their love lives</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTAwMzc2OTgwOTZeQTJeQWpwZ15BbWU4MDg2ODA4NjIx._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200629200700 -0400" stop="20200629213500 -0400" channel="StayAtHome TV">
-    <title lang="en">Zombieland (2009)</title>
-    <desc lang="en"> A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America</desc>
-    <category lang="en">Comedy, Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SY1000_CR0,0,717,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200629214701 -0400" stop="20200629232600 -0400" channel="StayAtHome TV">
-    <title lang="en">Zombieland: Double Tap (2019)</title>
-    <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
-    <category lang="en">Comedy, Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200629232601 -0400" stop="20200630012300 -0400" channel="StayAtHome TV">
-    <title lang="en">You Don't Mess with the Zohan (2008)</title>
-    <desc lang="en">An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" />
-  </programme>
-  <programme start="20200630012301 -0400" stop="20200630120000 -0400" channel="StayAtHome TV">
-    <title lang="en">// OFFLINE-REQUEST ONLY \\</title>
-    <desc lang="en"> Open only to requests </desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200630120001 -0400" stop="20200630170000 -0400" channel="StayAtHome TV">
-    <title lang="en">// TIFF TUESDAY \\</title>
-    <desc lang="en"> International subtitled movies </desc>
-    <category lang="en"></category>
-    <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
-  </programme>
-  <programme start="20200630191800 -0400" stop="20200630205800 -0400" channel="StayAtHome TV">
-    <title lang="en">A Pigeon Sat on a Branch Reflecting on Existence (2014)</title>
-    <desc lang="en">Sam and Jonathan, a pair of hapless novelty salesman, embark on a tour of the human condition in reality and fantasy that unfold in a series of absurdist episodes</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODU3MTgxOTItMjRkYS00NDcwLTkyMDMtZGE4NTQwZWIzMzYwXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SY1000_CR0,0,707,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200630205801 -0400" stop="20200630225600 -0400" channel="StayAtHome TV">
-    <title lang="en">A Ciambra (2017)</title>
-    <desc lang="en">In A CIAMBRA, a small Romani community in Calabria, Pio Amato is desperate to grow up fast. At 14, he drinks, smokes and is one of the few to easily slide between the region's factions</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzNkZjA3ZWItNmE2ZS00MzM1LTllNTItMWM1MzkwYjViZDQ3XkEyXkFqcGdeQXVyMjY4MjAwNTM@._V1_SY1000_CR0,0,741,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200630225601 -0400" stop="20200701005601 -0400" channel="StayAtHome TV">
-    <title lang="en">Victoria (2015)</title>
-    <desc lang="en"> A young Spanish woman who has recently moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_SY1000_CR0,0,684,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200630223001 -0400" stop="20200701013000 -0400" channel="StayAtHome TV">
-    <title lang="en">Aftershock (2010)</title>
-    <desc lang="en"> The epic story of a family separated as a result of the Great Tangshan Earthquake of 1976</desc>
-    <category lang="en">Drama, History</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjEzMTg1MTYxMF5BMl5BanBnXkFtZTcwMzI5MDMwNA@@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200701013001 -0400" stop="20200701120000 -0400" channel="StayAtHome TV">
-    <title lang="en">// OFFLINE or REPEAT \\</title>
-    <desc lang="en">Repeat or Offline</desc>
-    <category lang="en">TV</category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200701120001 -0400" stop="20200702010000 -0400" channel="StayAtHome TV">
-    <title lang="en">HAPPY CANADA DAY</title>
-    <desc lang="en"> Superhero movie marathon </desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200702010001 -0400" stop="20200702160000 -0400" channel="StayAtHome TV">
-    <title lang="en"> // OFFLINE or REPEAT \\ </title>
-    <desc lang="en">Repeat or Offline</desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200702160001 -0400" stop="20200702170001 -0400" channel="StayAtHome TV">
-    <title lang="en"> // OFFLINE or REPEAT \\ </title>
-    <desc lang="en">Repeat or Offline</desc>
-    <category lang="en">Action</category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200702180001 -0400" stop="20200702192600 -0400" channel="StayAtHome TV">
-    <title lang="en"> Coneheads (1993) </title>
-    <desc lang="en">Aliens with conical crania crash-land on Earth</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTNjNGM5OTktM2Q1Zi00YTFmLWJlYzUtMTMyMzgzNjNlNmQzL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
-  </programme>
-  <programme start="20200702192601 -0400" stop="20200702210000 -0400" channel="StayAtHome TV">
-    <title lang="en"> Over the Top (1987) </title>
-    <desc lang="en">Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWYxZDYyZjgtODk2Ni00ZTIzLTk4YjYtNDYxZGQzZjliMzFkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,663,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200702210001 -0400" stop="20200702230600 -0400" channel="StayAtHome TV">
-    <title lang="en"> Good Will Hunting (1997) </title>
-    <desc lang="en">Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,655,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200702230601 -0400" stop="20200703010000 -0400" channel="StayAtHome TV">
-    <title lang="en"> Rudy (1993) </title>
-    <desc lang="en">Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZGUzMDU1YmQtMzBkOS00MTNmLTg5ZDQtZjY5Njk4Njk2MmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" />
-  </programme>
   <programme start="20200703010001 -0400" stop="20200703170000 -0400" channel="StayAtHome TV">
     <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
@@ -137,32 +23,44 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200614190000 -0400" stop="20200614211022 -0400" channel="StayAtHome TV">
-    <title lang="en">Spy (2015)</title>
-    <desc lang="en">A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_SY1000_SX675_AL_.jpg" />
+  <programme start="20200704163000 -0400" stop="20200704180900 -0400" channel="StayAtHome TV">
+    <title lang="en">Zombieland: Double Tap (2019)</title>
+    <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
+	<category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
-  <programme start="20200614211023 -0400" stop="20200614234722 -0400" channel="StayAtHome TV">
-    <title lang="en">The Revenant (2015)</title>
-    <desc lang="en">A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX672_CR0,0,672,999_AL_.jpg" />
+  <programme start="20200704180901 -0400" stop="20200704194500 -0400" channel="StayAtHome TV">
+    <title lang="en">American Ultra (2015)</title>
+    <desc lang="en">A stoner - who is in fact a government agent - is marked as a liability and targeted for extermination. But he's too well-trained and too high for them to handle</desc>
+    <category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200614234723 -0400" stop="20200615020700 -0400" channel="StayAtHome TV">
-    <title lang="en">Ready Player One (2018)</title>
-    <desc lang="en">When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world</desc>
+  <programme start="20200704194501 -0400" stop="20200704213000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Commuter (2018)</title>
+    <desc lang="en">An action-thriller in which an insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home</desc>
     <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_SY1000_CR0,0,647,1000_AL_.jpg" />
   </programme>
-  <programme start="20200615020701 -0400" stop="20200615120000 -0400" channel="StayAtHome TV">
-    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
+  <programme start="20200704213001 -0400" stop="20200704233800 -0400" channel="StayAtHome TV">
+    <title lang="en">Terminator: Dark Fate (2019)</title>
+    <desc lang="en">An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200704233801 -0400" stop="20200705013000 -0400" channel="StayAtHome TV">
+    <title lang="en">1408 (2007)</title>
+    <desc lang="en">A man who specialises in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel. Soon after settling in, he confronts genuine terror</desc>
+    <category lang="en">Horror, Mystery</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk1MDg0NTU0OV5BMl5BanBnXkFtZTcwMTM1NDk0MQ@@._V1_.jpg" />
+  </programme>
+  <programme start="20200705013001 -0400" stop="20200705120000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200615120001 -0400" stop="20200615130000 -0400" channel="StayAtHome TV">
-    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
+  <programme start="20200705120001 -0400" stop="20200705130000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
