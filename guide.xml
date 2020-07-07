@@ -5,54 +5,6 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200629010000 -0400" stop="20200629162959 -0400" channel="StayAtHome TV">
-    <title lang="en">// OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200703010001 -0400" stop="20200703170000 -0400" channel="StayAtHome TV">
-    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200703170001 -0400" stop="20200703180000 -0400" channel="StayAtHome TV">
-    <title lang="en">// CHILL VIBES \\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200704163000 -0400" stop="20200704180900 -0400" channel="StayAtHome TV">
-    <title lang="en">Zombieland: Double Tap (2019)</title>
-    <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
-	<category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200704180901 -0400" stop="20200704194500 -0400" channel="StayAtHome TV">
-    <title lang="en">American Ultra (2015)</title>
-    <desc lang="en">A stoner - who is in fact a government agent - is marked as a liability and targeted for extermination. But he's too well-trained and too high for them to handle</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200704194501 -0400" stop="20200704213000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Commuter (2018)</title>
-    <desc lang="en">An action-thriller in which an insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_SY1000_CR0,0,647,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200704213001 -0400" stop="20200704233800 -0400" channel="StayAtHome TV">
-    <title lang="en">Terminator: Dark Fate (2019)</title>
-    <desc lang="en">An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200704233801 -0400" stop="20200705013000 -0400" channel="StayAtHome TV">
-    <title lang="en">1408 (2007)</title>
-    <desc lang="en">A man who specialises in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel. Soon after settling in, he confronts genuine terror</desc>
-    <category lang="en">Horror, Mystery</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk1MDg0NTU0OV5BMl5BanBnXkFtZTcwMTM1NDk0MQ@@._V1_.jpg" />
-  </programme>
   <programme start="20200705013001 -0400" stop="20200705100000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT // OFFLINE \\</title>
     <desc lang="en"></desc>
@@ -112,5 +64,29 @@
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+    <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Voices (2014)</title>
+    <desc lang="en">A likable guy pursues his office crush with the help of his evil talking pets, but things turn sinister when she stands him up for a date</desc>
+    <category lang="en">Comedy, Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ2NTkzOTAzMV5BMl5BanBnXkFtZTgwMzc2NTAwNDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
+    <title lang="en">River (2015)</title>
+    <desc lang="en">In the south of Laos, an American volunteer doctor becomes a fugitive after he intervenes in the sexual assault of a young woman. When the assailant's body is pulled from the Mekong River, things quickly spiral out of control</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2QxYzE5MTItOTQ3My00NjQ4LWJjODItZTVhZjY1YzFlMGI3XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SY1000_CR0,0,692,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
+    <title lang="en">Beast (2017)</title>
+    <desc lang="en">A troubled woman living in an isolated community finds herself pulled between the control of her oppressive family and the allure of a secretive outsider suspected of a series of brutal murders</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMWJhNTM1MWYtZTllNy00MDRhLTlmZGQtMWY5MmQwN2FjOGU2XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
+    <title lang="en">Drive (2011)</title>
+    <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
+    <category lang="en">crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
  </tv>
