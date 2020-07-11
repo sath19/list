@@ -5,13 +5,13 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200710230000 -0400" stop="20200711005900 -0400" channel="StayAtHome TV">
+  <programme start="20200710233000 -0400" stop="20200711012900 -0400" channel="StayAtHome TV">
     <title lang="en">The Mothman Prophecies (2002) 6.4</title>
     <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
     <category lang="en">Drama, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjVmNDNjYWYtNzk0Mi00ZTU4LTljNDYtNDczZDE4NGMzZmQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
-  <programme start="20200711005901 -0400" stop="20200711024300 -0400" channel="StayAtHome TV">
+  <programme start="20200711012901 -0400" stop="20200711031300 -0400" channel="StayAtHome TV">
     <title lang="en">The Others (2001) 7.6</title>
     <desc lang="en">A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted</desc>
     <category lang="en">Horror</category>
