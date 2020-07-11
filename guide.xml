@@ -5,10 +5,11 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="202007010230000 -0400" stop="202007011005900 -0400" channel="StayAtHome TV">
+  <programme start="20200710230000 -0400" stop="20200711005900 -0400" channel="StayAtHome TV">
     <title lang="en">The Mothman Prophecies (2002)</title>
     <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
     <category lang="en">Drama, Horror</category>
+	<rating>6.4</rating>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjVmNDNjYWYtNzk0Mi00ZTU4LTljNDYtNDczZDE4NGMzZmQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
   <programme start="20200711220000 -0400" stop="20200712010000 -0400" channel="StayAtHome TV">
