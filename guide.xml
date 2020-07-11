@@ -5,88 +5,30 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200705013001 -0400" stop="20200705100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200705100001 -0400" stop="20200705120000 -0400" channel="StayAtHome TV">
-    <title lang="en">Wreck-It Ralph (2012)</title>
-    <desc lang="en">A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives</desc>
-    <category lang="en">Animation, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200705120001 -0400" stop="20200705140000 -0400" channel="StayAtHome TV">
-    <title lang="en">A Million Ways to Die in the West (2014)</title>
-    <desc lang="en">As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his newly found courage to the test when her husband, a notorious gun-slinger, announces his arrival</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ0NDcyNjg0MV5BMl5BanBnXkFtZTgwMzk4NTA4MTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200705140001 -0400" stop="20200705160000 -0400" channel="StayAtHome TV">
-    <title lang="en">The World's End (2013)</title>
-    <desc lang="en">Five friends who reunite in an attempt to top their epic pub crawl from twenty years earlier unwittingly become humanity's only hope for survival</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200705210000 -0400" stop="20200705225400 -0400" channel="StayAtHome TV">
-    <title lang="en">The Secret Life of Walter Mitty (2013)</title>
-    <desc lang="en">When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he could have ever imagined</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200705225401 -0400" stop="20200706010700 -0400" channel="StayAtHome TV">
-    <title lang="en">The Fault in Our Stars (2014)</title>
-    <desc lang="en">Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA4NzkxNzc5Ml5BMl5BanBnXkFtZTgwNzQ3OTMxMTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200706010701 -0400" stop="20200706024900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Perks of Being a Wallflower (2012)</title>
-    <desc lang="en">An introvert freshman is taken under the wings of two seniors who welcome him to the real world</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200706024901 -0400" stop="20200706042900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Grand Budapest Hotel (2014)</title>
-    <desc lang="en">A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge</desc>
-    <category lang="en">Adventure, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
-    <title lang="en">TBD</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200706160001 -0400" stop="20200706170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-    <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Voices (2014)</title>
-    <desc lang="en">A likable guy pursues his office crush with the help of his evil talking pets, but things turn sinister when she stands him up for a date</desc>
-    <category lang="en">Comedy, Crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ2NTkzOTAzMV5BMl5BanBnXkFtZTgwMzc2NTAwNDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
-    <title lang="en">River (2015)</title>
-    <desc lang="en">In the south of Laos, an American volunteer doctor becomes a fugitive after he intervenes in the sexual assault of a young woman. When the assailant's body is pulled from the Mekong River, things quickly spiral out of control</desc>
-    <category lang="en">Thriller</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2QxYzE5MTItOTQ3My00NjQ4LWJjODItZTVhZjY1YzFlMGI3XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SY1000_CR0,0,692,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
-    <title lang="en">Beast (2017)</title>
-    <desc lang="en">A troubled woman living in an isolated community finds herself pulled between the control of her oppressive family and the allure of a secretive outsider suspected of a series of brutal murders</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMWJhNTM1MWYtZTllNy00MDRhLTlmZGQtMWY5MmQwN2FjOGU2XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200706042901 -0400" stop="20200706160000 -0400" channel="StayAtHome TV">
-    <title lang="en">Drive (2011)</title>
+  <programme start="202007010230000 -0400" stop="202007011005900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Mothman Prophecies (2002)</title>
     <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
-    <category lang="en">crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SY1000_SX675_AL_.jpg" />
+    <category lang="en">Drama, Horror</category>
+	<value>PG-13</value>
+	<rating>6.4</rating>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjVmNDNjYWYtNzk0Mi00ZTU4LTljNDYtNDczZDE4NGMzZmQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
+  </programme>
+  <programme start="20200711220000 -0400" stop="20200712010000 -0400" channel="StayAtHome TV">
+    <title lang="en">UFC 251</title>
+    <desc lang="en">UFC 251: Usman vs. Masvidal is a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on July 12, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates. It was originally planned to take place on June 6 at Perth Arena in Perth, Australia</desc>
+    <category lang="en">Live Event</category>
+    <icon src="https://www.insidesport.co/wp-content/uploads/2020/07/UFC-251-card-fights-2512597.jpg" />
+  </programme>
+  <programme start="20200712010001 -0400" stop="20200712100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT // OFFLINE \\</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200712100001 -0400" stop="20200712100010 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT // OFFLINE \\</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
  </tv>
