@@ -29,13 +29,43 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200711031301 -0400" stop="20200711045000 -0400" channel="StayAtHome TV">
-    <title lang="en">Filth (2013)</title>
-    <desc lang="en">A corrupt, junkie cop with bipolar disorder attempts to manipulate his way through a promotion in order to win back his wife and daughter while also fighting his own inner demons</desc>
+  <programme start="20200711110000 -0400" stop="20200711125000 -0400" channel="StayAtHome TV">
+    <title lang="en">You Don't Mess with the Zohan (2008)</title>
+    <desc lang="en">An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2NTgyMzM0NV5BMl5BanBnXkFtZTgwNzkwNDE1MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" />
   </programme>
-  <programme start="20200711220000 -0400" stop="20200712010000 -0400" channel="StayAtHome TV">
+  <programme start="20200711125001 -0400" stop="20200711143900 -0400" channel="StayAtHome TV">
+    <title lang="en">Geostorm (2017)</title>
+    <desc lang="en">When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg" />
+  </programme>
+  <programme start="20200711143901 -0400" stop="20200711163700 -0400" channel="StayAtHome TV">
+    <title lang="en">Tomb Raider (2018)</title>
+    <desc lang="en">Lara Croft (Alicia Vikander), the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft (Dominic West) disappeared</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg" />
+  </programme>
+  <programme start="20200711163701 -0400" stop="20200711182400 -0400" channel="StayAtHome TV">
+    <title lang="en">Rampage (2018)</title>
+    <desc lang="en">When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200711182401 -0400" stop="20200711201500 -0400" channel="StayAtHome TV">
+    <title lang="en">Pacific Rim: Uprising (2018)</title>
+    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg" />
+  </programme>
+  <programme start="20200711201501 -0400" stop="20200711220000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Predator (2018)</title>
+    <desc lang="en">When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200711220001 -0400" stop="20200712010000 -0400" channel="StayAtHome TV">
     <title lang="en">UFC 251</title>
     <desc lang="en">UFC 251: Usman vs. Masvidal is a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on July 12, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates. It was originally planned to take place on June 6 at Perth Arena in Perth, Australia</desc>
     <category lang="en">Live Event</category>
