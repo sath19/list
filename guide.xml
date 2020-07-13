@@ -125,8 +125,32 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200713170001 -0400" stop="20200713235959 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ MONDAY TBD //</title>
+  <programme start="20200713194500 -0400" stop="20200713211500 -0400" channel="StayAtHome TV">
+    <title lang="en">Gameplay (2014)</title>
+    <desc lang="en">The history of video games</desc>
+    <category lang="en"></category>
+    <icon src="hhttps://m.media-amazon.com/images/M/MV5BMjFhMDg4NDctZGYxNy00ODBlLWIwNzMtNGI4NDViYWJiNTMwXkEyXkFqcGdeQXVyMjg1OTU5Nzk@._V1_.jpg" />
+  </programme>
+  <programme start="20200713211501 -0400" stop="20200713232300 -0400" channel="StayAtHome TV">
+    <title lang="en">42 (2013)</title>
+    <desc lang="en">In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process</desc>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200713232301 -0400" stop="20200714011600 -0400" channel="StayAtHome TV">
+    <title lang="en">Baby Driver (2017)</title>
+    <desc lang="en">After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_.jpg" />
+  </programme>
+  <programme start="20200714011601 -0400" stop="20200714140000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OVERNIGHT REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200714140001 -0400" stop="20200714150000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
