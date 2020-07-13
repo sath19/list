@@ -113,13 +113,7 @@
     <category lang="en">Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
   </programme>
-  <programme start="20200712224501 -0400" stop="20200713010200 -0400" channel="StayAtHome TV">
-    <title lang="en">Fast & Furious Presents: Hobbs & Shaw (2019)</title>
-    <desc lang="en">Lawman Luke Hobbs (Dwayne "The Rock" Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200713010201 -0400" stop="20200713100000 -0400" channel="StayAtHome TV">
+  <programme start="20200712224501 -0400" stop="20200713100000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ OVERNIGHT REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
