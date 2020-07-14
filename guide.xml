@@ -149,7 +149,43 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200714140001 -0400" stop="20200714150000 -0400" channel="StayAtHome TV">
+  <programme start="20200714140001 -0400" stop="20200714170000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200714170001 -0400" stop="20200714184000 -0400" channel="StayAtHome TV">
+    <title lang="en">Drive (2011)</title>
+    <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UY405_.jpg" />
+  </programme>
+  <programme start="20200714184001 -0400" stop="20200714201700 -0400" channel="StayAtHome TV">
+    <title lang="en">Hardcore Henry (2015)</title>
+    <desc lang="en">Henry is resurrected from death with no memory, and he must save his wife from a telekinetic warlord with a plan to bio-engineer soldiers</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1_UY215_.jpg" />
+  </programme>
+  <programme start="20200714201701 -0400" stop="20200714221900 -0400" channel="StayAtHome TV">
+    <title lang="en">Black Mass (2015)</title>
+    <desc lang="en">The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_UY215_.jpg" />
+  </programme>
+  <programme start="20200714221901 -0400" stop="20200715001600 -0400" channel="StayAtHome TV">
+    <title lang="en">Arrival (2016)</title>
+    <desc lang="en">A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UY204_.jpg" />
+  </programme>
+  <programme start="20200715001601 -0400" stop="20200715100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OVERNIGHT REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200715100001 -0400" stop="20200715160000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ OFFLINE //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
