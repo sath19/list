@@ -191,4 +191,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200716183000 -0400" stop="20200716194500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Pagemaster (1994)</title>
+    <desc lang="en">A cowardly boy, who buries himself in accident statistics, enters a library to escape a storm, only to be transformed into an animated illustration by the Pagemaster. He has to work through obstacles from classic books to return to real-life</desc>
+    <category lang="en">Animation</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjY1NjRjZjEtYjNhNS00YzY5LThjMGQtYmE0OTE3MGFiM2MyXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_UY215_.jpg" />
+  </programme>
+  <programme start="20200716194501 -0400" stop="20200716215100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Motorcycle Diaries (2004)</title>
+    <desc lang="en">The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTNmZTgyMzAtMTUwZC00NjAwLTk4MjktODllYTY5YTUwN2YwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY211_.jpg" />
+  </programme>
+  <programme start="20200716215101 -0400" stop="20200716234500 -0400" channel="StayAtHome TV">
+    <title lang="en">City Slickers (1991)</title>
+    <desc lang="en">On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkwNjM2MTc5NF5BMl5BanBnXkFtZTcwMzQ2NjEzNA@@._V1_UY213_.jpg" />
+  </programme>
+  <programme start="20200716234501 -0400" stop="20200717012100 -0400" channel="StayAtHome TV">
+    <title lang="en">Swingers (1996)</title>
+    <desc lang="en">A wannabe actor has a hard time moving on from a break-up, but he is lucky to have supportive friends</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjg1ZmViMmEtYzIxNi00MzJlLTk4MDktNTE2ZDkwMzEyMjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY216_.jpg" />
+  </programme>
+  <programme start="20200717012101 -0400" stop="20200717100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OVERNIGHT REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200717100001 -0400" stop="20200717160000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
