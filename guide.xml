@@ -304,5 +304,41 @@
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>  
+  </programme>
+  <programme start="20200722184200 -0400" stop="20200722203800 -0400" channel="StayAtHome TV">
+    <title lang="en">War of the Worlds (2005)</title>
+    <desc lang="en">As Earth is invaded by alien tripod fighting machines, one family fights for survival in this sci-fi action film</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_UY216_.jpg" />
+  </programme>
+  <programme start="20200722203801 -0400" stop="20200722220800 -0400" channel="StayAtHome TV">
+    <title lang="en">Don Jon (2013)</title>
+    <desc lang="en">A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxNTc3NDM2MF5BMl5BanBnXkFtZTcwNzQ5NTQ3OQ@@._V1_UY207_.jpg" />
+  </programme>
+  <programme start="20200722220801 -0400" stop="20200723002100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Ballad of Buster Scruggs (2018)</title>
+    <desc lang="en">Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY216_.jpg" />
+  </programme>
+  <programme start="20200723002101 -0400" stop="20200723020400 -0400" channel="StayAtHome TV">
+    <title lang="en">Kick-Ass 2 (2013)</title>
+    <desc lang="en">Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders. But Red Mist leads his own group of evil supervillains to get revenge, kill Kick-Ass and destroy everything he stands for</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1_UY413_.jpg" />
+  </programme>
+  <programme start="20200723020401 -0400" stop="20200723100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200723100001 -0400" stop="20200723160000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
