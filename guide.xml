@@ -341,4 +341,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200723184430 -0400" stop="20200723204500 -0400" channel="StayAtHome TV">
+    <title lang="en">Dragon: The Bruce Lee Story (1993)</title>
+    <desc lang="en">A fictionalized account of the life of the martial arts superstar</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA1MTQxNzAtM2MyOC00NDBhLWFlNmEtOWZlM2E5MjNlODU2XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_UY322_.jpg" />
+  </programme>
+  <programme start="20200723204501 -0400" stop="20200723222000 -0400" channel="StayAtHome TV">
+    <title lang="en">Mighty Morphin Power Rangers: The Movie (1995)</title>
+    <desc lang="en">A giant egg is unearthed at a construction site and soon opened, releasing the terrible Ivan Ooze, who wreaks vengeance on Zordon for imprisoning him millennia ago. With Zordon dying and their powers lost, the Rangers head to a distant planet to find the mystic warrior Dulcea</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY321_.jpg" />
+  </programme>
+  <programme start="20200723222001 -0400" stop="20200724000300 -0400" channel="StayAtHome TV">
+    <title lang="en">RoboCop (1987)</title>
+    <desc lang="en">In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY309_.jpg" />
+  </programme>
+  <programme start="20200724000301 -0400" stop="20200724014800 -0400" channel="StayAtHome TV">
+    <title lang="en">Re-Animator (1985)</title>
+    <desc lang="en">After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDRjNjRlNmYtZGVkOS00ODA1LWFmMTEtZmY1MWY5ZGM5OWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY383_.jpg" />
+  </programme>
+  <programme start="20200724014801 -0400" stop="20200724100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200724100001 -0400" stop="20200724180000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
