@@ -395,4 +395,70 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200726122700 -0400" stop="20200726130800 -0400" channel="StayAtHome TV">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">2 episodes</desc>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UY320_.jpg" />
+  </programme>
+  <programme start="20200726130801 -0400" stop="20200726144700 -0400" channel="StayAtHome TV">
+    <title lang="en">Sonic the Hedgehog (2020)</title>
+    <desc lang="en">After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UY320_.jpg" />
+  </programme>
+  <programme start="20200726144701 -0400" stop="20200726163500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Way Back (2020)</title>
+    <desc lang="en">Jack Cunningham was an HS basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjBjMTgyYzktN2U0Mi00YTJhLThkZDQtZmM1ZDlmNWMwZDQ3XkEyXkFqcGdeQXVyMDU5MDEyMA@@._V1_UY324_.jpg" />
+  </programme>
+  <programme start="20200726163501 -0400" stop="20200726184700 -0400" channel="StayAtHome TV">
+    <title lang="en">Queen & Slim (2019)</title>
+    <desc lang="en">A couple's first date takes an unexpected turn when a police officer pulls them over</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY405_.jpg" />
+  </programme>
+  <programme start="20200726184701 -0400" stop="20200726201800 -0400" channel="StayAtHome TV">
+    <title lang="en">The Night Clerk (2020)</title>
+    <desc lang="en">Voyeuristic hotel clerk becomes the subject of a murder investigation</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTVjZGM0NTQtMDcyYi00Mzk5LTkyN2MtNWQxZjczMGIwOTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY400_.jpg" />
+  </programme>
+  <programme start="20200726201801 -0400" stop="20200726214400 -0400" channel="StayAtHome TV">
+    <title lang="en">Downhill (2020)</title>
+    <desc lang="en">Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2QxMWFlOTktNWY0Mi00MDQ5LWExMTYtNThjZTFhNGZkZjk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY400_.jpg" />
+  </programme>
+  <programme start="20200726214400 -0400" stop="20200726222500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">2 episodes</desc>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UY320_.jpg" />
+  </programme>
+  <programme start="20200726222501 -0400" stop="20200727000400 -0400" channel="StayAtHome TV">
+    <title lang="en">Sonic the Hedgehog (2020)</title>
+    <desc lang="en">After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UY320_.jpg" />
+  </programme>
+  <programme start="20200727000401 -0400" stop="20200727015200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Way Back (2020)</title>
+    <desc lang="en">Jack Cunningham was an HS basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjBjMTgyYzktN2U0Mi00YTJhLThkZDQtZmM1ZDlmNWMwZDQ3XkEyXkFqcGdeQXVyMDU5MDEyMA@@._V1_UY324_.jpg" />
+  </programme>
+  <programme start="20200727015201 -0400" stop="20200727040500 -0400" channel="StayAtHome TV">
+    <title lang="en">Queen & Slim (2019)</title>
+    <desc lang="en">A couple's first date takes an unexpected turn when a police officer pulls them over</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY405_.jpg" />
+  </programme>
+  <programme start="20200727040501 -0400" stop="20200727120000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
