@@ -461,4 +461,10 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200727175000 -0400" stop="20200727190000 -0400" channel="StayAtHome TV">
+    <title lang="en">A State of Trance Radio</title>
+    <desc lang="en">ASOT</desc>
+    <category lang="en">Trance</category>
+    <icon src="https://edmidentity.com/wp-content/uploads/2016/12/ASOT_Logo.jpg" />
+  </programme>
  </tv>
