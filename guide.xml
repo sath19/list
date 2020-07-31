@@ -497,4 +497,28 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200731191800 -0400" stop="20200731205400 -0400" channel="StayAtHome TV">
+    <title lang="en">We Are Your Friends (2015)</title>
+    <desc lang="en">Caught between a forbidden romance and the expectations of his friends, aspiring DJ Cole Carter attempts to find the path in life that leads to fame and fortune</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2NjIxODUxNF5BMl5BanBnXkFtZTgwMjI1MzM1NjE@._V1_.jpg" />
+  </programme>
+  <programme start="20200731205401 -0400" stop="20200731232300 -0400" channel="StayAtHome TV">
+    <title lang="en">X-Men: Days of Future Past (2014)</title>
+    <desc lang="en">The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200731232301 -0400" stop="20200801014600 -0400" channel="StayAtHome TV">
+    <title lang="en">X-Men: Apocalypse (2016)</title>
+    <desc lang="en">In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  </programme>
+   <programme start="20200801014601 -0400" stop="20200801100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
