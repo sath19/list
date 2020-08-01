@@ -5,366 +5,6 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200710233000 -0400" stop="20200711012900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Mothman Prophecies (2002) 6.4</title>
-    <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
-    <category lang="en">Drama, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjVmNDNjYWYtNzk0Mi00ZTU4LTljNDYtNDczZDE4NGMzZmQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
-  </programme>
-  <programme start="20200711012901 -0400" stop="20200711031300 -0400" channel="StayAtHome TV">
-    <title lang="en">The Others (2001) 7.6</title>
-    <desc lang="en">A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_SY1000_CR0,0,681,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200711031301 -0400" stop="20200711045000 -0400" channel="StayAtHome TV">
-    <title lang="en">Filth (2013)</title>
-    <desc lang="en">A corrupt, junkie cop with bipolar disorder attempts to manipulate his way through a promotion in order to win back his wife and daughter while also fighting his own inner demons</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE2NTgyMzM0NV5BMl5BanBnXkFtZTgwNzkwNDE1MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200711045001 -0400" stop="20200711090000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200711110000 -0400" stop="20200711125000 -0400" channel="StayAtHome TV">
-    <title lang="en">You Don't Mess with the Zohan (2008)</title>
-    <desc lang="en">An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" />
-  </programme>
-  <programme start="20200711125001 -0400" stop="20200711143900 -0400" channel="StayAtHome TV">
-    <title lang="en">Geostorm (2017)</title>
-    <desc lang="en">When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg" />
-  </programme>
-  <programme start="20200711143901 -0400" stop="20200711163700 -0400" channel="StayAtHome TV">
-    <title lang="en">Tomb Raider (2018)</title>
-    <desc lang="en">Lara Croft (Alicia Vikander), the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft (Dominic West) disappeared</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg" />
-  </programme>
-  <programme start="20200711163701 -0400" stop="20200711182400 -0400" channel="StayAtHome TV">
-    <title lang="en">Rampage (2018)</title>
-    <desc lang="en">When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200711182401 -0400" stop="20200711201500 -0400" channel="StayAtHome TV">
-    <title lang="en">Pacific Rim: Uprising (2018)</title>
-    <desc lang="en">Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg" />
-  </programme>
-  <programme start="20200711201501 -0400" stop="20200711220000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Predator (2018)</title>
-    <desc lang="en">When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200711220001 -0400" stop="20200712010000 -0400" channel="StayAtHome TV">
-    <title lang="en">UFC 251</title>
-    <desc lang="en">UFC 251: Usman vs. Masvidal is a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on July 12, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates. It was originally planned to take place on June 6 at Perth Arena in Perth, Australia</desc>
-    <category lang="en">Live Event</category>
-    <icon src="https://www.insidesport.co/wp-content/uploads/2020/07/UFC-251-card-fights-2512597.jpg" />
-  </programme>
-  <programme start="20200712010001 -0400" stop="20200712100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200712100001 -0400" stop="20200712100010 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT // OFFLINE \\</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200712120000 -0400" stop="20200712134700 -0400" channel="StayAtHome TV">
-    <title lang="en">Fast & Furious (2009)</title>
-    <desc lang="en">Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200712134701 -0400" stop="20200712155800 -0400" channel="StayAtHome TV">
-    <title lang="en">Fast Five (2011)</title>
-    <desc lang="en">Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200712155801 -0400" stop="20200712180900 -0400" channel="StayAtHome TV">
-    <title lang="en">Fast & Furious 6 (2013)</title>
-    <desc lang="en">Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200712180901 -0400" stop="20200712202900 -0400" channel="StayAtHome TV">
-    <title lang="en">Furious 7 (2015)</title>
-    <desc lang="en">Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200712202901 -0400" stop="20200712224500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Fate of the Furious (2017)</title>
-    <desc lang="en">When a mysterious woman seduces Dominic Toretto into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200712224501 -0400" stop="20200713100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OVERNIGHT REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200713100001 -0400" stop="20200713170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200713194500 -0400" stop="20200713211500 -0400" channel="StayAtHome TV">
-    <title lang="en">Gameplay (2014)</title>
-    <desc lang="en">The history of video games</desc>
-    <category lang="en"></category>
-    <icon src="hhttps://m.media-amazon.com/images/M/MV5BMjFhMDg4NDctZGYxNy00ODBlLWIwNzMtNGI4NDViYWJiNTMwXkEyXkFqcGdeQXVyMjg1OTU5Nzk@._V1_.jpg" />
-  </programme>
-  <programme start="20200713211501 -0400" stop="20200713232300 -0400" channel="StayAtHome TV">
-    <title lang="en">42 (2013)</title>
-    <desc lang="en">In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process</desc>
-    <category lang="en"></category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200713232301 -0400" stop="20200714011600 -0400" channel="StayAtHome TV">
-    <title lang="en">Baby Driver (2017)</title>
-    <desc lang="en">After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_.jpg" />
-  </programme>
-  <programme start="20200714011601 -0400" stop="20200714140000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OVERNIGHT REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200714140001 -0400" stop="20200714170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200714170001 -0400" stop="20200714184000 -0400" channel="StayAtHome TV">
-    <title lang="en">Drive (2011)</title>
-    <desc lang="en">A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UY405_.jpg" />
-  </programme>
-  <programme start="20200714184001 -0400" stop="20200714201700 -0400" channel="StayAtHome TV">
-    <title lang="en">Hardcore Henry (2015)</title>
-    <desc lang="en">Henry is resurrected from death with no memory, and he must save his wife from a telekinetic warlord with a plan to bio-engineer soldiers</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1_UY215_.jpg" />
-  </programme>
-  <programme start="20200714201701 -0400" stop="20200714221900 -0400" channel="StayAtHome TV">
-    <title lang="en">Black Mass (2015)</title>
-    <desc lang="en">The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_UY215_.jpg" />
-  </programme>
-  <programme start="20200714221901 -0400" stop="20200715001600 -0400" channel="StayAtHome TV">
-    <title lang="en">Arrival (2016)</title>
-    <desc lang="en">A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UY204_.jpg" />
-  </programme>
-  <programme start="20200715001601 -0400" stop="20200715100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OVERNIGHT REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200715100001 -0400" stop="20200715160000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200716183000 -0400" stop="20200716194500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Pagemaster (1994)</title>
-    <desc lang="en">A cowardly boy, who buries himself in accident statistics, enters a library to escape a storm, only to be transformed into an animated illustration by the Pagemaster. He has to work through obstacles from classic books to return to real-life</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjY1NjRjZjEtYjNhNS00YzY5LThjMGQtYmE0OTE3MGFiM2MyXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_UY215_.jpg" />
-  </programme>
-  <programme start="20200716194501 -0400" stop="20200716215100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Motorcycle Diaries (2004)</title>
-    <desc lang="en">The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTNmZTgyMzAtMTUwZC00NjAwLTk4MjktODllYTY5YTUwN2YwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY211_.jpg" />
-  </programme>
-  <programme start="20200716215101 -0400" stop="20200716234500 -0400" channel="StayAtHome TV">
-    <title lang="en">City Slickers (1991)</title>
-    <desc lang="en">On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkwNjM2MTc5NF5BMl5BanBnXkFtZTcwMzQ2NjEzNA@@._V1_UY213_.jpg" />
-  </programme>
-  <programme start="20200716234501 -0400" stop="20200717012100 -0400" channel="StayAtHome TV">
-    <title lang="en">Swingers (1996)</title>
-    <desc lang="en">A wannabe actor has a hard time moving on from a break-up, but he is lucky to have supportive friends</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjg1ZmViMmEtYzIxNi00MzJlLTk4MDktNTE2ZDkwMzEyMjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY216_.jpg" />
-  </programme>
-  <programme start="20200717012101 -0400" stop="20200717100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OVERNIGHT REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200717100001 -0400" stop="20200717160000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200719090000 -0400" stop="20200719104200 -0400" channel="StayAtHome TV">
-    <title lang="en">Spies in Disguise (2019)</title>
-    <desc lang="en">When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY324_.jpg" />
-  </programme>
-  <programme start="20200719104201 -0400" stop="20200719122400 -0400" channel="StayAtHome TV">
-    <title lang="en">Onward (2020)</title>
-    <desc lang="en">Two elven brothers embark on a quest to bring their father back for one day</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY323_.jpg" />
-  </programme>
-  <programme start="20200719122401 -0400" stop="20200719134800 -0400" channel="StayAtHome TV">
-    <title lang="en">Like a Boss (2020)</title>
-    <desc lang="en">Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjAyZDRjMjQtODE3MC00ODI2LTgxODktZThjYTgzZDE5NTc4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY405_.jpg" />
-  </programme>
-  <programme start="20200719134801 -0400" stop="20200719153600 -0400" channel="StayAtHome TV">
-    <title lang="en">Sea Fever (2019)</title>
-    <desc lang="en">The crew of a West of Ireland trawler, marooned at sea, struggle for their lives against a growing parasite in their water supply</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjMyMTZhOTgtNTM0NS00MzAzLWI4YjMtMmQ2MDk4NjkwYWI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY407_.jpg" />
-  </programme>
-  <programme start="20200719153601 -0400" stop="20200719174600 -0400" channel="StayAtHome TV">
-    <title lang="en">Knives Out (2019)</title>
-    <desc lang="en">A detective investigates the death of a patriarch of an eccentric, combative family</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UY405_.jpg" />
-  </programme>
-  <programme start="20200719174601 -0400" stop="20200719192700 -0400" channel="StayAtHome TV">
-    <title lang="en">Dolittle (2020)</title>
-    <desc lang="en">A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY405_.jpg" />
-  </programme>
-  <programme start="20200719192701 -0400" stop="20200719210200 -0400" channel="StayAtHome TV">
-    <title lang="en">Underwater (2020)</title>
-    <desc lang="en">A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzM0OGZiZWItYmZiNC00NDgzLTg1MjMtYjM4MWZhOGZhMDUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY376_.jpg" />
-  </programme>
-  <programme start="20200719210201 -0400" stop="20200719230700 -0400" channel="StayAtHome TV">
-    <title lang="en">The Invisible Man (2020)</title>
-    <desc lang="en">When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY378_.jpg" />
-  </programme>
-  <programme start="20200719230701 -0400" stop="20200720003800 -0400" channel="StayAtHome TV">
-    <title lang="en">Greyhound (2020)</title>
-    <desc lang="en">Early in World War II, an inexperienced U.S. Navy captain must lead an Allied convoy being stalked by Nazi U-boat wolfpacks</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY400_.jpg" />
-  </programme>
-  <programme start="20200720003801 -0400" stop="20200720022000 -0400" channel="StayAtHome TV">
-    <title lang="en">Spies in Disguise (2019)</title>
-    <desc lang="en">When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY324_.jpg" />
-  </programme>
-  <programme start="20200720022001 -0400" stop="20200720040200 -0400" channel="StayAtHome TV">
-    <title lang="en">Onward (2020)</title>
-    <desc lang="en">Two elven brothers embark on a quest to bring their father back for one day</desc>
-    <category lang="en">Animation</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY323_.jpg" />
-  </programme>
-  <programme start="20200720040201 -0400" stop="20200720090000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OVERNIGHT REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200720090001 -0400" stop="20200720170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200722184200 -0400" stop="20200722203800 -0400" channel="StayAtHome TV">
-    <title lang="en">War of the Worlds (2005)</title>
-    <desc lang="en">As Earth is invaded by alien tripod fighting machines, one family fights for survival in this sci-fi action film</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_UY216_.jpg" />
-  </programme>
-  <programme start="20200722203801 -0400" stop="20200722220800 -0400" channel="StayAtHome TV">
-    <title lang="en">Don Jon (2013)</title>
-    <desc lang="en">A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxNTc3NDM2MF5BMl5BanBnXkFtZTcwNzQ5NTQ3OQ@@._V1_UY207_.jpg" />
-  </programme>
-  <programme start="20200722220801 -0400" stop="20200723002100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Ballad of Buster Scruggs (2018)</title>
-    <desc lang="en">Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY216_.jpg" />
-  </programme>
-  <programme start="20200723002101 -0400" stop="20200723020400 -0400" channel="StayAtHome TV">
-    <title lang="en">Kick-Ass 2 (2013)</title>
-    <desc lang="en">Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders. But Red Mist leads his own group of evil supervillains to get revenge, kill Kick-Ass and destroy everything he stands for</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1_UY413_.jpg" />
-  </programme>
-  <programme start="20200723020401 -0400" stop="20200723100000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200723100001 -0400" stop="20200723160000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200723184430 -0400" stop="20200723204500 -0400" channel="StayAtHome TV">
-    <title lang="en">Dragon: The Bruce Lee Story (1993)</title>
-    <desc lang="en">A fictionalized account of the life of the martial arts superstar</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA1MTQxNzAtM2MyOC00NDBhLWFlNmEtOWZlM2E5MjNlODU2XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_UY322_.jpg" />
-  </programme>
-  <programme start="20200723204501 -0400" stop="20200723222000 -0400" channel="StayAtHome TV">
-    <title lang="en">Mighty Morphin Power Rangers: The Movie (1995)</title>
-    <desc lang="en">A giant egg is unearthed at a construction site and soon opened, releasing the terrible Ivan Ooze, who wreaks vengeance on Zordon for imprisoning him millennia ago. With Zordon dying and their powers lost, the Rangers head to a distant planet to find the mystic warrior Dulcea</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY321_.jpg" />
-  </programme>
-  <programme start="20200723222001 -0400" stop="20200724000300 -0400" channel="StayAtHome TV">
-    <title lang="en">RoboCop (1987)</title>
-    <desc lang="en">In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY309_.jpg" />
-  </programme>
-  <programme start="20200724000301 -0400" stop="20200724014800 -0400" channel="StayAtHome TV">
-    <title lang="en">Re-Animator (1985)</title>
-    <desc lang="en">After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDRjNjRlNmYtZGVkOS00ODA1LWFmMTEtZmY1MWY5ZGM5OWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY383_.jpg" />
-  </programme>
   <programme start="20200724014801 -0400" stop="20200724100000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
@@ -515,7 +155,49 @@
     <category lang="en">Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
   </programme>
-   <programme start="20200801014601 -0400" stop="20200801100000 -0400" channel="StayAtHome TV">
+  <programme start="20200801014601 -0400" stop="20200801100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200801183000 -0400" stop="20200801200000 -0400" channel="StayAtHome TV">
+    <title lang="en">This Is the End (2013)</title>
+    <desc lang="en">Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200801200001 -0400" stop="20200801214000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Grand Budapest Hotel (2014)</title>
+    <desc lang="en">A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200801214001 -0400" stop="20200801231000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Hunt (2020)</title>
+    <desc lang="en">Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt</desc>
+    <category lang="en">Action, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200801231001 -0400" stop="20200802003400 -0400" channel="StayAtHome TV">
+    <title lang="en">Tigers Are Not Afraid (2017)</title>
+    <desc lang="en">A dark fairy tale about a gang of five children trying to survive the horrific violence of the cartels and the ghosts created every day by the drug war</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMyN2Q5ODYtMWI3OC00NjBjLWIyYTItNGE5NGJiYzI4NjNjXkEyXkFqcGdeQXVyNDc3MzM3MQ@@._V1_.jpg" />
+  </programme>
+  <programme start="20200802003401 -0400" stop="20200802022800 -0400" channel="StayAtHome TV">
+    <title lang="en">The Goonies (1985)</title>
+    <desc lang="en">A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODRlMjRkZGEtZWM2Zi00ZjYxLWE0MWUtMmM1YWM2NzZlOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802022801 -0400" stop="20200802100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200802100001 -0400" stop="20200802120000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
