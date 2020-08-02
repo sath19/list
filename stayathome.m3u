@@ -8,14 +8,6 @@ https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 #EXTINF:0 tvg-name="BBC4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/003
-#EXTINF:0 tvg-name="Channel 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_london.jpg" group-title="",Channel 4
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
-#EXTINF:0 tvg-name="E4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/e4_uk.jpg" group-title="",E4 (UK)
-http://145.239.255.4:8080/E4/mono.m3u8?token=test
-#EXTINF:0 tvg-name="Channel 5" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2013/02/channel_5_logo.jpg" group-title="",Channel 5 (UK)
-http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
-#EXTINF:0 tvg-name="POP" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/pop_uk.jpg" group-title="",POP Kids (UK)
-http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
 #EXTINF:0 tvg-name="Djing HD" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="",Djing HD
