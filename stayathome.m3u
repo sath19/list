@@ -9,6 +9,7 @@ https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-name="Redbox Filmrise" tvg-logo="https://moneyinc.com/wp-content/uploads/2018/11/Redbox-2.jpg" group-title="",Redbox Filmrise
+#EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
