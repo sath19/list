@@ -5,16 +5,7 @@ rtmp://freetime.ignorelist.com/live/sath
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:0 tvg-name="CBC (Toronto)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_toronto.jpg" group-title="",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:0 tvg-name="Bravo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bravo_us.jpg" group-title="",Bravo
-#EXTVLCOPT:network-caching=1000
-http://163.172.213.234:80/live/Bravo/playlist.m3u8
-#EXTINF:0 tvg-name="TLC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="",TLC
-#EXTVLCOPT:network-caching=1000
-http://163.172.213.234/live/TLC/playlist.m3u8
-#EXTINF:0 tvg-name="AMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us_hd.jpg" group-title="",AMC
-#EXTVLCOPT:network-caching=1000
-http://thenew.tv:8000/live/Dante/Dante1/164296.m3u8
-#EXTINF:0 tvg-name="BBC4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4 Backup
+#EXTINF:0 tvg-name="BBC4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_four_uk.jpg" group-title="",BBC4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/003
 #EXTINF:0 tvg-name="Channel 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/channel4_london.jpg" group-title="",Channel 4
