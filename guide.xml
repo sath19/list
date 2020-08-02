@@ -215,4 +215,34 @@
     <category lang="en">Animation</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjJmOTdhOTMtNTM2Ny00MTNlLWI3ZDUtZDA1YTg0YWNmMDU4XkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_SY1000_SX712_AL_.jpg" />
   </programme>
+  <programme start="20200802144201 -0400" stop="20200802165200 -0400" channel="StayAtHome TV">
+    <title lang="en">Knives Out (2019)</title>
+    <desc lang="en">A detective investigates the death of a patriarch of an eccentric, combative family</desc>
+    <category lang="en">Comedy, Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200802165201 -0400" stop="20200802190900 -0400" channel="StayAtHome TV">
+    <title lang="en">The King of Staten Island (2020)</title>
+    <desc lang="en">Scott has been a case of arrested development since his firefighter dad died. He spends his days smoking weed and dreaming of being a tattoo artist until events force him to grapple with his grief and take his first steps forward in life</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802190901 -0400" stop="20200802204400 -0400" channel="StayAtHome TV">
+    <title lang="en">Tully (2018)</title>
+    <desc lang="en">A struggling mother of three forms an unexpected bond with the night nanny hired to help with her newborn baby</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802204401 -0400" stop="20200802225900 -0400" channel="StayAtHome TV">
+    <title lang="en">BlacKkKlansman (2018)</title>
+    <desc lang="en">Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802225901 -0400" stop="20200803090000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
