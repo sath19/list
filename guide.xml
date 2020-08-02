@@ -191,16 +191,28 @@
     <category lang="en">Adventure</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BODRlMjRkZGEtZWM2Zi00ZjYxLWE0MWUtMmM1YWM2NzZlOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg" />
   </programme>
-  <programme start="20200802022801 -0400" stop="20200802100000 -0400" channel="StayAtHome TV">
+  <programme start="20200802022801 -0400" stop="20200802092200 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200802100001 -0400" stop="20200802120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  <programme start="20200802092201 -0400" stop="20200802110300 -0400" channel="StayAtHome TV">
+    <title lang="en">Finding Nemo (2003)</title>
+    <desc lang="en">After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home</desc>
+    <category lang="en">Animation</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,671,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802110301 -0400" stop="20200802130500 -0400" channel="StayAtHome TV">
+    <title lang="en">Alita: Battle Angel (2019)</title>
+    <desc lang="en">A deactivated cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200802130501 -0400" stop="20200802144200 -0400" channel="StayAtHome TV">
+    <title lang="en">Snatchers (2019)</title>
+    <desc lang="en">After status-obsessed teen Sara has sex for the first time, she wakes up the next day nine months pregnant-with an alien</desc>
+    <category lang="en">Animation</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjJmOTdhOTMtNTM2Ny00MTNlLWI3ZDUtZDA1YTg0YWNmMDU4XkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_SY1000_SX712_AL_.jpg" />
   </programme>
  </tv>
