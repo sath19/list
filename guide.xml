@@ -240,6 +240,60 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
   <programme start="20200802225901 -0400" stop="20200803090000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200803080000 -0400" stop="20200803093000 -0400" channel="StayAtHome TV">
+    <title lang="en">Shrek (2001)</title>
+    <desc lang="en">A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,671,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200803093001 -0400" stop="20200803112400 -0400" channel="StayAtHome TV">
+    <title lang="en">The Goonies (1985)</title>
+    <desc lang="en">A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODRlMjRkZGEtZWM2Zi00ZjYxLWE0MWUtMmM1YWM2NzZlOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200803112401 -0400" stop="20200803133100 -0400" channel="StayAtHome TV">
+    <title lang="en">Big (1988)</title>
+    <desc lang="en">After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDQ1ODM5MTMtMjAwYi00ZGUxLTliNTMtN2ZhODAwMjVhMTRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,682,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200803133101 -0400" stop="20200803152500 -0400" channel="StayAtHome TV">
+    <title lang="en">Back to the Future (1985)</title>
+    <desc lang="en">Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200803152501 -0400" stop="20200803171500 -0400" channel="StayAtHome TV">
+    <title lang="en">Back to the Future Part II (1989)</title>
+    <desc lang="en">After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
+  </programme>
+  <programme start="20200803171501 -0400" stop="20200803193000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Matrix (1999)</title>
+    <desc lang="en">A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200803193001 -0400" stop="20200803220000 -0400" channel="StayAtHome TV">
+    <title lang="en">Terminator 2: Judgment Day DC Remastered (1991)</title>
+    <desc lang="en">A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY999_CR0,0,672,999_AL_.jpg" />
+  </programme>
+  <programme start="20200803220001 -0400" stop="20200804000000 -0400" channel="StayAtHome TV">
+    <title lang="en">Guardians of the Galaxy (2014)</title>
+    <desc lang="en">A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200804000001 -0400" stop="20200804160000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
