@@ -293,10 +293,40 @@
     <category lang="en">Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200804003001 -0400" stop="20200804160000 -0400" channel="StayAtHome TV">
+  <programme start="20200804003001 -0400" stop="20200803095459 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200803095500 -0400" stop="20200804131500 -0400" channel="StayAtHome TV">
+    <title lang="en">King Kong (2005)</title>
+    <desc lang="en">A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200804131501 -0400" stop="20200804152200 -0400" channel="StayAtHome TV">
+    <title lang="en">Jurassic Park (1993)</title>
+    <desc lang="en">A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg" />
+  </programme>
+  <programme start="20200804152201 -0400" stop="20200804170000 -0400" channel="StayAtHome TV">
+    <title lang="en">TIFF Tuesday</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
+  </programme>
+  <programme start="20200804170001 -0400" stop="20200804182900 -0400" channel="StayAtHome TV">
+    <title lang="en">Blair Witch (2016)</title>
+    <desc lang="en">After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_SY1000_CR0,0,648,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200804182901 -0400" stop="20200804235959 -0400" channel="StayAtHome TV">
+    <title lang="en">TIFF Tuesday TBD</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
   </programme>
  </tv>
