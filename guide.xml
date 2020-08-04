@@ -317,13 +317,25 @@
     <category lang="en"></category>
     <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
   </programme>
-  <programme start="20200804170001 -0400" stop="20200804182900 -0400" channel="StayAtHome TV">
+  <programme start="20200804183000 -0400" stop="20200804200000 -0400" channel="StayAtHome TV">
     <title lang="en">Blair Witch (2016)</title>
     <desc lang="en">After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head to the forest believed to be inhabited by the Blair Witch</desc>
     <category lang="en">Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_SY1000_CR0,0,648,1000_AL_.jpg" />
   </programme>
-  <programme start="20200804182901 -0400" stop="20200804235959 -0400" channel="StayAtHome TV">
+  <programme start="20200804200001 -0400" stop="20200804225959 -0400" channel="StayAtHome TV">
+    <title lang="en">Cloud Atlas (2012)</title>
+    <desc lang="en">An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200804230000 -0400" stop="20200805003000 -0400" channel="StayAtHome TV">
+    <title lang="en">Anomalisa (2015)</title>
+    <desc lang="en">A man crippled by the mundanity of his life experiences something out of the ordinary</desc>
+    <category lang="en">Animation, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_.jpg" />
+  </programme>
+  <programme start="20200805003001 -0400" stop="20200805125959 -0400" channel="StayAtHome TV">
     <title lang="en">TIFF Tuesday TBD</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
