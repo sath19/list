@@ -341,4 +341,22 @@
     <category lang="en"></category>
     <icon src="https://ebosscanada.com/wp-content/uploads/2019/08/TIFF-Logo_02aa.jpg" />
   </programme>
+  <programme start="20200805191500 -0400" stop="20200805213300 -0400" channel="StayAtHome TV">
+    <title lang="en">Noah (2014)</title>
+    <desc lang="en">Noah is chosen by God to undertake a momentous mission before an apocalyptic flood cleanses the world</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200805213301 -0400" stop="20200805234500 -0400" channel="StayAtHome TV">
+    <title lang="en">V for Vendetta (2005)</title>
+    <desc lang="en">In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200805234501 -0400" stop="20200806120000 -0400" channel="StayAtHome TV">
+    <title lang="en">Throwback Thursday</title>
+    <desc lang="en">Old is Gold</desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
