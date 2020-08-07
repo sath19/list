@@ -373,7 +373,7 @@
   </programme>
   <programme start="20200806220901 -0400" stop="20200806235600 -0400" channel="StayAtHome TV">
     <title lang="en">Days of Thunder (1990)</title>
-    <desc lang="en">A man and his dream to race a car around a circle... 500 hundred times!</desc>
+    <desc lang="en">A man and his dream to race a car around a circle... 5 HUNDRED TIMES!</desc>
     <category lang="en">Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BNjc5NjQ1ODIzN15BMl5BanBnXkFtZTgwMjkwNTg4NjE@._V1_.jpg" />
   </programme>
@@ -389,10 +389,40 @@
     <category lang="en">Crime</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzViMmMxMzItYmYyYi00NGU3LWI2MDMtNjcwOWFmZTZkOTcwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
   </programme>
-  <programme start="20200807033901 -0400" stop="20200807160000 -0400" channel="StayAtHome TV">
+  <programme start="20200807033901 -0400" stop="20200807090459 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200807090500 -0400" stop="20200807110500 -0400" channel="StayAtHome TV">
+    <title lang="en">Rounders (1998)</title>
+    <desc lang="en">A young, reformed gambler must return to playing big stakes poker to help a friend pay off loan sharks, while balancing his relationship with his girlfriend and his commitments to law school</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzViMmMxMzItYmYyYi00NGU3LWI2MDMtNjcwOWFmZTZkOTcwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200807110501 -0400" stop="20200807124900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Mighty Ducks (1992)</title>
+    <desc lang="en">Emilio Estevez coaches a lousy youth hockey team to the finals of a non-relevent hockey league. His old coach stands in his way.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTc4YzQ4NTMtZjc2Yy00OWY1LWIxNGMtZTJkMmFiN2M4ZGViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200807124901 -0400" stop="20200807143600 -0400" channel="StayAtHome TV">
+    <title lang="en">Days of Thunder (1990)</title>
+    <desc lang="en">A man and his dream to race a car around a circle... 5 HUNDRED TIMES!</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjc5NjQ1ODIzN15BMl5BanBnXkFtZTgwMjkwNTg4NjE@._V1_.jpg" />
+  </programme>
+  <programme start="20200807143601 -0400" stop="20200807162500 -0400" channel="StayAtHome TV">
+    <title lang="en">Top Gun (1986)</title>
+    <desc lang="en">Jets in the sky... pewww peewwwww</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200807162501 -0400" stop="20200807182000 -0400" channel="StayAtHome TV">
+    <title lang="en">Three Kings (1999)</title>
+    <desc lang="en">Planes in the sky... pewww peewwwww</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQ5MzM1ZGItZDQyYi00ZDQ5LWJkMDQtYTIxZmIwNWQ5NmUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
  </tv>
