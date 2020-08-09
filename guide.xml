@@ -425,4 +425,28 @@
     <category lang="en">Action</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZjQ5MzM1ZGItZDQyYi00ZDQ5LWJkMDQtYTIxZmIwNWQ5NmUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
   </programme>
+  <programme start="20200808220000 -0400" stop="20200808232900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Little Hours (2017)</title>
+    <desc lang="en">In the Middle Ages, a young servant fleeing from his master takes refuge at a convent full of emotionally unstable nuns. Introduced as a deaf mute man, he must fight to hold his cover as the nuns try to resist temptation</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzAzOTQ2NTg1OF5BMl5BanBnXkFtZTgwNTUyNzUzMjI@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200808232901 -0400" stop="20200809010400 -0400" channel="StayAtHome TV">
+    <title lang="en">The Spectacular Now (2013)</title>
+    <desc lang="en">A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical "nice girl."</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5MTc0NTkzM15BMl5BanBnXkFtZTcwODEwNjE3OQ@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200809010401 -0400" stop="20200809025100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Drop (2014)</title>
+    <desc lang="en">Bob Saginowski finds himself at the center of a robbery gone awry and entwined in an investigation that digs deep into the neighborhood's past where friends, families, and foes all work together to make a living - no matter the cost</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNjMzODUzNV5BMl5BanBnXkFtZTgwNjIxNDI1MTE@._V1_.jpg" />
+  </programme>
+  <programme start="20200809025101 -0400" stop="20200809100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ TBD //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
