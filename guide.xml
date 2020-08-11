@@ -467,4 +467,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200811174500 -0400" stop="20200811192600 -0400" channel="StayAtHome TV">
+    <title lang="en">The Ides of March (2011)</title>
+    <desc lang="en">An idealistic staffer for a new presidential candidate gets a crash course on dirty politics during his stint on the campaign trail</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1_.jpg" />
+  </programme>
+  <programme start="20200811192601 -0400" stop="20200811211000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Disaster Artist (2017)</title>
+    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
+    <category lang="en">Biography, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200811211001 -0400" stop="20200811224400 -0400" channel="StayAtHome TV">
+    <title lang="en">Honey Boy (2019)</title>
+    <desc lang="en">A young actor's stormy childhood and early adult years as he struggles to reconcile with his father and deal with his mental health</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQ5YThjZjAtNWM3ZC00MDJjLWIzNDktY2Y2Y2FmMTFiNWJmXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200811224401 -0400" stop="20200812002500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Ides of March (2011)</title>
+    <desc lang="en">An idealistic staffer for a new presidential candidate gets a crash course on dirty politics during his stint on the campaign trail</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1_.jpg" />
+  </programme>
+  <programme start="20200812002501 -0400" stop="20200812020900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Disaster Artist (2017)</title>
+    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
+    <category lang="en">Biography, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200812020901 -0400" stop="20200812120000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
