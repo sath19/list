@@ -503,4 +503,58 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200812002501 -0400" stop="20200812020900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Disaster Artist (2017)</title>
+    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
+    <category lang="en">Biography, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200812182000 -0400" stop="20200812195100 -0400" channel="StayAtHome TV">
+    <title lang="en">Gravity (2013)</title>
+    <desc lang="en">99.9% she wouldn't make it in real life</desc>
+    <category lang="en">Drana</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200812195101 -0400" stop="20200812214700 -0400" channel="StayAtHome TV">
+    <title lang="en">Passengers (2016)</title>
+    <desc lang="en">A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200812214701 -0400" stop="20200813000800 -0400" channel="StayAtHome TV">
+    <title lang="en">First Man (2018)</title>
+    <desc lang="en">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969</desc>
+    <category lang="en">Biography, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200813000801 -0400" stop="20200813014500 -0400" channel="StayAtHome TV">
+    <title lang="en">Moon (2009)</title>
+    <desc lang="en">Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SY1000_CR0,0,679,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200813014501 -0400" stop="20200813034100 -0400" channel="StayAtHome TV">
+    <title lang="en">Arrival (2016)</title>
+    <desc lang="en">A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200813034100 -0400" stop="20200813051200 -0400" channel="StayAtHome TV">
+    <title lang="en">Gravity (2013)</title>
+    <desc lang="en">99.9% she wouldn't make it in real life</desc>
+    <category lang="en">Drana</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200813051201 -0400" stop="20200813070800 -0400" channel="StayAtHome TV">
+    <title lang="en">Passengers (2016)</title>
+    <desc lang="en">A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+    <programme start="20200813070801 -0400" stop="20200813092900 -0400" channel="StayAtHome TV">
+    <title lang="en">First Man (2018)</title>
+    <desc lang="en">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969</desc>
+    <category lang="en">Biography, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  </programme>
  </tv>
