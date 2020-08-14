@@ -551,10 +551,48 @@
     <category lang="en">Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
   </programme>
-    <programme start="20200813070801 -0400" stop="20200813092900 -0400" channel="StayAtHome TV">
+  <programme start="20200813070801 -0400" stop="20200813092900 -0400" channel="StayAtHome TV">
     <title lang="en">First Man (2018)</title>
     <desc lang="en">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969</desc>
     <category lang="en">Biography, Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
   </programme>
+  <programme start="20200813092900 -0400" stop="20200814190000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200814190001 -0400" stop="20200814203300 -0400" channel="StayAtHome TV">
+    <title lang="en">As Above, So Below (2014)</title>
+    <desc lang="en">When a team of explorers ventures into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200814203301 -0400" stop="20200814215200 -0400" channel="StayAtHome TV">
+    <title lang="en">Annabelle (2014)</title>
+    <desc lang="en">A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200814215201 -0400" stop="20200814234200 -0400" channel="StayAtHome TV">
+    <title lang="en">Annabelle: Creation (2017)</title>
+    <desc lang="en">Twelve years after the tragic death of their little girl, a doll-maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they become the target of the doll-maker's possessed creation, Annabelle</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200814234201 -0400" stop="20200815014600 -0400" channel="StayAtHome TV">
+    <title lang="en">Annabelle Comes Home (2019)</title>
+    <desc lang="en">While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200815014601 -0400" stop="20200815100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  
+ 
  </tv>
