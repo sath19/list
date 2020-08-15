@@ -233,6 +233,10 @@
     <category lang="en">Live Event</category>
     <icon src="https://www.betonline.ag/news-room/wp-content/uploads/2020/08/ufc-252.jpg" />
   </programme>
-  
- 
+  <programme start="20200816010001 -0400" stop="20200816020000 -0400" channel="StayAtHome TV">
+    <title lang="en">UFC 252: Miocic vs Cormier 3</title>
+    <desc lang="en">UFC 252: Miocic vs. Cormier 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 15, 2020 at the UFC APEX facility in Las Vegas, Nevada, United States</desc>
+    <category lang="en">Live Event</category>
+    <icon src="https://www.betonline.ag/news-room/wp-content/uploads/2020/08/ufc-252.jpg" />
+  </programme> 
  </tv>
