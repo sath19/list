@@ -203,6 +203,30 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200815124500 -0400" stop="20200815163200 -0400" channel="StayAtHome TV">
+    <title lang="en">Lawrence of Arabia (1962)</title>
+    <desc lang="en">The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200815163201 -0400" stop="20200815175500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Brothers Grimsby (2016)</title>
+    <desc lang="en">A new assignment forces a top spy to team up with his football hooligan brother</desc>
+    <category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjE0NTE3MjMwNV5BMl5BanBnXkFtZTgwMDc5NjQxODE@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
+  <programme start="20200815175501 -0400" stop="20200815195200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Man from U.N.C.L.E. (2015)</title>
+    <desc lang="en">In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200815195201 -0400" stop="20200815220000 -0400" channel="StayAtHome TV">
+    <title lang="en">Wonder Woman (2017)</title>
+    <desc lang="en">When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX675_AL_.jpg" />
+  </programme>
   <programme start="20200815220000 -0400" stop="20200816010000 -0400" channel="StayAtHome TV">
     <title lang="en">UFC 252: Miocic vs Cormier 3</title>
     <desc lang="en">UFC 252: Miocic vs. Cormier 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 15, 2020 at the UFC APEX facility in Las Vegas, Nevada, United States</desc>
