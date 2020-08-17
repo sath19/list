@@ -238,5 +238,35 @@
     <desc lang="en">UFC 252: Miocic vs. Cormier 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 15, 2020 at the UFC APEX facility in Las Vegas, Nevada, United States</desc>
     <category lang="en">Live Event</category>
     <icon src="https://thesportsrush.com/wp-content/uploads/2020/08/ufc-252-details.jpg" />
-  </programme> 
+  </programme>
+  <programme start="20200817180000 -0400" stop="20200817200800 -0400" channel="StayAtHome TV">
+    <title lang="en">Something's Gotta Give (2003)</title>
+    <desc lang="en">A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age</desc>
+    <category lang="en">Comedy, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
+  </programme>
+  <programme start="20200817200801 -0400" stop="20200817213500 -0400" channel="StayAtHome TV">
+    <title lang="en">Once (2007)</title>
+    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story</desc>
+    <category lang="en">Romance, Music</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWUxZjJkMDktZmMxMS00Mzg3LTk4MDItN2IwODlmN2E0MTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200817213501 -0400" stop="20200817232300 -0400" channel="StayAtHome TV">
+    <title lang="en">Brigadoon (1954)</title>
+    <desc lang="en">Two Americans on a hunting trip in Scotland become lost. They encounter a small village, not on the map, called Brigadoon, in which people harbor a mysterious secret, and behave as if they were still living two hundred years in the past</desc>
+    <category lang="en">Fantasy, Romance, Music</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZDIxMjM4MWEtMTcxMC00ZjcwLTkxOTEtNzIwNGU1YjNiMTlkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200817232301 -0400" stop="20200818005700 -0400" channel="StayAtHome TV">
+    <title lang="en">Band Aid (2017)</title>
+    <desc lang="en">A couple who can't stop fighting embark on a last-ditch effort to save their marriage: turning their fights into songs and starting a band</desc>
+    <category lang="en">Comedy, Music</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMzYzMjU3NV5BMl5BanBnXkFtZTgwNjUwMjEzMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200818005701 -0400" stop="20200818030500 -0400" channel="StayAtHome TV">
+    <title lang="en">Something's Gotta Give (2003)</title>
+    <desc lang="en">A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age</desc>
+    <category lang="en">Comedy, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
+  </programme>
  </tv>
