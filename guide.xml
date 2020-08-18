@@ -257,16 +257,34 @@
     <category lang="en">Fantasy, Romance, Music</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZDIxMjM4MWEtMTcxMC00ZjcwLTkxOTEtNzIwNGU1YjNiMTlkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg" />
   </programme>
-  <programme start="20200817232301 -0400" stop="20200818005700 -0400" channel="StayAtHome TV">
-    <title lang="en">Band Aid (2017)</title>
-    <desc lang="en">A couple who can't stop fighting embark on a last-ditch effort to save their marriage: turning their fights into songs and starting a band</desc>
-    <category lang="en">Comedy, Music</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTczMzYzMjU3NV5BMl5BanBnXkFtZTgwNjUwMjEzMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200818190000 -0400" stop="20200818205100 -0400" channel="StayAtHome TV">
+    <title lang="en">On Chesil Beach (2017)</title>
+    <desc lang="en">Based on Ian McEwan's novel. In 1962 England, a young couple find their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night</desc>
+    <category lang="en">Drama, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ1MjI5OTg1M15BMl5BanBnXkFtZTgwMzIyODc4NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200818005701 -0400" stop="20200818030500 -0400" channel="StayAtHome TV">
-    <title lang="en">Something's Gotta Give (2003)</title>
-    <desc lang="en">A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age</desc>
-    <category lang="en">Comedy, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
+  <programme start="20200818205101 -0400" stop="20200818221600 -0400" channel="StayAtHome TV">
+    <title lang="en">Mid90s (2018)</title>
+    <desc lang="en">Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZDhjNDQ0MjEtNWZhMy00ZTY1LWFkYmQtMWYwNDliNGQ1MWU2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200818221601 -0400" stop="20200819000100 -0400" channel="StayAtHome TV">
+    <title lang="en">Wildlife (2018)</title>
+    <desc lang="en">A teenage boy must deal with his mother's complicated response after his father temporarily abandons them to take a menial and dangerous job</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTNlZWY2ZGQtY2U1ZS00Mjc5LWExNjgtM2Q4YzQyYTlmNjZhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200819000101 -0400" stop="20200819015200 -0400" channel="StayAtHome TV">
+    <title lang="en">On Chesil Beach (2017)</title>
+    <desc lang="en">Based on Ian McEwan's novel. In 1962 England, a young couple find their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night</desc>
+    <category lang="en">Drama, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ1MjI5OTg1M15BMl5BanBnXkFtZTgwMzIyODc4NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200819015201 -0400" stop="20200819031700 -0400" channel="StayAtHome TV">
+    <title lang="en">Mid90s (2018)</title>
+    <desc lang="en">Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZDhjNDQ0MjEtNWZhMy00ZTY1LWFkYmQtMWYwNDliNGQ1MWU2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
   </programme>
  </tv>
