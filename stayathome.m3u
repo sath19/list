@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
+#EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV-OFFLINE
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0, tvg-name="CBC News Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_news_network.jpg" group-title="",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
