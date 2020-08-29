@@ -287,4 +287,34 @@
     <category lang="en">Comedy, Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZDhjNDQ0MjEtNWZhMy00ZTY1LWFkYmQtMWYwNDliNGQ1MWU2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
   </programme>
+  <programme start="20200829190300 -0400" stop="20200829204500 -0400" channel="StayAtHome TV">
+    <title lang="en">Enter the Dragon (1973)</title>
+    <desc lang="en">A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200829204500 -0400" stop="20200829222700 -0400" channel="StayAtHome TV">
+    <title lang="en">Irresistible (2020)</title>
+    <desc lang="en">A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTVhMDIwOGEtMTY1Zi00YzU1LTk0NTEtMWJhODhmM2EyM2VkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX800_AL_.jpg" />
+  </programme>
+  <programme start="20200829222701 -0400" stop="20200830003200 -0400" channel="StayAtHome TV">
+    <title lang="en">True History of the Kelly Gang (2019)</title>
+    <desc lang="en">Based on Peter Carey's novel. The story of Australian bushranger Ned Kelly and his gang as they flee from authorities during the 1870s</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjIxN2M2YWMtMDYwOC00MDZiLWIwOTUtYTYzZmNjMTNiYjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200830003201 -0400" stop="20200830020900 -0400" channel="StayAtHome TV">
+    <title lang="en">Snatchers (2019)</title>
+    <desc lang="en">After status-obsessed teen Sara has sex for the first time, she wakes up the next day nine months pregnant-with an alien</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjJmOTdhOTMtNTM2Ny00MTNlLWI3ZDUtZDA1YTg0YWNmMDU4XkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_SY1000_SX712_AL_.jpg" />
+  </programme>
+  <programme start="20200830020901 -0400" stop="2020083035100 -0400" channel="StayAtHome TV">
+    <title lang="en">Enter the Dragon (1973)</title>
+    <desc lang="en">A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+  </programme>
  </tv>
