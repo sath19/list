@@ -311,10 +311,34 @@
     <category lang="en">Comedy</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMjJmOTdhOTMtNTM2Ny00MTNlLWI3ZDUtZDA1YTg0YWNmMDU4XkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_SY1000_SX712_AL_.jpg" />
   </programme>
-  <programme start="20200830020901 -0400" stop="2020083035100 -0400" channel="StayAtHome TV">
-    <title lang="en">Enter the Dragon (1973)</title>
-    <desc lang="en">A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover</desc>
+  <programme start="20200830150400 -0400" stop="20200830172200 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars: Episode VII - The Force Awakens (2015)</title>
+    <desc lang="en">As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace</desc>
     <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200830172201 -0400" stop="20200830195400 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars: Episode VIII - The Last Jedi (2017)</title>
+    <desc lang="en">Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200830195401 -0400" stop="20200830221600 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars: The Rise of Skywalker (2019)</title>
+    <desc lang="en">The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200830221601 -0400" stop="20200831003400 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars: Episode VII - The Force Awakens (2015)</title>
+    <desc lang="en">As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200831003401 -0400" stop="20200831030500 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars: Episode VIII - The Last Jedi (2017)</title>
+    <desc lang="en">Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order</desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
   </programme>
  </tv>
