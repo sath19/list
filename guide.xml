@@ -173,172 +173,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200814190001 -0400" stop="20200814203300 -0400" channel="StayAtHome TV">
-    <title lang="en">As Above, So Below (2014)</title>
-    <desc lang="en">When a team of explorers ventures into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
+  <programme start="20200831173000 -0400" stop="20200831191100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Number 23 (2007) 6.4/10</title>
+    <desc lang="en">Walter Sparrow becomes obsessed with a novel that he believes was written about him. As his obsession increases, more and more similarities seem to arise</desc>
+    <category lang="en">Crime, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjcwNzczNDQ0MV5BMl5BanBnXkFtZTcwMTE0NzA0MQ@@._V1_.jpg" />
   </programme>
-  <programme start="20200814203301 -0400" stop="20200814215200 -0400" channel="StayAtHome TV">
-    <title lang="en">Annabelle (2014)</title>
-    <desc lang="en">A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200831191101 -0400" stop="20200831205400 -0400" channel="StayAtHome TV">
+    <title lang="en">The Way, Way Back (2013) 7.4/10</title>
+    <desc lang="en">Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTU5ODk5NDg0Nl5BMl5BanBnXkFtZTcwNzQwMjI1OQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200814215201 -0400" stop="20200814234200 -0400" channel="StayAtHome TV">
-    <title lang="en">Annabelle: Creation (2017)</title>
-    <desc lang="en">Twelve years after the tragic death of their little girl, a doll-maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they become the target of the doll-maker's possessed creation, Annabelle</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200831205401 -0400" stop="20200831223000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Kings of Summer (2013) 7.1/10</title>
+    <desc lang="en">Three teenage friends, in the ultimate act of independence, decide to spend their summer building a house in the woods and living off the land</desc>
+    <category lang="en">Adventure, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
   </programme>
-  <programme start="20200814234201 -0400" stop="20200815014600 -0400" channel="StayAtHome TV">
-    <title lang="en">Annabelle Comes Home (2019)</title>
-    <desc lang="en">While babysitting the daughter of Ed and Lorraine Warren, a teenager and her friend unknowingly awaken an evil spirit trapped in a doll</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  <programme start="20200831223001 -0400" stop="20200901010000 -0400" channel="StayAtHome TV">
+    <title lang="en">It's a Disaster (2012) 6.4/10</title>
+    <desc lang="en">Four couples meet for Sunday brunch only to discover they are stuck in a house together as the world may be about to end</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQwNjYzMTQ0Ml5BMl5BanBnXkFtZTcwNDUzODM5Nw@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
   </programme>
-  <programme start="20200815014601 -0400" stop="20200815100000 -0400" channel="StayAtHome TV">
+  <programme start="20200901010001 -0400" stop="20200901024100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Number 23 (2007) 6.4/10</title>
+    <desc lang="en">Walter Sparrow becomes obsessed with a novel that he believes was written about him. As his obsession increases, more and more similarities seem to arise</desc>
+    <category lang="en">Crime, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjcwNzczNDQ0MV5BMl5BanBnXkFtZTcwMTE0NzA0MQ@@._V1_.jpg" />
+  </programme>
+  <programme start="20200901024101 -0400" stop="20200901140000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200815124500 -0400" stop="20200815163200 -0400" channel="StayAtHome TV">
-    <title lang="en">Lawrence of Arabia (1962)</title>
-    <desc lang="en">The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200815163201 -0400" stop="20200815175500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Brothers Grimsby (2016)</title>
-    <desc lang="en">A new assignment forces a top spy to team up with his football hooligan brother</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjE0NTE3MjMwNV5BMl5BanBnXkFtZTgwMDc5NjQxODE@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200815175501 -0400" stop="20200815195200 -0400" channel="StayAtHome TV">
-    <title lang="en">The Man from U.N.C.L.E. (2015)</title>
-    <desc lang="en">In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200815195201 -0400" stop="20200815220000 -0400" channel="StayAtHome TV">
-    <title lang="en">Wonder Woman (2017)</title>
-    <desc lang="en">When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200815220000 -0400" stop="20200816010000 -0400" channel="StayAtHome TV">
-    <title lang="en">UFC 252: Miocic vs Cormier 3</title>
-    <desc lang="en">UFC 252: Miocic vs. Cormier 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 15, 2020 at the UFC APEX facility in Las Vegas, Nevada, United States</desc>
-    <category lang="en">Live Event</category>
-    <icon src="https://thesportsrush.com/wp-content/uploads/2020/08/ufc-252-details.jpg" />
-  </programme>
-  <programme start="20200816010001 -0400" stop="20200816020000 -0400" channel="StayAtHome TV">
-    <title lang="en">UFC 252: Miocic vs Cormier 3</title>
-    <desc lang="en">UFC 252: Miocic vs. Cormier 3 is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 15, 2020 at the UFC APEX facility in Las Vegas, Nevada, United States</desc>
-    <category lang="en">Live Event</category>
-    <icon src="https://thesportsrush.com/wp-content/uploads/2020/08/ufc-252-details.jpg" />
-  </programme>
-  <programme start="20200817180000 -0400" stop="20200817200800 -0400" channel="StayAtHome TV">
-    <title lang="en">Something's Gotta Give (2003)</title>
-    <desc lang="en">A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age</desc>
-    <category lang="en">Comedy, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg" />
-  </programme>
-  <programme start="20200817200801 -0400" stop="20200817213500 -0400" channel="StayAtHome TV">
-    <title lang="en">Once (2007)</title>
-    <desc lang="en">A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story</desc>
-    <category lang="en">Romance, Music</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWUxZjJkMDktZmMxMS00Mzg3LTk4MDItN2IwODlmN2E0MTM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200817213501 -0400" stop="20200817232300 -0400" channel="StayAtHome TV">
-    <title lang="en">Brigadoon (1954)</title>
-    <desc lang="en">Two Americans on a hunting trip in Scotland become lost. They encounter a small village, not on the map, called Brigadoon, in which people harbor a mysterious secret, and behave as if they were still living two hundred years in the past</desc>
-    <category lang="en">Fantasy, Romance, Music</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDIxMjM4MWEtMTcxMC00ZjcwLTkxOTEtNzIwNGU1YjNiMTlkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200818190000 -0400" stop="20200818205100 -0400" channel="StayAtHome TV">
-    <title lang="en">On Chesil Beach (2017)</title>
-    <desc lang="en">Based on Ian McEwan's novel. In 1962 England, a young couple find their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night</desc>
-    <category lang="en">Drama, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ1MjI5OTg1M15BMl5BanBnXkFtZTgwMzIyODc4NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200818205101 -0400" stop="20200818221600 -0400" channel="StayAtHome TV">
-    <title lang="en">Mid90s (2018)</title>
-    <desc lang="en">Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDhjNDQ0MjEtNWZhMy00ZTY1LWFkYmQtMWYwNDliNGQ1MWU2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200818221601 -0400" stop="20200819000100 -0400" channel="StayAtHome TV">
-    <title lang="en">Wildlife (2018)</title>
-    <desc lang="en">A teenage boy must deal with his mother's complicated response after his father temporarily abandons them to take a menial and dangerous job</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTNlZWY2ZGQtY2U1ZS00Mjc5LWExNjgtM2Q4YzQyYTlmNjZhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200819000101 -0400" stop="20200819015200 -0400" channel="StayAtHome TV">
-    <title lang="en">On Chesil Beach (2017)</title>
-    <desc lang="en">Based on Ian McEwan's novel. In 1962 England, a young couple find their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night</desc>
-    <category lang="en">Drama, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ1MjI5OTg1M15BMl5BanBnXkFtZTgwMzIyODc4NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200819015201 -0400" stop="20200819031700 -0400" channel="StayAtHome TV">
-    <title lang="en">Mid90s (2018)</title>
-    <desc lang="en">Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDhjNDQ0MjEtNWZhMy00ZTY1LWFkYmQtMWYwNDliNGQ1MWU2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,641,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200829190300 -0400" stop="20200829204500 -0400" channel="StayAtHome TV">
-    <title lang="en">Enter the Dragon (1973)</title>
-    <desc lang="en">A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200829204500 -0400" stop="20200829222700 -0400" channel="StayAtHome TV">
-    <title lang="en">Irresistible (2020)</title>
-    <desc lang="en">A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTVhMDIwOGEtMTY1Zi00YzU1LTk0NTEtMWJhODhmM2EyM2VkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX800_AL_.jpg" />
-  </programme>
-  <programme start="20200829222701 -0400" stop="20200830003200 -0400" channel="StayAtHome TV">
-    <title lang="en">True History of the Kelly Gang (2019)</title>
-    <desc lang="en">Based on Peter Carey's novel. The story of Australian bushranger Ned Kelly and his gang as they flee from authorities during the 1870s</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjIxN2M2YWMtMDYwOC00MDZiLWIwOTUtYTYzZmNjMTNiYjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200830003201 -0400" stop="20200830020900 -0400" channel="StayAtHome TV">
-    <title lang="en">Snatchers (2019)</title>
-    <desc lang="en">After status-obsessed teen Sara has sex for the first time, she wakes up the next day nine months pregnant-with an alien</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjJmOTdhOTMtNTM2Ny00MTNlLWI3ZDUtZDA1YTg0YWNmMDU4XkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_SY1000_SX712_AL_.jpg" />
-  </programme>
-  <programme start="20200830150400 -0400" stop="20200830172200 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars: Episode VII - The Force Awakens (2015)</title>
-    <desc lang="en">As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200830172201 -0400" stop="20200830195400 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars: Episode VIII - The Last Jedi (2017)</title>
-    <desc lang="en">Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200830195401 -0400" stop="20200830221600 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars: The Rise of Skywalker (2019)</title>
-    <desc lang="en">The surviving members of the resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak bringing the Skywalker saga to its end</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200830221601 -0400" stop="20200831003400 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars: Episode VII - The Force Awakens (2015)</title>
-    <desc lang="en">As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200831003401 -0400" stop="20200831030500 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars: Episode VIII - The Last Jedi (2017)</title>
-    <desc lang="en">Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
   </programme>
  </tv>
