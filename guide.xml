@@ -209,4 +209,46 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200901180000 -0400" stop="20200901193700 -0400" channel="StayAtHome TV">
+    <title lang="en">Heaven Knows What (2014)</title>
+    <desc lang="en">A young woman struggles to reconcile her loves of her life: her boyfriend and heroin. She finds out that suicide is the only way for her boyfriend to forgive her for her misdeed</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTkwYTNhODgtNDBkNC00NTVkLWExYzctNGI4Njg1ZmRiZGE3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200901193700 -0400" stop="20200901212600 -0400" channel="StayAtHome TV">
+    <title lang="en">Whiplash (2014)</title>
+    <desc lang="en">A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX675_CR0,0,675,999_AL_.jpg" />
+  </programme>
+  <programme start="20200901212601 -0400" stop="20200901231500 -0400" channel="StayAtHome TV">
+    <title lang="en">A Beautiful Day in the Neighborhood (2019)</title>
+    <desc lang="en">Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWE3ZDYwNmItOWM5ZS00Y2Q4LTlhNmYtODlhY2QxYzA1MDlhXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200901231600 -0400" stop="20200902012100 -0400" channel="StayAtHome TV">
+    <title lang="en">Spirited Away (2001)</title>
+    <desc lang="en">During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts</desc>
+    <category lang="en">Animation, Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200902012300 -0400" stop="20200902030000 -0400" channel="StayAtHome TV">
+    <title lang="en">Heaven Knows What (2014)</title>
+    <desc lang="en">A young woman struggles to reconcile her loves of her life: her boyfriend and heroin. She finds out that suicide is the only way for her boyfriend to forgive her for her misdeed</desc>
+    <category lang="en">Crime, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTkwYTNhODgtNDBkNC00NTVkLWExYzctNGI4Njg1ZmRiZGE3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
+  </programme>
+  <programme start="20200902030001 -0400" stop="20200902080000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200902080001 -0400" stop="20200902170000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
