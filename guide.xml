@@ -251,4 +251,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200902180000 -0400" stop="20200902194500 -0400" channel="StayAtHome TV">
+    <title lang="en">The House with a Clock in Its Walls (2018)</title>
+    <desc lang="en">A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world</desc>
+    <category lang="en">Fantasy, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk1MzM1ODEwOV5BMl5BanBnXkFtZTgwMTE0OTA4NTM@._V1_UY808_.jpg" />
+  </programme>
+  <programme start="20200902194501 -0400" stop="20200902213200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Zero Theorem (2013)</title>
+    <desc lang="en">A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves</desc>
+    <category lang="en">Fantasy, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjA4MDAxMjI1NV5BMl5BanBnXkFtZTgwMjc3ODkwMDE@._V1_UX580_.jpg" />
+  </programme>
+  <programme start="20200902213201 -0400" stop="20200902231400 -0400" channel="StayAtHome TV">
+    <title lang="en">The Cloverfield Paradox (2018)</title>
+    <desc lang="en">Orbiting a planet on the brink of war, scientists test a device to solve an energy crisis, and end up face-to-face with a dark alternate reality</desc>
+    <category lang="en">Action, Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTAwOTIxMDA0MjZeQTJeQWpwZ15BbWU4MDg1MjgzNzQz._V1_UY863_.jpg" />
+  </programme>
+  <programme start="20200902231401 -0400" stop="20200903010600 -0400" channel="StayAtHome TV">
+    <title lang="en">Midnight Special (2016)</title>
+    <desc lang="en">A father and son go on the run, pursued by the government and a cult drawn to the child's special powers</desc>
+    <category lang="en">SciFi, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_UX1012_.jpg" />
+  </programme>
+  <programme start="20200903010601 -0400" stop="20200903080000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200903080001 -0400" stop="20200903170000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ OFFLINE //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
