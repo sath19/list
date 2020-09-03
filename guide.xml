@@ -287,4 +287,28 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200903180000 -0400" stop="20200903193000 -0400" channel="StayAtHome TV">
+    <title lang="en">Bill & Ted's Excellent Adventure (1989)</title>
+    <desc lang="en">Two seemingly dumb teens set off on a quest to prepare the ultimate historical presentation with the help of a time machine</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_UX682_.jpg" />
+  </programme>
+  <programme start="20200903193001 -0400" stop="20200903210400 -0400" channel="StayAtHome TV">
+    <title lang="en">Bill & Ted's Bogus Journey (1991)</title>
+    <desc lang="en">A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMWMzMGY4MWMtZmY5MC00NzVjLWJlMzQtMTQ2ZTM4ZWNmYzFiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX611_.jpg" />
+  </programme>
+  <programme start="20200903210401 -0400" stop="20200903223600 -0400" channel="StayAtHome TV">
+    <title lang="en">Bill & Ted Face the Music (2020)</title>
+    <desc lang="en">Once told they'd save the universe during a time-traveling adventure, 2 would-be rockers from San Dimas, California find themselves as middle-aged dads still trying to crank out a hit song and fulfill their destiny</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjk3MzgyOGEtMDcwOC00Y2JhLWIyZDgtNWY3NzVlZGI0ZGExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX806_.jpg" />
+  </programme>
+  <programme start="20200903223601 -0400" stop="20200904060000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
