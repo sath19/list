@@ -311,4 +311,34 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20200903210401 -0400" stop="20200903223600 -0400" channel="StayAtHome TV">
+    <title lang="en">John Wick Trilogy</title>
+    <desc lang="en"></desc>
+    <category lang="en">Action</category>
+    <icon src="https://usercontent1.hubstatic.com/14133850_f520.jpg" />
+  </programme>
+  <programme start="20200906123000 -0400" stop="20200906182400 -0400" channel="StayAtHome TV">
+    <title lang="en">John Wick Trilogy</title>
+    <desc lang="en"></desc>
+    <category lang="en">Action</category>
+    <icon src="https://usercontent1.hubstatic.com/14133850_f520.jpg" />
+  </programme>
+  <programme start="20200906182401 -0400" stop="20200907000600 -0400" channel="StayAtHome TV">
+    <title lang="en">Back to the Future Trilogy</title>
+    <desc lang="en"></desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://filmconcertslive.com/wp-content/uploads/2015/02/back-to-the-future-poster-large2.jpg" />
+  </programme>
+  <programme start="20200907000601 -0400" stop="20200907060000 -0400" channel="StayAtHome TV">
+    <title lang="en">Star Wars 4 - 6</title>
+    <desc lang="en"></desc>
+    <category lang="en">Action</category>
+    <icon src="https://vignette.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755" />
+  </programme>
+  <programme start="20200907060001 -0400" stop="20200907120000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
