@@ -383,8 +383,20 @@
     <category lang="en">Action</category>
     <icon src="https://filmdaily.co/wp-content/uploads/2019/10/Lede-image-1-2-1300x729.jpg" />
   </programme>
-  <programme start="20200911034200 -0400" stop="20200911180000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT or OFFLINE //</title>
+  <programme start="20200926140000 -0400" stop="20200926220000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ MOVIES //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20200926220001 -0400" stop="20200927010000 -0400" channel="StayAtHome TV">
+    <title lang="en">UFC 253</title>
+    <desc lang="en">UFC 253: Adesanya vs. Costa is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on September 27, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates</desc>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://www.overtimeheroics.net/wp-content/uploads/2020/09/9e12b-16007054861796-800.jpg" />
+  </programme>
+  <programme start="20200926140000 -0400" stop="20200926220000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ MOVIES //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
