@@ -401,34 +401,34 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
-  <programme start="20200928173000 -0400" stop="20200928190700 -0400" channel="StayAtHome TV">
-    <title lang="en">Taxi (2004)</title>
-    <desc lang="en">A mouthy and feisty taxicab driver has hot tips for a green and inept cop set on solving a string of New York City bank robberies committed by a quartet of female Brazilian bank robbers</desc>
+  <programme start="20201003183500 -0400" stop="20201003201700 -0400" channel="StayAtHome TV">
+    <title lang="en">Irresistible (2020)</title>
+    <desc lang="en">A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjlmZmU4ODEtYTIwZC00Y2Y0LTlhYmEtM2E5MTAwMjUzNTRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX943_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTBmMzk0MzQtNjNlMS00YmQyLWEzMzYtODZmN2NhOWNmNWU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1011_.jpg" />
   </programme>
-  <programme start="20200928190701 -0400" stop="20200928205300 -0400" channel="StayAtHome TV">
-    <title lang="en">Young Frankenstein (1974)</title>
-    <desc lang="en">An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_UY387_.jpg" />
+  <programme start="20201003201701 -0400" stop="20201003222300 -0400" channel="StayAtHome TV">
+    <title lang="en">True History of the Kelly Gang (2019)</title>
+    <desc lang="en">Based on Peter Carey's novel. The story of Australian bushranger Ned Kelly and his gang as they flee from authorities during the 1870s</desc>
+    <category lang="en">Crime</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjIxN2M2YWMtMDYwOC00MDZiLWIwOTUtYTYzZmNjMTNiYjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY861_.jpg" />
   </programme>
-  <programme start="20200928205301 -0400" stop="20200928222700 -0400" channel="StayAtHome TV">
-    <title lang="en">APEX: The Secret Race Across America (2019)</title>
-    <desc lang="en">APEX: The Secret Race Across America is a documentary film that takes viewers on a fast-paced ride through the illegal, underground world of U.S. transcontinental racing. How fast can you drive cross-country?</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2JkZmFmMDItN2M4ZC00ZjBlLTkyYTktOGE1NDE5ZDE4OWU3XkEyXkFqcGdeQXVyNTQ1OTU1NQ@@._V1_UY342_.jpg" />
+  <programme start="20201003222301 -0400" stop="20201004001900 -0400" channel="StayAtHome TV">
+    <title lang="en">Annihilation (2018)</title>
+    <desc lang="en">A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_UY820_.jpg" />
   </programme>
-  <programme start="20200928222701 -0400" stop="20200929002900 -0400" channel="StayAtHome TV">
+  <programme start="20201004001901 -0400" stop="20201004020800 -0400" channel="StayAtHome TV">
     <title lang="en">Resistance (2020)</title>
     <desc lang="en">The story of mime Marcel Marceau as he works with a group of Jewish boy scouts and the French Resistance to save the lives of ten thousand orphans during World War II</desc>
     <category lang="en">Drama</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMWUxMDkzZmQtZjhhMS00OWIwLTllNGUtYTc5YTE2Y2RhMDE3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UY853_.jpg" />
   </programme>
-  <programme start="20200929002901 -0400" stop="20200929020600 -0400" channel="StayAtHome TV">
-    <title lang="en">Taxi (2004)</title>
-    <desc lang="en">A mouthy and feisty taxicab driver has hot tips for a green and inept cop set on solving a string of New York City bank robberies committed by a quartet of female Brazilian bank robbers</desc>
+  <programme start="20201004020801 -0400" stop="20201004035000 -0400" channel="StayAtHome TV">
+    <title lang="en">Irresistible (2020)</title>
+    <desc lang="en">A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjlmZmU4ODEtYTIwZC00Y2Y0LTlhYmEtM2E5MTAwMjUzNTRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX943_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTBmMzk0MzQtNjNlMS00YmQyLWEzMzYtODZmN2NhOWNmNWU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1011_.jpg" />
   </programme>
  </tv>
