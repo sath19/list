@@ -449,4 +449,40 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20201008180000 -0400" stop="20201008192600 -0400" channel="StayAtHome TV">
+    <title lang="en">The House by the Cemetery (1981)</title>
+    <desc lang="en">A New England home is terrorized by a series of murders, unbeknownst to the guests that a gruesome secret is hiding in the basement</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTlmYjA2ZjAtZmY5MS00OWJhLWJjNzYtNGFkZDkyOWM1MjYyL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY911_.jpg" />
+  </programme>
+  <programme start="20201008192900 -0400" stop="20201008211400 -0400" channel="StayAtHome TV">
+    <title lang="en">Re-Animator (1985)</title>
+    <desc lang="en">After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDRjNjRlNmYtZGVkOS00ODA1LWFmMTEtZmY1MWY5ZGM5OWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY818_.jpg" />
+  </programme>
+  <programme start="20201008211700 -0400" stop="20201008231300 -0400" channel="StayAtHome TV">
+    <title lang="en">Alien - Director's Cut(1979)</title>
+    <desc lang="en">After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun</desc>
+    <category lang="en">Horror, Sci-Fi</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY869_.jpg" />
+  </programme>
+  <programme start="20201008231600 -0400" stop="20201009005700 -0400" channel="StayAtHome TV">
+    <title lang="en">Labyrinth (1986)</title>
+    <desc lang="en">Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother Toby when her wish for him to be taken away is granted by the Goblin King Jareth</desc>
+    <category lang="en">Adventure, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_UX1038_.jpg" />
+  </programme>
+  <programme start="20201009005700 -0400" stop="20201009022600 -0400" channel="StayAtHome TV">
+    <title lang="en">The House by the Cemetery (1981)</title>
+    <desc lang="en">A New England home is terrorized by a series of murders, unbeknownst to the guests that a gruesome secret is hiding in the basement</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTlmYjA2ZjAtZmY5MS00OWJhLWJjNzYtNGFkZDkyOWM1MjYyL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY911_.jpg" />
+  </programme>
+  <programme start="20201009022900 -0400" stop="20201009090000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
