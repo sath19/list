@@ -485,4 +485,28 @@
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
+  <programme start="20201009180000 -0400" stop="20201009193000 -0400" channel="StayAtHome TV">
+    <title lang="en">1BR (2019)</title>
+    <desc lang="en">Sarah tries to start anew in LA, but her neighbours are not what they seem</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNWJlMGNhZWYtZWJhNC00MmRkLTk5NTUtZDYyOWU1NTM0MTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1013_.jpg" />
+  </programme>
+  <programme start="20201009193001 -0400" stop="20201009210000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Dead Don't Die (2019)</title>
+    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY405_.jpg" />
+  </programme>
+  <programme start="20201009210001 -0400" stop="20201009230000 -0400" channel="StayAtHome TV">
+    <title lang="en">The Snowman (2017)</title>
+    <desc lang="en">Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY405_.jpg" />
+  </programme>
+  <programme start="20201009230001 -0400" stop="20201010010000 -0400" channel="StayAtHome TV">
+    <title lang="en">Daniel Isn't Real (2019)</title>
+    <desc lang="en">A troubled college freshman, Luke, suffers a violent family trauma. He then resurrects his charismatic childhood imaginary friend Daniel to help him cope, not realizing how dangerous Daniel is</desc>
+    <category lang="en">Fantasy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzM5MmI5MjMtM2ZkYy00ZmE2LWEwYjEtNDRmNzBiODMyNjhlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX675_.jpg" />
+  </programme>
  </tv>
