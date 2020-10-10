@@ -509,4 +509,10 @@
     <category lang="en">Fantasy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzM5MmI5MjMtM2ZkYy00ZmE2LWEwYjEtNDRmNzBiODMyNjhlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX675_.jpg" />
   </programme>
+  <programme start="20201010010000 -0400" stop="20201010100000 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
+    <desc lang="en"></desc>
+    <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
  </tv>
