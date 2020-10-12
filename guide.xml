@@ -5,511 +5,61 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20200807090500 -0400" stop="20200807110500 -0400" channel="StayAtHome TV">
-    <title lang="en">Rounders (1998)</title>
-    <desc lang="en">A young, reformed gambler must return to playing big stakes poker to help a friend pay off loan sharks, while balancing his relationship with his girlfriend and his commitments to law school</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzViMmMxMzItYmYyYi00NGU3LWI2MDMtNjcwOWFmZTZkOTcwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200807110501 -0400" stop="20200807124900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Mighty Ducks (1992)</title>
-    <desc lang="en">Emilio Estevez coaches a lousy youth hockey team to the finals of a non-relevent hockey league. His old coach stands in his way.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTc4YzQ4NTMtZjc2Yy00OWY1LWIxNGMtZTJkMmFiN2M4ZGViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200807124901 -0400" stop="20200807143600 -0400" channel="StayAtHome TV">
-    <title lang="en">Days of Thunder (1990)</title>
-    <desc lang="en">A man and his dream to race a car around a circle... 5 HUNDRED TIMES!</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjc5NjQ1ODIzN15BMl5BanBnXkFtZTgwMjkwNTg4NjE@._V1_.jpg" />
-  </programme>
-  <programme start="20200807143601 -0400" stop="20200807162500 -0400" channel="StayAtHome TV">
-    <title lang="en">Top Gun (1986)</title>
-    <desc lang="en">Jets in the sky... pewww peewwwww</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200807162501 -0400" stop="20200807182000 -0400" channel="StayAtHome TV">
-    <title lang="en">Three Kings (1999)</title>
-    <desc lang="en">Planes in the sky... pewww peewwwww</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQ5MzM1ZGItZDQyYi00ZDQ5LWJkMDQtYTIxZmIwNWQ5NmUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" />
-  </programme>
-  <programme start="20200808220000 -0400" stop="20200808232900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Little Hours (2017)</title>
-    <desc lang="en">In the Middle Ages, a young servant fleeing from his master takes refuge at a convent full of emotionally unstable nuns. Introduced as a deaf mute man, he must fight to hold his cover as the nuns try to resist temptation</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzAzOTQ2NTg1OF5BMl5BanBnXkFtZTgwNTUyNzUzMjI@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200808232901 -0400" stop="20200809010400 -0400" channel="StayAtHome TV">
-    <title lang="en">The Spectacular Now (2013)</title>
-    <desc lang="en">A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical "nice girl."</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA5MTc0NTkzM15BMl5BanBnXkFtZTcwODEwNjE3OQ@@._V1_SY1000_CR0,0,676,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200809010401 -0400" stop="20200809025100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Drop (2014)</title>
-    <desc lang="en">Bob Saginowski finds himself at the center of a robbery gone awry and entwined in an investigation that digs deep into the neighborhood's past where friends, families, and foes all work together to make a living - no matter the cost</desc>
-    <category lang="en">Crime</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNjMzODUzNV5BMl5BanBnXkFtZTgwNjIxNDI1MTE@._V1_.jpg" />
-  </programme>
-  <programme start="20200810214000 -0400" stop="20200810230900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Little Hours (2017)</title>
-    <desc lang="en">In the Middle Ages, a young servant fleeing from his master takes refuge at a convent full of emotionally unstable nuns. Introduced as a deaf mute man, he must fight to hold his cover as the nuns try to resist temptation</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzAzOTQ2NTg1OF5BMl5BanBnXkFtZTgwNTUyNzUzMjI@._V1_SY1000_CR0,0,677,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200810230901 -0400" stop="20200811012300 -0400" channel="StayAtHome TV">
-    <title lang="en">Spider-Man: Homecoming (2017)</title>
-    <desc lang="en">Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200811012301 -0400" stop="20200811031500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Incredible Hulk (2008)</title>
-    <desc lang="en">Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200811031501 -0400" stop="20200811120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200811174500 -0400" stop="20200811192600 -0400" channel="StayAtHome TV">
-    <title lang="en">The Ides of March (2011)</title>
-    <desc lang="en">An idealistic staffer for a new presidential candidate gets a crash course on dirty politics during his stint on the campaign trail</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1_.jpg" />
-  </programme>
-  <programme start="20200811192601 -0400" stop="20200811211000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Disaster Artist (2017)</title>
-    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
-    <category lang="en">Biography, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200811211001 -0400" stop="20200811224400 -0400" channel="StayAtHome TV">
-    <title lang="en">Honey Boy (2019)</title>
-    <desc lang="en">A young actor's stormy childhood and early adult years as he struggles to reconcile with his father and deal with his mental health</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQ5YThjZjAtNWM3ZC00MDJjLWIzNDktY2Y2Y2FmMTFiNWJmXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200811224401 -0400" stop="20200812002500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Ides of March (2011)</title>
-    <desc lang="en">An idealistic staffer for a new presidential candidate gets a crash course on dirty politics during his stint on the campaign trail</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1_.jpg" />
-  </programme>
-  <programme start="20200812002501 -0400" stop="20200812020900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Disaster Artist (2017)</title>
-    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
-    <category lang="en">Biography, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200812020901 -0400" stop="20200812120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200812002501 -0400" stop="20200812020900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Disaster Artist (2017)</title>
-    <desc lang="en">When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true</desc>
-    <category lang="en">Biography, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200812182000 -0400" stop="20200812195100 -0400" channel="StayAtHome TV">
-    <title lang="en">Gravity (2013)</title>
-    <desc lang="en">99.9% she wouldn't make it in real life</desc>
-    <category lang="en">Drana</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200812195101 -0400" stop="20200812214700 -0400" channel="StayAtHome TV">
-    <title lang="en">Passengers (2016)</title>
-    <desc lang="en">A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200812214701 -0400" stop="20200813000800 -0400" channel="StayAtHome TV">
-    <title lang="en">First Man (2018)</title>
-    <desc lang="en">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969</desc>
-    <category lang="en">Biography, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200813000801 -0400" stop="20200813014500 -0400" channel="StayAtHome TV">
-    <title lang="en">Moon (2009)</title>
-    <desc lang="en">Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SY1000_CR0,0,679,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200813014501 -0400" stop="20200813034100 -0400" channel="StayAtHome TV">
-    <title lang="en">Arrival (2016)</title>
-    <desc lang="en">A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200813034100 -0400" stop="20200813051200 -0400" channel="StayAtHome TV">
-    <title lang="en">Gravity (2013)</title>
-    <desc lang="en">99.9% she wouldn't make it in real life</desc>
-    <category lang="en">Drana</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200813051201 -0400" stop="20200813070800 -0400" channel="StayAtHome TV">
-    <title lang="en">Passengers (2016)</title>
-    <desc lang="en">A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" />
-  </programme>
-  <programme start="20200813070801 -0400" stop="20200813092900 -0400" channel="StayAtHome TV">
-    <title lang="en">First Man (2018)</title>
-    <desc lang="en">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969</desc>
-    <category lang="en">Biography, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_CR0,0,631,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200813092900 -0400" stop="20200814190000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200831173000 -0400" stop="20200831191100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Number 23 (2007) 6.4/10</title>
-    <desc lang="en">Walter Sparrow becomes obsessed with a novel that he believes was written about him. As his obsession increases, more and more similarities seem to arise</desc>
-    <category lang="en">Crime, Thriller</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjcwNzczNDQ0MV5BMl5BanBnXkFtZTcwMTE0NzA0MQ@@._V1_.jpg" />
-  </programme>
-  <programme start="20200831191101 -0400" stop="20200831205400 -0400" channel="StayAtHome TV">
-    <title lang="en">The Way, Way Back (2013) 7.4/10</title>
-    <desc lang="en">Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTU5ODk5NDg0Nl5BMl5BanBnXkFtZTcwNzQwMjI1OQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200831205401 -0400" stop="20200831223000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Kings of Summer (2013) 7.1/10</title>
-    <desc lang="en">Three teenage friends, in the ultimate act of independence, decide to spend their summer building a house in the woods and living off the land</desc>
-    <category lang="en">Adventure, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200831223001 -0400" stop="20200901010000 -0400" channel="StayAtHome TV">
-    <title lang="en">It's a Disaster (2012) 6.4/10</title>
-    <desc lang="en">Four couples meet for Sunday brunch only to discover they are stuck in a house together as the world may be about to end</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQwNjYzMTQ0Ml5BMl5BanBnXkFtZTcwNDUzODM5Nw@@._V1_SY1000_CR0,0,673,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200901010001 -0400" stop="20200901024100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Number 23 (2007) 6.4/10</title>
-    <desc lang="en">Walter Sparrow becomes obsessed with a novel that he believes was written about him. As his obsession increases, more and more similarities seem to arise</desc>
-    <category lang="en">Crime, Thriller</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjcwNzczNDQ0MV5BMl5BanBnXkFtZTcwMTE0NzA0MQ@@._V1_.jpg" />
-  </programme>
-  <programme start="20200901024101 -0400" stop="20200901140000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200901180000 -0400" stop="20200901193700 -0400" channel="StayAtHome TV">
-    <title lang="en">Heaven Knows What (2014)</title>
-    <desc lang="en">A young woman struggles to reconcile her loves of her life: her boyfriend and heroin. She finds out that suicide is the only way for her boyfriend to forgive her for her misdeed</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTkwYTNhODgtNDBkNC00NTVkLWExYzctNGI4Njg1ZmRiZGE3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200901193700 -0400" stop="20200901212600 -0400" channel="StayAtHome TV">
-    <title lang="en">Whiplash (2014)</title>
-    <desc lang="en">A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX675_CR0,0,675,999_AL_.jpg" />
-  </programme>
-  <programme start="20200901212601 -0400" stop="20200901231500 -0400" channel="StayAtHome TV">
-    <title lang="en">A Beautiful Day in the Neighborhood (2019)</title>
-    <desc lang="en">Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWE3ZDYwNmItOWM5ZS00Y2Q4LTlhNmYtODlhY2QxYzA1MDlhXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200901231600 -0400" stop="20200902012100 -0400" channel="StayAtHome TV">
-    <title lang="en">Spirited Away (2001)</title>
-    <desc lang="en">During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts</desc>
-    <category lang="en">Animation, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200902012300 -0400" stop="20200902030000 -0400" channel="StayAtHome TV">
-    <title lang="en">Heaven Knows What (2014)</title>
-    <desc lang="en">A young woman struggles to reconcile her loves of her life: her boyfriend and heroin. She finds out that suicide is the only way for her boyfriend to forgive her for her misdeed</desc>
-    <category lang="en">Crime, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTkwYTNhODgtNDBkNC00NTVkLWExYzctNGI4Njg1ZmRiZGE3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg" />
-  </programme>
-  <programme start="20200902030001 -0400" stop="20200902080000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200902080001 -0400" stop="20200902170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200902180000 -0400" stop="20200902194500 -0400" channel="StayAtHome TV">
-    <title lang="en">The House with a Clock in Its Walls (2018)</title>
-    <desc lang="en">A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world</desc>
-    <category lang="en">Fantasy, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk1MzM1ODEwOV5BMl5BanBnXkFtZTgwMTE0OTA4NTM@._V1_UY808_.jpg" />
-  </programme>
-  <programme start="20200902194501 -0400" stop="20200902213200 -0400" channel="StayAtHome TV">
-    <title lang="en">The Zero Theorem (2013)</title>
-    <desc lang="en">A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves</desc>
-    <category lang="en">Fantasy, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA4MDAxMjI1NV5BMl5BanBnXkFtZTgwMjc3ODkwMDE@._V1_UX580_.jpg" />
-  </programme>
-  <programme start="20200902213201 -0400" stop="20200902231400 -0400" channel="StayAtHome TV">
-    <title lang="en">The Cloverfield Paradox (2018)</title>
-    <desc lang="en">Orbiting a planet on the brink of war, scientists test a device to solve an energy crisis, and end up face-to-face with a dark alternate reality</desc>
-    <category lang="en">Action, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTAwOTIxMDA0MjZeQTJeQWpwZ15BbWU4MDg1MjgzNzQz._V1_UY863_.jpg" />
-  </programme>
-  <programme start="20200902231401 -0400" stop="20200903010600 -0400" channel="StayAtHome TV">
-    <title lang="en">Midnight Special (2016)</title>
-    <desc lang="en">A father and son go on the run, pursued by the government and a cult drawn to the child's special powers</desc>
-    <category lang="en">SciFi, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_UX1012_.jpg" />
-  </programme>
-  <programme start="20200903010601 -0400" stop="20200903080000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200903080001 -0400" stop="20200903170000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200903180000 -0400" stop="20200903193000 -0400" channel="StayAtHome TV">
-    <title lang="en">Bill & Ted's Excellent Adventure (1989)</title>
-    <desc lang="en">Two seemingly dumb teens set off on a quest to prepare the ultimate historical presentation with the help of a time machine</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_UX682_.jpg" />
-  </programme>
-  <programme start="20200903193001 -0400" stop="20200903210400 -0400" channel="StayAtHome TV">
-    <title lang="en">Bill & Ted's Bogus Journey (1991)</title>
-    <desc lang="en">A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMWMzMGY4MWMtZmY5MC00NzVjLWJlMzQtMTQ2ZTM4ZWNmYzFiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX611_.jpg" />
-  </programme>
-  <programme start="20200903210401 -0400" stop="20200903223600 -0400" channel="StayAtHome TV">
-    <title lang="en">Bill & Ted Face the Music (2020)</title>
-    <desc lang="en">Once told they'd save the universe during a time-traveling adventure, 2 would-be rockers from San Dimas, California find themselves as middle-aged dads still trying to crank out a hit song and fulfill their destiny</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjk3MzgyOGEtMDcwOC00Y2JhLWIyZDgtNWY3NzVlZGI0ZGExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX806_.jpg" />
-  </programme>
-  <programme start="20200903223601 -0400" stop="20200904060000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200903210401 -0400" stop="20200903223600 -0400" channel="StayAtHome TV">
-    <title lang="en">John Wick Trilogy</title>
-    <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://usercontent1.hubstatic.com/14133850_f520.jpg" />
-  </programme>
-  <programme start="20200906123000 -0400" stop="20200906182400 -0400" channel="StayAtHome TV">
-    <title lang="en">John Wick Trilogy</title>
-    <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://usercontent1.hubstatic.com/14133850_f520.jpg" />
-  </programme>
-  <programme start="20200906182401 -0400" stop="20200907000600 -0400" channel="StayAtHome TV">
-    <title lang="en">Back to the Future Trilogy</title>
-    <desc lang="en"></desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://filmconcertslive.com/wp-content/uploads/2015/02/back-to-the-future-poster-large2.jpg" />
-  </programme>
-  <programme start="20200907000601 -0400" stop="20200907060000 -0400" channel="StayAtHome TV">
-    <title lang="en">Star Wars 4 - 6</title>
-    <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://vignette.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755" />
-  </programme>
-  <programme start="20200907060001 -0400" stop="20200907120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200910184000 -0400" stop="20200910203500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Last of the Mohicans (1992)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDNiYmRkNDYtOWU1NC00NmMxLWFkNmUtMGI5NTJjOTJmYTM5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX800_.jpg" />
-  </programme>
-  <programme start="20200910203600 -0400" stop="20200910221400 -0400" channel="StayAtHome TV">
-    <title lang="en">Timecop (1994)</title>
-    <desc lang="en">Max Walker, an officer for a security agency that regulates time travel, must fend for his life against a shady politician who's intent on changing the past to control the future</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGUxOTI3OGUtY2UyYS00NzRmLTk2ODQtMGRjZGY2Mjk5NTczXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UY877_.jpg" />
-  </programme>
-  <programme start="20200910221500 -0400" stop="20200911000300 -0400" channel="StayAtHome TV">
-    <title lang="en">The Boondock Saints (1999)</title>
-    <desc lang="en">Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzVmMTdjOTYtOTJkYS00ZTg2LWExNTgtNzA1N2Y0MDgwYWFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX1193_.jpg" />
-  </programme>
-  <programme start="20200911000301 -0400" stop="20200911014500 -0400" channel="StayAtHome TV">
-    <title lang="en">Once Upon a Time in Mexico (2003)</title>
-    <desc lang="en">Hitman "El Mariachi" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general</desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjA1NTc5NjMyN15BMl5BanBnXkFtZTYwMDQ4ODY2._V1_UX254_.jpg" />
-  </programme>
-  <programme start="20200911014600 -0400" stop="20200911034100 -0400" channel="StayAtHome TV">
-    <title lang="en">The Last of the Mohicans (1992)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDNiYmRkNDYtOWU1NC00NmMxLWFkNmUtMGI5NTJjOTJmYTM5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX800_.jpg" />
-  </programme>
-  <programme start="20200911034200 -0400" stop="20200911180000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT or OFFLINE //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200912231500 -0400" stop="20200914010000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Fast & Furious Marathon</title>
-    <desc lang="en">"Dude, I almost had you" "You almost had me? You never had me, you never had your car"</desc>
-    <category lang="en">Action</category>
-    <icon src="https://filmdaily.co/wp-content/uploads/2019/10/Lede-image-1-2-1300x729.jpg" />
-  </programme>
-  <programme start="20200926140000 -0400" stop="20200926220000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ MOVIES //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20200926220001 -0400" stop="20200927010000 -0400" channel="StayAtHome TV">
-    <title lang="en">UFC 253</title>
-    <desc lang="en">UFC 253: Adesanya vs. Costa is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on September 27, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates</desc>
-    <category lang="en">Martial Arts</category>
-    <icon src="https://www.overtimeheroics.net/wp-content/uploads/2020/09/9e12b-16007054861796-800.jpg" />
-  </programme>
-  <programme start="20200926140000 -0400" stop="20200926220000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ MOVIES //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20201004120000 -0400" stop="20201004135000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Devil Wears Prada (2006)</title>
-    <desc lang="en">Can this nerd turned hot secretary handle requests from devil who wears Prada?</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzVkZjIyZWUtYTNjYS00OTJmLTllNGEtMGRmOTE1OWUwMTllXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_UX1240_.jpg" />
-  </programme>
-  <programme start="20201004135100 -0400" stop="20201004152100 -0400" channel="StayAtHome TV">
-    <title lang="en">EuroTrip (2004)</title>
-    <desc lang="en">Scotty's life is ruined and Matt Damon's makes a hit song about it named "Scotty Doesn't Know". He travels to Europe in search of German "muschi"</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMWRjOTNlYTQtYjQyNS00ZTIzLTkzM2QtY2Y2YTI1NWViMWM1XkEyXkFqcGdeQXVyMzgwMzczMzU@._V1_UY960_.jpg" />
-  </programme>
-  <programme start="20201004152201 -0400" stop="20201004170100 -0400" channel="StayAtHome TV">
-    <title lang="en">Cool Runnings (1993)</title>
-    <desc lang="en">Every movement has a beginning. Some say the BLM movement began when 4 black men slid down an ice track</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUxMzQ3NDkyOF5BMl5BanBnXkFtZTYwMTMxNDE5._V1_UX295_.jpg" />
-  </programme>
-  <programme start="20201004170201 -0400" stop="20201004191500 -0400" channel="StayAtHome TV">
-    <title lang="en">Knocked Up (2007)</title>
-    <desc lang="en">Ben gives Alison a creampie, then spends 9 months convincing Alison (a bitch) why he wasn't her worst mistake</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmJlYzQ0M2ItYjY3YS00YmNkLWI5NDAtMmRjN2I5N2NhNzQ4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX800_.jpg" />
-  </programme>
-  <programme start="20201004191700 -0400" stop="20201004213400 -0400" channel="StayAtHome TV">
-    <title lang="en">This Is 40 (2012)</title>
-    <desc lang="en">Pete is trying to save his marriage and business but his piece of shit moocher of a dad keeps asking for money</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzQxMDQ1NjA4N15BMl5BanBnXkFtZTcwNTE5MjQ3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201004213600 -0400" stop="20201004233100 -0400" channel="StayAtHome TV">
-    <title lang="en">Thor (2011)</title>
-    <desc lang="en">Thor: Only a tough guy when he has a hammer. Loki, Thor's brother, loathes him because all the chicks flock him. Who wins? Good looking hammer boy or ugly brother? </desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX800_.jpg" />
-  </programme>
-  <programme start="20201004233250 -0400" stop="20201005012300 -0400" channel="StayAtHome TV">
-    <title lang="en">The Devil Wears Prada (2006)</title>
-    <desc lang="en">Can this nerd turned hot secretary handle requests from devil who wears Prada?</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjIxN2M2YWMtMDYwOC00MDZiLWIwOTUtYTYzZmNjMTNiYjhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY861_.jpg" />
-  </programme>
-  <programme start="20201005012301 -0400" stop="20201005090000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20201008180000 -0400" stop="20201008192600 -0400" channel="StayAtHome TV">
-    <title lang="en">The House by the Cemetery (1981)</title>
-    <desc lang="en">A New England home is terrorized by a series of murders, unbeknownst to the guests that a gruesome secret is hiding in the basement</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTlmYjA2ZjAtZmY5MS00OWJhLWJjNzYtNGFkZDkyOWM1MjYyL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY911_.jpg" />
-  </programme>
-  <programme start="20201008192900 -0400" stop="20201008211400 -0400" channel="StayAtHome TV">
-    <title lang="en">Re-Animator (1985)</title>
-    <desc lang="en">After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue</desc>
+  <programme start="20201012120000 -0400" stop="20201012133400 -0400" channel="StayAtHome TV">
+    <title lang="en">Little Monsters (2019)</title>
+    <desc lang="en">A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies</desc>
     <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNDRjNjRlNmYtZGVkOS00ODA1LWFmMTEtZmY1MWY5ZGM5OWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY818_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201008211700 -0400" stop="20201008231300 -0400" channel="StayAtHome TV">
-    <title lang="en">Alien - Director's Cut(1979)</title>
-    <desc lang="en">After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun</desc>
-    <category lang="en">Horror, Sci-Fi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY869_.jpg" />
+  <programme start="20201012133600 -0400" stop="20201012151000 -0400" channel="StayAtHome TV">
+    <title lang="en">Extra Ordinary (2019)</title>
+    <desc lang="en">Rose, a mostly sweet and lonely Irish driving instructor, must use her supernatural talents to save the daughter of Martin (also mostly sweet and lonely) from a washed-up rock star who is using her in a Satanic pact to reignite his fame</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTZiMzZiNTktZGRkNi00Yzc4LWEyZTYtMTEzOGZjOTFkNWZkXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201008231600 -0400" stop="20201009005700 -0400" channel="StayAtHome TV">
-    <title lang="en">Labyrinth (1986)</title>
-    <desc lang="en">Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother Toby when her wish for him to be taken away is granted by the Goblin King Jareth</desc>
-    <category lang="en">Adventure, Fantasy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_UX1038_.jpg" />
+  <programme start="20201012151200 -0400" stop="20201012164700 -0400" channel="StayAtHome TV">
+    <title lang="en">Come to Daddy (2019)</title>
+    <desc lang="en">A man in his thirties travels to a remote cabin to reconnect with his estranged father</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQ0NjkwZWQtZWE1Zi00MTcxLWI3NTQtNGQyM2E0OWU0OTZjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201009005700 -0400" stop="20201009022600 -0400" channel="StayAtHome TV">
-    <title lang="en">The House by the Cemetery (1981)</title>
-    <desc lang="en">A New England home is terrorized by a series of murders, unbeknownst to the guests that a gruesome secret is hiding in the basement</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTlmYjA2ZjAtZmY5MS00OWJhLWJjNzYtNGFkZDkyOWM1MjYyL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY911_.jpg" />
+  <programme start="20201012164900 -0400" stop="20201012181400 -0400" channel="StayAtHome TV">
+    <title lang="en">What We Do in the Shadows (2014)</title>
+    <desc lang="en">Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201009022900 -0400" stop="20201009090000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  <programme start="20201012181600 -0400" stop="20201012194500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Belko Experiment (2016)</title>
+    <desc lang="en">In a twisted social experiment, eighty Americans are locked in their high-rise corporate office in Bogotá, Colombia, and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed</desc>
+    <category lang="en">Horror, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201009180000 -0400" stop="20201009193000 -0400" channel="StayAtHome TV">
-    <title lang="en">1BR (2019)</title>
-    <desc lang="en">Sarah tries to start anew in LA, but her neighbours are not what they seem</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNWJlMGNhZWYtZWJhNC00MmRkLTk5NTUtZDYyOWU1NTM0MTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1013_.jpg" />
-  </programme>
-  <programme start="20201009193001 -0400" stop="20201009210000 -0400" channel="StayAtHome TV">
+  <programme start="20201012194700 -0400" stop="20201012213200 -0400" channel="StayAtHome TV">
     <title lang="en">The Dead Don't Die (2019)</title>
-    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.</desc>
+    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves</desc>
     <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY405_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201009210001 -0400" stop="20201009230000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Snowman (2017)</title>
-    <desc lang="en">Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman</desc>
+  <programme start="20201012213400 -0400" stop="20201012230900 -0400" channel="StayAtHome TV">
+    <title lang="en">Underwater (2020)</title>
+    <desc lang="en">A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench</desc>
+    <category lang="en">Action, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzM0OGZiZWItYmZiNC00NDgzLTg1MjMtYjM4MWZhOGZhMDUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201012231100 -0400" stop="20201013005900 -0400" channel="StayAtHome TV">
+    <title lang="en">Sea Fever (2019)</title>
+    <desc lang="en">The crew of a West of Ireland trawler, marooned at sea, struggle for their lives against a growing parasite in their water supply</desc>
+    <category lang="en">Drama, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjMyMTZhOTgtNTM0NS00MzAzLWI4YjMtMmQ2MDk4NjkwYWI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201013010100 -0400" stop="20201013023600 -0400" channel="StayAtHome TV">
+    <title lang="en">Ready or Not (2019)</title>
+    <desc lang="en">A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game</desc>
     <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UY405_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201009230001 -0400" stop="20201010010000 -0400" channel="StayAtHome TV">
-    <title lang="en">Daniel Isn't Real (2019)</title>
-    <desc lang="en">A troubled college freshman, Luke, suffers a violent family trauma. He then resurrects his charismatic childhood imaginary friend Daniel to help him cope, not realizing how dangerous Daniel is</desc>
-    <category lang="en">Fantasy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzM5MmI5MjMtM2ZkYy00ZmE2LWEwYjEtNDRmNzBiODMyNjhlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX675_.jpg" />
-  </programme>
-  <programme start="20201010010000 -0400" stop="20201010100000 -0400" channel="StayAtHome TV">
+  <programme start="20201013023800 -0400" stop="20201013120000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
