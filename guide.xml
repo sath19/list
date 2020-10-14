@@ -5,61 +5,37 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201012120000 -0400" stop="20201012133400 -0400" channel="StayAtHome TV">
-    <title lang="en">Little Monsters (2019)</title>
-    <desc lang="en">A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201012133600 -0400" stop="20201012151000 -0400" channel="StayAtHome TV">
-    <title lang="en">Extra Ordinary (2019)</title>
-    <desc lang="en">Rose, a mostly sweet and lonely Irish driving instructor, must use her supernatural talents to save the daughter of Martin (also mostly sweet and lonely) from a washed-up rock star who is using her in a Satanic pact to reignite his fame</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTZiMzZiNTktZGRkNi00Yzc4LWEyZTYtMTEzOGZjOTFkNWZkXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201012151200 -0400" stop="20201012164700 -0400" channel="StayAtHome TV">
-    <title lang="en">Come to Daddy (2019)</title>
-    <desc lang="en">A man in his thirties travels to a remote cabin to reconnect with his estranged father</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQ0NjkwZWQtZWE1Zi00MTcxLWI3NTQtNGQyM2E0OWU0OTZjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201012164900 -0400" stop="20201012181400 -0400" channel="StayAtHome TV">
-    <title lang="en">What We Do in the Shadows (2014)</title>
-    <desc lang="en">Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201012181600 -0400" stop="20201012194500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Belko Experiment (2016)</title>
-    <desc lang="en">In a twisted social experiment, eighty Americans are locked in their high-rise corporate office in Bogotá, Colombia, and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed</desc>
-    <category lang="en">Horror, Thriller</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201012194700 -0400" stop="20201012213200 -0400" channel="StayAtHome TV">
+  <programme start="20201013170000 -0400" stop="20201013184700 -0400" channel="StayAtHome TV">
     <title lang="en">The Dead Don't Die (2019)</title>
     <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves</desc>
     <category lang="en">Comedy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201012213400 -0400" stop="20201012230900 -0400" channel="StayAtHome TV">
-    <title lang="en">Underwater (2020)</title>
-    <desc lang="en">A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench</desc>
-    <category lang="en">Action, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzM0OGZiZWItYmZiNC00NDgzLTg1MjMtYjM4MWZhOGZhMDUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201013184701 -0400" stop="20201013202300 -0400" channel="StayAtHome TV">
+    <title lang="en">Little Monsters (2019)</title>
+    <desc lang="en">A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201012231100 -0400" stop="20201013005900 -0400" channel="StayAtHome TV">
-    <title lang="en">Sea Fever (2019)</title>
-    <desc lang="en">The crew of a West of Ireland trawler, marooned at sea, struggle for their lives against a growing parasite in their water supply</desc>
+  <programme start="20201013202301 -0400" stop="20201013221300 -0400" channel="StayAtHome TV">
+    <title lang="en">The Village (2004)</title>
+    <desc lang="en">A series of events tests the beliefs of a small isolated countryside village</desc>
     <category lang="en">Drama, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjMyMTZhOTgtNTM0NS00MzAzLWI4YjMtMmQ2MDk4NjkwYWI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR0,0,182,268_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMWExMWYxN2MtYmU1YS00Mjk5LWI3OTEtYTg3NDIwZTA2MTE2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201013010100 -0400" stop="20201013023600 -0400" channel="StayAtHome TV">
+  <programme start="20201013221301 -0400" stop="20201013234800 -0400" channel="StayAtHome TV">
     <title lang="en">Ready or Not (2019)</title>
     <desc lang="en">A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game</desc>
     <category lang="en">Comedy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201013023800 -0400" stop="20201013120000 -0400" channel="StayAtHome TV">
+  <programme start="20201013234801 -0400" stop="20201014003200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Dead Don't Die (2019)</title>
+    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201014003201 -0400" stop="20201014020000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
