@@ -5,37 +5,61 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201013170000 -0400" stop="20201013184700 -0400" channel="StayAtHome TV">
-    <title lang="en">The Dead Don't Die (2019)</title>
-    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves</desc>
+  <programme start="20201016171500 -0400" stop="20201016184200 -0400" channel="StayAtHome TV">
+    <title lang="en">Vacancy (2007)</title>
+    <desc lang="en">A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3MDk2MDI5N15BMl5BanBnXkFtZTcwMDgyNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201016184201 -0400" stop="20201016200400 -0400" channel="StayAtHome TV">
+    <title lang="en">Devil (2010)</title>
+    <desc lang="en">A group of people are trapped in an elevator and the Devil is mysteriously amongst them</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZDVmZGExMTEtNjk5OS00MTFkLWI0ZDMtNzg4YWFmNGY3NjRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201016200401 -0400" stop="20201016213700 -0400" channel="StayAtHome TV">
+    <title lang="en">The Grudge (2004)</title>
+    <desc lang="en">An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201016213701 -0400" stop="20201016231800 -0400" channel="StayAtHome TV">
+    <title lang="en">The Soul Collector (2019)</title>
+    <desc lang="en">An old man, fated to collect souls for eternity, seeks atonement after trading his daughter's soul</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTgyODdjM2ItMzAwYS00MmYwLWFmNmMtZTNhNGEwYTg5ZDM4XkEyXkFqcGdeQXVyNjc3MjE2MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201016231801 -0400" stop="20201017005300 -0400" channel="StayAtHome TV">
+    <title lang="en">You Should Have Left (2020)</title>
+    <desc lang="en">A former banker, his actress wife, and their spirited daughter book a vacation at an isolated modern home in the Welsh countryside where nothing is quite as it seems</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTMxMTJhNWQtYzQwMC00MThhLTkzNjMtMDljMGE1MmE1NWM2XkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201017005301 -0400" stop="20201017024800 -0400" channel="StayAtHome TV">
+    <title lang="en">Sublime (2007)</title>
+    <desc lang="en">A man gets a colonoscopy. He wakes up in a hospital bed after a wrong operation. He's confused/scared and thinks back at talks at his 40th birthday party about hospital errors, scams etc</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0OTM4NDEzMF5BMl5BanBnXkFtZTcwOTQ3Njc0MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201017024801 -0400" stop="20201017042800 -0400" channel="StayAtHome TV">
+    <title lang="en">Vivarium (2019)</title>
+    <desc lang="en">A young couple looking for the perfect home find themselves trapped in a mysterious labyrinth-like neighborhood of identical houses</desc>
     <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201013184701 -0400" stop="20201013202300 -0400" channel="StayAtHome TV">
-    <title lang="en">Little Monsters (2019)</title>
-    <desc lang="en">A washed-up musician teams up with a teacher and a kids show personality to protect young children from a sudden outbreak of zombies</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201017042801 -0400" stop="20201017055500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Strangers (2008)</title>
+    <desc lang="en">A young couple staying in an isolated vacation home are terrorized by three unknown assailants</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODAyODMwNV5BMl5BanBnXkFtZTcwNzk5Nzk2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201013202301 -0400" stop="20201013221300 -0400" channel="StayAtHome TV">
-    <title lang="en">The Village (2004)</title>
-    <desc lang="en">A series of events tests the beliefs of a small isolated countryside village</desc>
-    <category lang="en">Drama, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMWExMWYxN2MtYmU1YS00Mjk5LWI3OTEtYTg3NDIwZTA2MTE2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201013221301 -0400" stop="20201013234800 -0400" channel="StayAtHome TV">
-    <title lang="en">Ready or Not (2019)</title>
-    <desc lang="en">A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201013234801 -0400" stop="20201014003200 -0400" channel="StayAtHome TV">
-    <title lang="en">The Dead Don't Die (2019)</title>
-    <desc lang="en">The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201014003201 -0400" stop="20201014020000 -0400" channel="StayAtHome TV">
+  <programme start="20201017055501 -0400" stop="20201017072201 -0400" channel="StayAtHome TV">
+    <title lang="en">Vacancy (2007)</title>
+    <desc lang="en">A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3MDk2MDI5N15BMl5BanBnXkFtZTcwMDgyNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>  
+  <programme start="20201017072201 -0400" stop="20201017120000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
