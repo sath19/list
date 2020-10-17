@@ -5,61 +5,49 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201016171500 -0400" stop="20201016184200 -0400" channel="StayAtHome TV">
-    <title lang="en">Vacancy (2007)</title>
-    <desc lang="en">A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3MDk2MDI5N15BMl5BanBnXkFtZTcwMDgyNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201017143500 -0400" stop="20201017165000 -0400" channel="StayAtHome TV">
+    <title lang="en">Little Women (2019)</title>
+    <desc lang="en">Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms</desc>
+    <category lang="en">Drama, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201016184201 -0400" stop="20201016200400 -0400" channel="StayAtHome TV">
-    <title lang="en">Devil (2010)</title>
-    <desc lang="en">A group of people are trapped in an elevator and the Devil is mysteriously amongst them</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZDVmZGExMTEtNjk5OS00MTFkLWI0ZDMtNzg4YWFmNGY3NjRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201017165000 -0400" stop="20201017182200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Lovebirds (2020)</title>
+    <desc lang="en">A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery</desc>
+    <category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201016200401 -0400" stop="20201016213700 -0400" channel="StayAtHome TV">
-    <title lang="en">The Grudge (2004)</title>
-    <desc lang="en">An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201017182201 -0400" stop="20201017200500 -0400" channel="StayAtHome TV">
+    <title lang="en">Zombieland: Double Tap (2019)</title>
+    <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
+    <category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201016213701 -0400" stop="20201016231800 -0400" channel="StayAtHome TV">
-    <title lang="en">The Soul Collector (2019)</title>
-    <desc lang="en">An old man, fated to collect souls for eternity, seeks atonement after trading his daughter's soul</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTgyODdjM2ItMzAwYS00MmYwLWFmNmMtZTNhNGEwYTg5ZDM4XkEyXkFqcGdeQXVyNjc3MjE2MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201016231801 -0400" stop="20201017005300 -0400" channel="StayAtHome TV">
-    <title lang="en">You Should Have Left (2020)</title>
-    <desc lang="en">A former banker, his actress wife, and their spirited daughter book a vacation at an isolated modern home in the Welsh countryside where nothing is quite as it seems</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYTMxMTJhNWQtYzQwMC00MThhLTkzNjMtMDljMGE1MmE1NWM2XkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201017005301 -0400" stop="20201017024800 -0400" channel="StayAtHome TV">
-    <title lang="en">Sublime (2007)</title>
-    <desc lang="en">A man gets a colonoscopy. He wakes up in a hospital bed after a wrong operation. He's confused/scared and thinks back at talks at his 40th birthday party about hospital errors, scams etc</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0OTM4NDEzMF5BMl5BanBnXkFtZTcwOTQ3Njc0MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201017024801 -0400" stop="20201017042800 -0400" channel="StayAtHome TV">
+  <programme start="20201017200501 -0400" stop="20201017214500 -0400" channel="StayAtHome TV">
     <title lang="en">Vivarium (2019)</title>
     <desc lang="en">A young couple looking for the perfect home find themselves trapped in a mysterious labyrinth-like neighborhood of identical houses</desc>
     <category lang="en">Comedy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017042801 -0400" stop="20201017055500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Strangers (2008)</title>
-    <desc lang="en">A young couple staying in an isolated vacation home are terrorized by three unknown assailants</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkxODAyODMwNV5BMl5BanBnXkFtZTcwNzk5Nzk2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201017214501 -0400" stop="20201017235200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Invisible Man (2020)</title>
+    <desc lang="en">When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see</desc>
+    <category lang="en">Horror, Mystery</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017055501 -0400" stop="20201017072201 -0400" channel="StayAtHome TV">
-    <title lang="en">Vacancy (2007)</title>
-    <desc lang="en">A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ3MDk2MDI5N15BMl5BanBnXkFtZTcwMDgyNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>  
-  <programme start="20201017072201 -0400" stop="20201017120000 -0400" channel="StayAtHome TV">
+  <programme start="20201017235201 -0400" stop="20201018020900 -0400" channel="StayAtHome TV">
+    <title lang="en">Little Women (2019)</title>
+    <desc lang="en">Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms</desc>
+    <category lang="en">Drama, Romance</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201018020901 -0400" stop="20201018033900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Lovebirds (2020)</title>
+    <desc lang="en">A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery</desc>
+    <category lang="en">Action, Comedy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201018033901 -0400" stop="20201018100000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
