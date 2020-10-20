@@ -5,49 +5,31 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201017143500 -0400" stop="20201017165000 -0400" channel="StayAtHome TV">
-    <title lang="en">Little Women (2019)</title>
-    <desc lang="en">Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms</desc>
-    <category lang="en">Drama, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201020190000 -0400" stop="20201020210200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Divide (2011)</title>
+    <desc lang="en">Survivors of a nuclear attack are grouped together for days in the basement of their apartment building, where fear and dwindling supplies wear away at their dynamic</desc>
+    <category lang="en">Drama, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjMwNjcxODY5OV5BMl5BanBnXkFtZTcwMDA1OTg4Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017165000 -0400" stop="20201017182200 -0400" channel="StayAtHome TV">
-    <title lang="en">The Lovebirds (2020)</title>
-    <desc lang="en">A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201020210400 -0400" stop="20201020224400 -0400" channel="StayAtHome TV">
+    <title lang="en">Prospect (2018)</title>
+    <desc lang="en">A teenage girl and her father travel to a remote alien moon, aiming to strike it rich</desc>
+    <category lang="en">Sci-Fi, Thriller</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzc5MjkzZWEtMjBmZS00NDJlLWI3N2UtNzgwYmI4ZGM5ODM5XkEyXkFqcGdeQXVyOTMwNjQ3Nzg@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017182201 -0400" stop="20201017200500 -0400" channel="StayAtHome TV">
-    <title lang="en">Zombieland: Double Tap (2019)</title>
-    <desc lang="en">Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201020224900 -0400" stop="20201021002300 -0400" channel="StayAtHome TV">
+    <title lang="en">The Babadook (2014)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Drama, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017200501 -0400" stop="20201017214500 -0400" channel="StayAtHome TV">
-    <title lang="en">Vivarium (2019)</title>
-    <desc lang="en">A young couple looking for the perfect home find themselves trapped in a mysterious labyrinth-like neighborhood of identical houses</desc>
-    <category lang="en">Comedy, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201021002500 -0400" stop="20201021020200 -0400" channel="StayAtHome TV">
+    <title lang="en">The Hallow (2015)</title>
+    <desc lang="en">A family who moved into a remote mill house in Ireland finds themselves in a fight for survival with demonic creatures living in the woods</desc>
+    <category lang="en">Horror, Fantasy</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ2MjUzNTg5MF5BMl5BanBnXkFtZTgwNTY1MTY3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201017214501 -0400" stop="20201017235200 -0400" channel="StayAtHome TV">
-    <title lang="en">The Invisible Man (2020)</title>
-    <desc lang="en">When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see</desc>
-    <category lang="en">Horror, Mystery</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201017235201 -0400" stop="20201018020900 -0400" channel="StayAtHome TV">
-    <title lang="en">Little Women (2019)</title>
-    <desc lang="en">Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms</desc>
-    <category lang="en">Drama, Romance</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201018020901 -0400" stop="20201018033900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Lovebirds (2020)</title>
-    <desc lang="en">A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery</desc>
-    <category lang="en">Action, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201018033901 -0400" stop="20201018100000 -0400" channel="StayAtHome TV">
+  <programme start="20201021020201 -0400" stop="20201021120000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
