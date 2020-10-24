@@ -53,25 +53,19 @@
     <category lang="en">Martial Arts</category>
     <icon src="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_xl/s3/2020-09/UFC-254-Hero_0.jpg?guAb2MWBXWFAnaYyhnYn1sMMvvAguIBY&h=d1cb525d&itok=AigbIVL1" />
   </programme>
-  <programme start="20201024180001 -0400" stop="20201024175200 -0400" channel="StayAtHome TV">
-    <title lang="en">Borat Subsequent Moviefilm (2020)</title>
-    <desc lang="en">Follow-up film to the 2006 comedy centering on the real-life adventures of a fictional Kazakh television journalist named Borat</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg4NDgxMmEtZWI1ZC00MDg3LTgyMDEtNTgwODU2YTVhN2RmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201024175201 -0400" stop="20201024194200 -0400" channel="StayAtHome TV">
+  <programme start="20201024171800 -0400" stop="20201024191000 -0400" channel="StayAtHome TV">
     <title lang="en">The Incredible Hulk (2008)</title>
     <desc lang="en">Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper</desc>
     <category lang="en">Action, Adventure</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201024194201 -0400" stop="20201024213000 -0400" channel="StayAtHome TV">
+  <programme start="20201024191001 -0400" stop="20201024210200 -0400" channel="StayAtHome TV">
     <title lang="en">Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)</title>
     <desc lang="en">After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord</desc>
     <category lang="en">Action, Adventure</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201024213001 -0400" stop="20201025235959 -0400" channel="StayAtHome TV">
+  <programme start="20201024210201 -0400" stop="20201025235959 -0400" channel="StayAtHome TV">
     <title lang="en">\\ TBD //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
