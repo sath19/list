@@ -20,16 +20,16 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:0 tvg-name="Redbox Filmrise" tvg-logo="https://moneyinc.com/wp-content/uploads/2018/11/Redbox-2.jpg" group-title="",Redbox Filmrise
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
-#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="00000000000000000000000" group-title="",Discovery
+#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="https://nocable.org/wp-content/uploads/2020/04/discovery-600x375.png" group-title="",Discovery
 #EXTVLCOPT:network-caching=1000
 http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
-#EXTINF:0 tvg-name="Olympic Channel" tvg-logo="00000000000000000000000" group-title="",Olympic Channel
+#EXTINF:0 tvg-name="Olympic Channel" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587514443_2937.jpg" group-title="",Olympic Channel
 #EXTVLCOPT:network-caching=1000
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:0 tvg-name="Stadium" tvg-logo="00000000000000000000000" group-title="",Stadium
+#EXTINF:0 tvg-name="Stadium" tvg-logo="https://stadiumsurvey.com/wp-content/uploads/2018/10/STADIUM-LOGO_HORZ-NEW-FONT-FINAL_000001.pn" group-title="",Stadium
 #EXTVLCOPT:network-caching=1000
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 tvg-name="WOW TV" tvg-logo="00000000000000000000000" group-title="",WOW TV
+#EXTINF:0 tvg-name="WOW TV" tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="",WOW TV
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
