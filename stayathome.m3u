@@ -34,7 +34,7 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0 tvg-name="Global Canada" tvg-logo="http://channelguides.ca/images/global.png" group-title="",Global Canada
+#EXTINF:0 tvg-name="Global News" tvg-logo="http://channelguides.ca/images/global.png" group-title="",Global News
 #EXTVLCOPT:network-caching=1000
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:0 tvg-name="Vivid TV Europe (18+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="",Vivid TV Europe(18+)
