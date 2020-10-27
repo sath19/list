@@ -5,67 +5,37 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201023163000 -0400" stop="20201023175100 -0400" channel="StayAtHome TV">
-    <title lang="en">Lights Out (2016)</title>
-    <desc lang="en">Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother</desc>
-    <category lang="en">Drama, Comedy</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg1OTkxNDgyMV5BMl5BanBnXkFtZTgwMjEzNTc0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201023175300 -0400" stop="20201023192400 -0400" channel="StayAtHome TV">
-    <title lang="en">It Comes at Night (2017)</title>
-    <desc lang="en">Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son. Then a desperate young family arrives seeking refuge</desc>
+  <programme start="20201027191500 -0400" stop="20201027204900 -0400" channel="StayAtHome TV">
+    <title lang="en">The Babadook (2014)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
     <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201023192600 -0400" stop="20201023205700 -0400" channel="StayAtHome TV">
-    <title lang="en">The Void (2016)</title>
-    <desc lang="en">Shortly after delivering a patient to an understaffed hospital, a police officer experiences strange and violent occurrences seemingly linked to a group of mysterious hooded figures</desc>
-    <category lang="en">Horror, Sci-Fi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201027205100 -0400" stop="20201027221900 -0400" channel="StayAtHome TV">
+    <title lang="en">Dead Snow (2009)</title>
+    <desc lang="en">A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201023210400 -0400" stop="20201023230900 -0400" channel="StayAtHome TV">
-    <title lang="en">Silent Hill (2006)</title>
-    <desc lang="en">A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill</desc>
+  <programme start="20201027222200 -0400" stop="20201027235000 -0400" channel="StayAtHome TV">
+    <title lang="en">Martyrs (2008)</title>
+    <desc lang="en">A young woman's quest for revenge against the people who kidnapped and tormented her as a child leads her and a friend, who is also a victim of child abuse, on a terrifying journey into a living hell of depravity</desc>
     <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWQzNTU3NGUtNDAxMi00ZjFjLTkyYWUtYjgwZDJiMDljZWY4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BYTY0NTZlZjYtNWRmZi00MGRjLTk4ZDctMjE4NjBiZTUyNGNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201023232400 -0400" stop="20201024005900 -0400" channel="StayAtHome TV">
-    <title lang="en">Silent Hill: Revelation (2012)</title>
-    <desc lang="en">When her adoptive father disappears, Sharon Da Silva is drawn into a strange and terrifying alternate reality that holds answers to the horrific nightmares that have plagued her since childhood</desc>
+  <programme start="20201027235001 -0400" stop="20201028011500 -0400" channel="StayAtHome TV">
+    <title lang="en">The Babadook (2014)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
     <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYjBkMjU0NWEtZjY5MS00YWYwLTljMmYtM2IzYTQ0NGU2YzAzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201024010100 -0400" stop="20201024023300 -0400" channel="StayAtHome TV">
-    <title lang="en">Friend Request (2016)</title>
-    <desc lang="en">When a college student unfriends a mysterious girl online, she finds herself fighting a demonic presence that wants to make her lonely by killing her closest friends</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNGFhZjQ5OTEtY2FlMy00OWM5LTlkYjAtZGUyNTE2YmVkYjc0XkEyXkFqcGdeQXVyNjkwMzU3NDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201028011501 -0400" stop="20201028030000 -0400" channel="StayAtHome TV">
+    <title lang="en">Dead Snow (2009)</title>
+    <desc lang="en">A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201024023301 -0400" stop="20201024120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ REPEAT //</title>
-    <desc lang="en"></desc>
-    <category lang="en"></category>
-    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
-  </programme>
-  <programme start="20201024140000 -0400" stop="20201024180000 -0400" channel="StayAtHome TV">
-    <title lang="en">UFC 254: Khabib vs Gaethje</title>
-    <desc lang="en">UFC 254: Khabib vs. Gaethje is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take place on October 24, 2020 at the Flash Forum on Yas Island, Abu Dhabi, United Arab Emirates</desc>
-    <category lang="en">Martial Arts</category>
-    <icon src="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_xl/s3/2020-09/UFC-254-Hero_0.jpg?guAb2MWBXWFAnaYyhnYn1sMMvvAguIBY&h=d1cb525d&itok=AigbIVL1" />
-  </programme>
-  <programme start="20201024171800 -0400" stop="20201024191000 -0400" channel="StayAtHome TV">
-    <title lang="en">The Incredible Hulk (2008)</title>
-    <desc lang="en">Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper</desc>
-    <category lang="en">Action, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201024191001 -0400" stop="20201024210200 -0400" channel="StayAtHome TV">
-    <title lang="en">Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)</title>
-    <desc lang="en">After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord</desc>
-    <category lang="en">Action, Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201024210201 -0400" stop="20201025235959 -0400" channel="StayAtHome TV">
+  <programme start="20201028030001 -0400" stop="20201028120000 -0400" channel="StayAtHome TV">
     <title lang="en">\\ TBD //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
