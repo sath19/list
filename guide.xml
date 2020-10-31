@@ -5,38 +5,74 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201027191500 -0400" stop="20201027204900 -0400" channel="StayAtHome TV">
-    <title lang="en">The Babadook (2014)</title>
+  <programme start="20201030215000 -0400" stop="20201030232700 -0400" channel="StayAtHome TV">
+    <title lang="en">Oculus (2013)</title>
     <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
     <category lang="en">Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201027205100 -0400" stop="20201027221900 -0400" channel="StayAtHome TV">
+  <programme start="20201030232900 -0400" stop="20201031014500 -0400" channel="StayAtHome TV">
+    <title lang="en">It (2017)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031014501 -0400" stop="20201031043500 -0400" channel="StayAtHome TV">
+    <title lang="en">It: Chapter Two (2019)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031043501 -0400" stop="20201031062200 -0400" channel="StayAtHome TV">
+    <title lang="en">Get Out (2017)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031062201 -0400" stop="20201031083100 -0400" channel="StayAtHome TV">
+    <title lang="en">Hereditary (2018)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031083101 -0400" stop="20201031095900 -0400" channel="StayAtHome TV">
     <title lang="en">Dead Snow (2009)</title>
     <desc lang="en">A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies</desc>
     <category lang="en">Comedy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201027222200 -0400" stop="20201027235000 -0400" channel="StayAtHome TV">
+  <programme start="20201031100000 -0400" stop="20201031130000 -0400" channel="StayAtHome TV">
+    <title lang="en">Doctor Sleep (2019)</title>
+    <desc lang="en">A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies</desc>
+    <category lang="en">Comedy, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031130001 -0400" stop="20201031145000 -0400" channel="StayAtHome TV">
+    <title lang="en">Sinister (2012)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031145200 -0400" stop="20201031162600 -0400" channel="StayAtHome TV">
+    <title lang="en">The Forest (2016)</title>
+    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
+    <category lang="en">Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201031162700 -0400" stop="20201031180700 -0400" channel="StayAtHome TV">
     <title lang="en">Martyrs (2008)</title>
     <desc lang="en">A young woman's quest for revenge against the people who kidnapped and tormented her as a child leads her and a friend, who is also a victim of child abuse, on a terrifying journey into a living hell of depravity</desc>
     <category lang="en">Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BYTY0NTZlZjYtNWRmZi00MGRjLTk4ZDctMjE4NjBiZTUyNGNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201027235001 -0400" stop="20201028011500 -0400" channel="StayAtHome TV">
-    <title lang="en">The Babadook (2014)</title>
-    <desc lang="en">A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home</desc>
-    <category lang="en">Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201028011501 -0400" stop="20201028030000 -0400" channel="StayAtHome TV">
-    <title lang="en">Dead Snow (2009)</title>
+  <programme start="20201031180701 -0400" stop="20201031194100 -0400" channel="StayAtHome TV">
+    <title lang="en">The Witch (2015)</title>
     <desc lang="en">A ski vacation turns horrific for a group of medical students, as they find themselves confronted by an unimaginable menace: Nazi zombies</desc>
     <category lang="en">Comedy, Horror</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMzZiM2FhOTUtZTE4My00ZDNlLWEyZWItZDBiNDFjZDk2MWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201028030001 -0400" stop="20201028120000 -0400" channel="StayAtHome TV">
-    <title lang="en">\\ TBD //</title>
+  <programme start="20201031194101 -0400" stop="20201031235959 -0400" channel="StayAtHome TV">
+    <title lang="en">\\ REPEAT //</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
