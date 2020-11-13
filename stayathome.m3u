@@ -47,14 +47,12 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:0 tvg-name="ITV 2" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv2_hd.jpg" group-title="",ITV 2
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/005
-#EXTINF:0 tvg-name="ITV 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="",ITV 4
+#EXTINF:0 tvg-name="ITV 3" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="",ITV 3
 #EXTVLCOPT:network-caching=1000
-http://51.52.156.22:8888/http/005
+http://51.52.156.22:8888/http/006
 #EXTINF:0 tvg-name="Film 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/film4.jpg" group-title="",Film 4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/008
-#EXTINF:0 tvg-name="TCM" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tcm_uk.jpg" group-title="",TCM
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/c23ac9d91bc460f.m3u8
 #EXTINF:0 tvg-name="-------International TV-------" tvg-logo="https://img.favpng.com/12/15/1/flags-of-the-world-globe-flag-of-earth-png-favpng-j0v6NxqZAb0kmubwrLnMe5ZU4.jpg" group-title="",-------International TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="HBO Russia (ENG)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="",HBO Russia (ENG)
