@@ -13,7 +13,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:0,CBS (WFOR) (US)
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/bloomberg_tv_us.jpg" group-title="",Bloomberg TV
+#EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1200px-Bloomberg_Television_logo.svg.png" group-title="",Bloomberg TV
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-name="Redbox Filmrise" tvg-logo="https://moneyinc.com/wp-content/uploads/2018/11/Redbox-2.jpg" group-title="",Redbox Filmrise
