@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
+#EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
+http://radio.7chan.org:8000/CH7
 #EXTINF:0 tvg-name="------Canada/US------" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/canus.png" group-title="",------Canada/US-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0, tvg-name="CBC News Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_news_network.jpg" group-title="",CBC News Network
@@ -45,20 +47,21 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:0 tvg-name="ITV 2" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv2_hd.jpg" group-title="",ITV 2
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/005
+#EXTINF:0 tvg-name="-------International TV-------" tvg-logo="https://img.favpng.com/12/15/1/flags-of-the-world-globe-flag-of-earth-png-favpng-j0v6NxqZAb0kmubwrLnMe5ZU4.jpg" group-title="",-------International TV-------
+rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="HBO Russia (ENG)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="",HBO Russia (ENG)
 #EXTVLCOPT:network-caching=1000
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:0 tvg-name="WOW TV" tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="",WOW TV
+#EXTINF:0 tvg-name="WOW TV (ESP)" tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg" group-title="",WOW TV (ESP)
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
-http://radio.7chan.org:8000/CH7
+#EXTINF:0,CGTN (Opt-1) (CN)
+#EXTVLCOPT:network-caching=1000
+http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-name="OttoFM | Anni 80" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10993g.png" group-title="",OttoFM | Anni 80
 #EXTVLCOPT:network-caching=2000
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8?streamType=live
 #EXTINF:0 tvg-name="Retro Music TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="",Retro Music TV
 #EXTVLCOPT:network-caching=2000
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,CGTN (Opt-1) (CN)
-#EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/500/prog_index.m3u8
+
