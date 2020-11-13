@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
-#EXTINF:0 tvg-name="---Canada/US---" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/canus.png" group-title="",---Canada/US---
+#EXTINF:0 tvg-name="------Canada/US------" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/canus.png" group-title="",------Canada/US-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0, tvg-name="CBC News Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbc_news_network.jpg" group-title="",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
@@ -28,7 +28,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:0 tvg-name="Redbull TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="",Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0 tvg-name="---British TV---" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/UK.png" group-title="",---British TV---
+#EXTINF:0 tvg-name="-------British TV-------" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/UK.png" group-title="",-------British TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="BBC 1 Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BBC_One_Scotland.svg/400px-BBC_One_Scotland.svg.png" group-title="",BBC 1 Scotland
 #EXTVLCOPT:network-caching=1000
