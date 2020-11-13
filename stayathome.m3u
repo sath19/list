@@ -37,7 +37,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="Channel 5" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="",Channel 5
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.m3u8
+http://34.65.158.151:7887/uk2020/CH5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMCA1OjI1OjAwIFBNJmhhc2hfdmFsdWU9VDNCK0Y2NDg2czdFRFo2SU1neGp6UT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0 tvg-name="BBC 1 Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BBC_One_Scotland.svg/400px-BBC_One_Scotland.svg.png" group-title="",BBC 1 Scotland
 #EXTVLCOPT:network-caching=1000
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
