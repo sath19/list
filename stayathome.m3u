@@ -53,6 +53,9 @@ http://51.52.156.22:8888/http/005
 #EXTINF:0 tvg-name="DAVE" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/dave_uktv.jpg" group-title="",DAVE
 #EXTVLCOPT:network-caching=1000
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/2267b50d1454491.m3u8
+#EXTINF:0 tvg-name="TCM" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tcm_uk.jpg" group-title="",TCM
+#EXTVLCOPT:network-caching=1000
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/c23ac9d91bc460f.m3u8
 #EXTINF:0 tvg-name="-------International TV-------" tvg-logo="https://img.favpng.com/12/15/1/flags-of-the-world-globe-flag-of-earth-png-favpng-j0v6NxqZAb0kmubwrLnMe5ZU4.jpg" group-title="",-------International TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="HBO Russia (ENG)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="",HBO Russia (ENG)
