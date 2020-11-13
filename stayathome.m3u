@@ -53,6 +53,9 @@ http://51.52.156.22:8888/http/006
 #EXTINF:0 tvg-name="Film 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/film4.jpg" group-title="",Film 4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/008
+#EXTINF:0 tvg-name="PBS America" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/film4.jpg" group-title="",PBS America
+#EXTVLCOPT:network-caching=1000
+http://51.52.156.22:8888/http/012
 #EXTINF:0 tvg-name="-------International TV-------" tvg-logo="https://img.favpng.com/12/15/1/flags-of-the-world-globe-flag-of-earth-png-favpng-j0v6NxqZAb0kmubwrLnMe5ZU4.jpg" group-title="",-------International TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="HBO Russia (ENG)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="",HBO Russia (ENG)
