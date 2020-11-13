@@ -38,9 +38,9 @@ rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="Channel 5" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="",Channel 5
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:24,08ca91f7f84bd3b.m3u8
+#EXTINF:W
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/82085b207de963c.m3u8
 
 #EXTINF:0 tvg-name="BBC 1 Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BBC_One_Scotland.svg/400px-BBC_One_Scotland.svg.png" group-title="",BBC 1 Scotland
 #EXTVLCOPT:network-caching=1000
