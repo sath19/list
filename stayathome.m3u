@@ -62,6 +62,3 @@ http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,CGTN (Opt-1) (CN)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0 tvg-name="Vivid TV Europe (18+)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="",Vivid TV Europe(18+)
-#EXTVLCOPT:network-caching=1000
-http://188.35.9.26:2031/udp/031a
