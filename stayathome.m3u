@@ -25,7 +25,7 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:0 tvg-name="Stadium" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="",Stadium
 #EXTVLCOPT:network-caching=1000
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:0 tvg-name="Bloomberg Television" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="",Bloomberg TV
+#EXTINF:0 tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/Bloomberg.png" group-title="",Bloomberg TV
 #EXTVLCOPT:network-caching=1000
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-name="Redbull TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="",Redbull TV
