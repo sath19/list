@@ -36,6 +36,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-name="BBC America" tvg-logo="empty" group-title="",BBC America
 #EXTVLCOPT:network-caching=1000
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/3217bc96f1de257.m3u8
+#EXTINF:0 tvg-name="Paramount Network" tvg-logo="empty" group-title="",Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/ab25bb9c7f19904.m3u8
+#EXTINF:0 tvg-name="BBC Earth" tvg-logo="empty" group-title="",BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5adb83710b0ef6d.m3u8
 #EXTINF:0 tvg-name="-------British TV-------" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/UK.png" group-title="",-------British TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="BBC 1 Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BBC_One_Scotland.svg/400px-BBC_One_Scotland.svg.png" group-title="",BBC 1 Scotland
