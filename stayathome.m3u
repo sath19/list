@@ -50,7 +50,7 @@ http://51.52.156.22:8888/http/005
 #EXTINF:0 tvg-name="ITV 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/itv4.jpg" group-title="",ITV 4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/005
-#EXTINF:0 tvg-name="Film 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/dave_uktv.jpg" group-title="",Film 4
+#EXTINF:0 tvg-name="Film 4" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/film4.jpg" group-title="",Film 4
 #EXTVLCOPT:network-caching=1000
 http://51.52.156.22:8888/http/005
 #EXTINF:0 tvg-name="TCM" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tcm_uk.jpg" group-title="",TCM
