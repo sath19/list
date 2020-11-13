@@ -13,9 +13,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:0,CBS (WFOR) (US)
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1200px-Bloomberg_Television_logo.svg.png" group-title="",Bloomberg TV
-#EXTVLCOPT:network-caching=1000
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-name="Redbox Filmrise" tvg-logo="https://moneyinc.com/wp-content/uploads/2018/11/Redbox-2.jpg" group-title="",Redbox Filmrise
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
@@ -25,6 +22,9 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:0 tvg-name="Stadium" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="",Stadium
 #EXTVLCOPT:network-caching=1000
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0 tvg-name="Bloomberg Television (US)" tvg-logo=https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="",Bloomberg TV
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-name="Redbull TV" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg" group-title="",Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
