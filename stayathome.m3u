@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" group-title="",StayAtHome TV
+#EXTINF:0 tvg-name="StayAtHome TV" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/stayathome-snow.png" group-title="",StayAtHome TV
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="Channel 7" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/7chan_logo.png" group-title="",Channel 7
 http://radio.7chan.org:8000/CH7
