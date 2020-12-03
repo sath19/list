@@ -39,18 +39,21 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/3217bc96f1de257.m
 #EXTINF:0 tvg-name="Paramount Network" tvg-logo="empty" group-title="",Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/ab25bb9c7f19904.m3u8
-#EXTINF:0 tvg-name="BBC Earth" tvg-logo="empty" group-title="",BBC Earth
+#EXTINF:0 tvg-name="Sundance" tvg-logo="empty" group-title="",Sundance
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5adb83710b0ef6d.m3u8
-#EXTINF:0 tvg-name="AMC" tvg-logo="empty" group-title="",AMC
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/880df0861d2f0b8.m3u8
+#EXTINF:0 tvg-name="Travel Channel" tvg-logo="empty" group-title="",Travel Channel
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/68caef2d264729a.m3u8
-#EXTINF:0 tvg-name="SPACE" tvg-logo="empty" group-title="",SPACE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/07007d40e286e36.m3u8
+#EXTINF:0 tvg-name="Discovery Life" tvg-logo="empty" group-title="",Discovery Life
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c6c9e1c9d29a952.m3u8
-#EXTINF:0 tvg-name="Bravo" tvg-logo="empty" group-title="",Bravo
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/2502ba7a4b09359.m3u8
+#EXTINF:0 tvg-name="Discovery Family" tvg-logo="empty" group-title="",Discovery Family
 #EXTVLCOPT:network-caching=1000
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/945a987e2a0b1a1.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/956aad7c000e1fd.m3u8
+#EXTINF:0 tvg-name="Nicktoons" tvg-logo="empty" group-title="",Nicktoons
+#EXTVLCOPT:network-caching=1000
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Usa/792e72e062a6437.m3u8
 #EXTINF:0 tvg-name="-------British TV-------" tvg-logo="https://raw.githubusercontent.com/sath19/list/master/image/UK.png" group-title="",-------British TV-------
 rtmp://freetime.ignorelist.com/live/sath
 #EXTINF:0 tvg-name="BBC 1 Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BBC_One_Scotland.svg/400px-BBC_One_Scotland.svg.png" group-title="",BBC 1 Scotland
