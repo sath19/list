@@ -5,35 +5,53 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201203173000 -0500" stop="20201203185600 -0500" channel="StayAtHome TV">
-    <title lang="en">All I Want for Christmas (1991)</title>
-    <desc lang="en">A brother and sister attempt to bring their divorced parents back together for Christmas</desc>
-    <category lang="en">Family</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk3MjZhN2EtYzZmYi00OWQ5LWE0NzQtNTIxYWNhNmE0N2EzXkEyXkFqcGdeQXVyMjczOTU2NTI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201211170000 -0500" stop="20201211190700 -0500" channel="StayAtHome TV">
+    <title lang="en">Life of Pi (2012)</title>
+    <desc lang="en">A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger</desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201211190800 -0500" stop="20201203185600 -0500" channel="StayAtHome TV">
+    <title lang="en">Blade Runner (1982)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201203185601 -0500" stop="20201203203300 -0500" channel="StayAtHome TV">
-    <title lang="en">The Santa Clause (1994)</title>
-    <desc lang="en">When a man inadvertently makes Santa fall off of his roof on Christmas Eve, he finds himself magically recruited to take his place</desc>
-    <category lang="en">Family</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <title lang="en">Blade Runner 2049 (2017)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Action</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201203185601 -0500" stop="20201203203300 -0500" channel="StayAtHome TV">
+    <title lang="en">A Very Harold & Kumar Christmas (2011)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Adventure</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzA1NTQzMjAyOV5BMl5BanBnXkFtZTcwNDcyMjY2Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201203203400 -0500" stop="20201203221900 -0500" channel="StayAtHome TV">
-    <title lang="en">The Santa Clause 2 (2002)</title>
-    <desc lang="en">Scott Calvin has been a humble Santa Claus for nearly ten years, but it might come to an end if he doesn't find a Mrs. Claus</desc>
-    <category lang="en">Family</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjU0Njk5MTA2Nl5BMl5BanBnXkFtZTYwODkzMzQ3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <title lang="en">Color Out of Space (2019)</title>
+    <desc lang="en">A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world</desc>
+    <category lang="en">Horror, Sci-Fi</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201203221901 -0500" stop="20201203235800 -0500" channel="StayAtHome TV">
-    <title lang="en">The Shop Around the Corner (1940)</title>
-    <desc lang="en">Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal</desc>
-    <category lang="en">Family</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzc1MTcyNTQ5N15BMl5BanBnXkFtZTgwMzgwMDI0MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <title lang="en">Ava (2020)</title>
+    <desc lang="en">Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival</desc>
+    <category lang="en">Action, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201203235801 -0500" stop="20201204012400 -0500" channel="StayAtHome TV">
-    <title lang="en">All I Want for Christmas (1991)</title>
-    <desc lang="en">A brother and sister attempt to bring their divorced parents back together for Christmas</desc>
-    <category lang="en">Family</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk3MjZhN2EtYzZmYi00OWQ5LWE0NzQtNTIxYWNhNmE0N2EzXkEyXkFqcGdeQXVyMjczOTU2NTI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <title lang="en">The Deeper You Dig (2019)</title>
+    <desc lang="en">In the aftermath of a roadside accident, the line between the living and the dead collapses for a mother, a daughter and a stranger</desc>
+    <category lang="en">Drama, Horror</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNTRjNjc4YWItYjRmYy00NGQxLThjODUtOWUzYWEwMTkzODRmXkEyXkFqcGdeQXVyMTUxNDMwMDM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201203235801 -0500" stop="20201204012400 -0500" channel="StayAtHome TV">
+    <title lang="en">Scott and Sid (2018)</title>
+    <desc lang="en">From their first encounter as teenagers in high school, Scott and Sid seem unlikely friends. Scott is a shambolic dreamer, intent on carving out his own path in life and holding up a metaphorical middle finger to anyone who tries to stop him</desc>
+    <category lang="en">Comedy, Drama</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjY2NjUxZmQtNDI3Ny00YmUxLWI3YTctZWM1NTQwZWQ1M2Q5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201204012401 -0500" stop="20201204180000 -0500" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT or OFFLINE//</title>
