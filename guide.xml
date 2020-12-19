@@ -5,29 +5,29 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201211170000 -0500" stop="20201211190700 -0500" channel="StayAtHome TV">
-    <title lang="en">Life of Pi (2012)</title>
-    <desc lang="en">A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201211190800 -0500" stop="20201211210600 -0500" channel="StayAtHome TV">
-    <title lang="en">Blade Runner (1982)</title>
+  <programme start="20201219131300 -0500" stop="20201219144600 -0500" channel="StayAtHome TV">
+    <title lang="en">Where the #$&% Is Santa? (2008)</title>
     <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ5MDMzNjk5Nl5BMl5BanBnXkFtZTgwNDI4MjA2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201211210700 -0500" stop="20201211235000 -0500" channel="StayAtHome TV">
-    <title lang="en">Blade Runner 2049 (2017)</title>
+  <programme start="20201219144800 -0500" stop="20201219162500 -0500" channel="StayAtHome TV">
+    <title lang="en">The Santa Clause (1994)</title>
     <desc lang="en"></desc>
-    <category lang="en">Action</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201211235001 -0500" stop="20201212012700 -0500" channel="StayAtHome TV">
-    <title lang="en">A Very Harold & Kumar Christmas (2011)</title>
+  <programme start="20201219162700 -0500" stop="20201219181200 -0500" channel="StayAtHome TV">
+    <title lang="en">The Santa Clause 2 (2002)</title>
     <desc lang="en"></desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzA1NTQzMjAyOV5BMl5BanBnXkFtZTcwNDcyMjY2Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjU0Njk5MTA2Nl5BMl5BanBnXkFtZTYwODkzMzQ3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201219181400 -0500" stop="20201219194500 -0500" channel="StayAtHome TV">
+    <title lang="en">Surviving Christmas (2004)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTI4MTY3Ml5BMl5BanBnXkFtZTcwOTUzMjcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
   <programme start="20201203203400 -0500" stop="20201203221900 -0500" channel="StayAtHome TV">
     <title lang="en">Color Out of Space (2019)</title>
