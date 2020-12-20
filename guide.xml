@@ -5,55 +5,73 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201219131300 -0500" stop="20201219144600 -0500" channel="StayAtHome TV">
-    <title lang="en">Where the #$&% Is Santa? (2008)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTQ5MDMzNjk5Nl5BMl5BanBnXkFtZTgwNDI4MjA2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201219144800 -0500" stop="20201219162500 -0500" channel="StayAtHome TV">
-    <title lang="en">The Santa Clause (1994)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201219162700 -0500" stop="20201219181200 -0500" channel="StayAtHome TV">
-    <title lang="en">The Santa Clause 2 (2002)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjU0Njk5MTA2Nl5BMl5BanBnXkFtZTYwODkzMzQ3._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201219181400 -0500" stop="20201219194500 -0500" channel="StayAtHome TV">
+  <programme start="20201220150000 -0500" stop="20201220163100 -0500" channel="StayAtHome TV">
     <title lang="en">Surviving Christmas (2004)</title>
     <desc lang="en"></desc>
     <category lang="en">Christmas</category>
     <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTI4MTY3Ml5BMl5BanBnXkFtZTcwOTUzMjcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201203203400 -0500" stop="20201203221900 -0500" channel="StayAtHome TV">
-    <title lang="en">Color Out of Space (2019)</title>
-    <desc lang="en">A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world</desc>
-    <category lang="en">Horror, Sci-Fi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201220163200 -0500" stop="20201220182800 -0500" channel="StayAtHome TV">
+    <title lang="en">Fred Claus (2007)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTY0NDEwNzc0N15BMl5BanBnXkFtZTcwNjgxNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201203221901 -0500" stop="20201203235800 -0500" channel="StayAtHome TV">
-    <title lang="en">Ava (2020)</title>
-    <desc lang="en">Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival</desc>
-    <category lang="en">Action, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201220182900 -0500" stop="20201220201400 -0500" channel="StayAtHome TV">
+    <title lang="en">How the Grinch Stole Christmas (2000)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201203235801 -0500" stop="20201204012400 -0500" channel="StayAtHome TV">
-    <title lang="en">The Deeper You Dig (2019)</title>
-    <desc lang="en">In the aftermath of a roadside accident, the line between the living and the dead collapses for a mother, a daughter and a stranger</desc>
-    <category lang="en">Drama, Horror</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNTRjNjc4YWItYjRmYy00NGQxLThjODUtOWUzYWEwMTkzODRmXkEyXkFqcGdeQXVyMTUxNDMwMDM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  <programme start="20201220201500 -0500" stop="20201220204100 -0500" channel="StayAtHome TV">
+    <title lang="en">Frosty the Snowman (1969)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMjI1ODg4OTExOV5BMl5BanBnXkFtZTcwNjI2MTIwMw@@._V1_UY268_CR4,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201203235801 -0500" stop="20201204012400 -0500" channel="StayAtHome TV">
-    <title lang="en">Scott and Sid (2018)</title>
-    <desc lang="en">From their first encounter as teenagers in high school, Scott and Sid seem unlikely friends. Scott is a shambolic dreamer, intent on carving out his own path in life and holding up a metaphorical middle finger to anyone who tries to stop him</desc>
-    <category lang="en">Comedy, Drama</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjY2NjUxZmQtNDI3Ny00YmUxLWI3YTctZWM1NTQwZWQ1M2Q5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg" />
+  <programme start="20201220204200 -0500" stop="20201220222400 -0500" channel="StayAtHome TV">
+    <title lang="en">The Night Before (2015)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNDY1ODQwNV5BMl5BanBnXkFtZTgwNzA2MjUwNzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
   </programme>
-  <programme start="20201204012401 -0500" stop="20201204180000 -0500" channel="StayAtHome TV">
+  <programme start="20201220222500 -0500" stop="20201221001600 -0500" channel="StayAtHome TV">
+    <title lang="en">Office Christmas Party (2016)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzgyZjE1MjUtYjFjZS00NzMzLWFmNWMtMDJjNGY0ZTgwYjc3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_UY268_CR1,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221001600 -0500" stop="20201221015000 -0500" channel="StayAtHome TV">
+    <title lang="en">A Christmas Story (1983)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221015100 -0500" stop="20201221020700 -0500" channel="StayAtHome TV">
+    <title lang="en">Treevenge (2008)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTgyNzkzOTcxNV5BMl5BanBnXkFtZTcwNjc0NDA4OA@@._V1_UY268_CR14,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221020900 -0500" stop="20201221035200 -0500" channel="StayAtHome TV">
+    <title lang="en">Home Alone (1990)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221035300 -0500" stop="20201221055300 -0500" channel="StayAtHome TV">
+    <title lang="en">Home Alone 2: Lost in New York (1992)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221055500 -0500" stop="20201221073100 -0500" channel="StayAtHome TV">
+    <title lang="en">Elf (2003)</title>
+    <desc lang="en"></desc>
+    <category lang="en">Christmas</category>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+  </programme>
+  <programme start="20201221073101 -0500" stop="20201221120000 -0500" channel="StayAtHome TV">
     <title lang="en">\\ REPEAT or OFFLINE//</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
