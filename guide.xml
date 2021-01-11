@@ -5,60 +5,6 @@
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
     <url>http://www.google.com</url>
   </channel>
-  <programme start="20201220150000 -0500" stop="20201220163100 -0500" channel="StayAtHome TV">
-    <title lang="en">Surviving Christmas (2004)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTcwMTI4MTY3Ml5BMl5BanBnXkFtZTcwOTUzMjcyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201220163200 -0500" stop="20201220182800 -0500" channel="StayAtHome TV">
-    <title lang="en">Fred Claus (2007)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTY0NDEwNzc0N15BMl5BanBnXkFtZTcwNjgxNzUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201220182900 -0500" stop="20201220201400 -0500" channel="StayAtHome TV">
-    <title lang="en">How the Grinch Stole Christmas (2000)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201220201500 -0500" stop="20201220204100 -0500" channel="StayAtHome TV">
-    <title lang="en">Frosty the Snowman (1969)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMjI1ODg4OTExOV5BMl5BanBnXkFtZTcwNjI2MTIwMw@@._V1_UY268_CR4,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201220204200 -0500" stop="20201220222400 -0500" channel="StayAtHome TV">
-    <title lang="en">The Night Before (2015)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTkyNDY1ODQwNV5BMl5BanBnXkFtZTgwNzA2MjUwNzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201220222500 -0500" stop="20201221001600 -0500" channel="StayAtHome TV">
-    <title lang="en">Office Christmas Party (2016)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzgyZjE1MjUtYjFjZS00NzMzLWFmNWMtMDJjNGY0ZTgwYjc3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_UY268_CR1,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201221001600 -0500" stop="20201221015000 -0500" channel="StayAtHome TV">
-    <title lang="en">A Christmas Story (1983)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201221015100 -0500" stop="20201221020700 -0500" channel="StayAtHome TV">
-    <title lang="en">Treevenge (2008)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTgyNzkzOTcxNV5BMl5BanBnXkFtZTcwNjc0NDA4OA@@._V1_UY268_CR14,0,182,268_AL_.jpg" />
-  </programme>
-  <programme start="20201221020900 -0500" stop="20201221035200 -0500" channel="StayAtHome TV">
-    <title lang="en">Home Alone (1990)</title>
-    <desc lang="en"></desc>
-    <category lang="en">Christmas</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" />
-  </programme>
   <programme start="20201221035300 -0500" stop="20201221055300 -0500" channel="StayAtHome TV">
     <title lang="en">Home Alone 2: Lost in New York (1992)</title>
     <desc lang="en"></desc>
@@ -75,6 +21,24 @@
     <title lang="en">\\ REPEAT or OFFLINE//</title>
     <desc lang="en"></desc>
     <category lang="en"></category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20210111180000 -0500" stop="20210111220000 -0500" channel="StayAtHome TV">
+    <title lang="en">https://tinyurl.com/sathtv</title>
+    <desc lang="en">Visit the link to view the lineup</desc>
+    <category lang="en">Information</category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20210111220001 -0500" stop="20210112060000 -0500" channel="StayAtHome TV">
+    <title lang="en">https://tinyurl.com/sathtv</title>
+    <desc lang="en">Visit the link to view the lineup</desc>
+    <category lang="en">Information</category>
+    <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
+  </programme>
+  <programme start="20210112060001 -0500" stop="20210112140000 -0500" channel="StayAtHome TV">
+    <title lang="en">https://tinyurl.com/sathtv</title>
+    <desc lang="en">Visit the link to view the lineup</desc>
+    <category lang="en">Information</category>
     <icon src="https://seeklogo.com/images/S/stay-home-logo-616E3197E7-seeklogo.com.png" />
   </programme>
  </tv>
